@@ -1,0 +1,4 @@
+# PROMULGADA EM 10 DE OUTUBRO DE 2012.
+PREÂMBULO
+Nós, Vereadores à Câmara Municipal de Petrópolis, reunidos em Assembléia Organizacional, no pleno exercício dos poderes que nos foram outorgados pelo parágrafo único do artigo 11 do Ato das Disposições Transitórias da Constituição da República Federativa do Brasil, promulgada em 05 de outubro de 1988, repetido no artigo 21 do Ato das Disposições Transitórias da Constituição do Estado do Rio de Janeiro, promulgada em 05 de outubro de 1989, e de inteiro acordo com a vontade política dos cidadãos deste Município na construção de uma ordem jurídica democrática para a proteção e observância dos direitos assegurados pela Carta Magna da Nação a todos os seus habitantes, votamos, aprovamos e PROMULGAMOS, nos limites dos princípios constitucionais e sob a proteção de Deus, a presente LEI ORGÂNICA DO MUNICÍPIO DE PETRÓPOLIS.
+EMENDA À LEI ORGÂNICA MUNICIPAL Nº 025, DE 10/10/2012
