@@ -1,6 +1,6 @@
 # Petrópolis (city): law history in git
 
-The municipal law of the Município de Petrópolis (Rio de Janeiro) (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`,
+The municipal law of the Município de Petrópolis, Rio de Janeiro (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`,
 `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
