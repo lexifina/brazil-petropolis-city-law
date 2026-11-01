@@ -4,3 +4,4 @@ Private. Municipal tier, SAPL wave via global-law-main-composer. Source: Câmara
 - 2026-11-01T06:07:36Z: repo ready; PUBLISHed: 10-lei-organica.PUBLISH 
 - 2026-11-01T09:14:49Z: repo ready; PUBLISHed: 10-lei-organica.PUBLISH 30-leis-001.PUBLISH 30-leis-002.PUBLISH 30-leis-003.PUBLISH 
 - 2026-11-01T11:22:27Z: repo ready; PUBLISHed: 10-lei-organica.PUBLISH 30-leis-001.PUBLISH 30-leis-002.PUBLISH 30-leis-003.PUBLISH 30-leis-004.PUBLISH 30-leis-005.PUBLISH 
+- 2026-11-01T20:53:24Z: repo ready; PUBLISHed: 10-lei-organica.PUBLISH 30-leis-001.PUBLISH 30-leis-002.PUBLISH 30-leis-003.PUBLISH 30-leis-004.PUBLISH 30-leis-005.PUBLISH 30-leis-006.PUBLISH 30-leis-007.PUBLISH 
