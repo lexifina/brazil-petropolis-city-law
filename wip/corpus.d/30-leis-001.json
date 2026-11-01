@@ -1,0 +1,575 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "11 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-08910": {
+   "label": "Lei nº 8.910, de 17 de setembro de 2024",
+   "title": "DISPÕE SOBRA A DIVULGAÇÃO NO PORTAL DA TRANSPARÊNCIA DA PREFEITURA MUNICIPAL DE PETRÓPOLIS DAS INFORMAÇÕES SOBRE A CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA INSTITUÍDA PELA LEI MUNICIPAL 5.951 DE 27/12/2002.",
+   "kind": "law",
+   "enacted": "2024-09-17",
+   "published": "2024-09-17",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11647",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08909": {
+   "label": "Lei nº 8.909, de 17 de setembro de 2024",
+   "title": "Denomina \" Rua Joaquim de Andrade\" o logradouro público localizado após a Rua Aureliano Pires na altura do nº 641, na localidade denominada Santa Isabel, Bairro Caxambu, neste Município.",
+   "kind": "law",
+   "enacted": "2024-09-17",
+   "published": "2024-09-17",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11646",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08908": {
+   "label": "Lei nº 8.908, de 17 de setembro de 2024",
+   "title": "DENOMINA \"TRAVESSA MÁRIO ANTONIO FERREIRA\", O LOGRADOURO PÚBLICO COM APROXIMADAMENTE 120 METROS DE EXTENSÃO, QUE SE INICIA NA SERVIDÃO ANTONIO ALEXANDRE CORDEIRO, Nº 47 NO BAIRRO ROSEIRAL, 2º DISTRITO DE PETRÓPOLIS/RJ.",
+   "kind": "law",
+   "enacted": "2024-09-17",
+   "published": "2024-09-17",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11645",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08907": {
+   "label": "Lei nº 8.907, de 17 de setembro de 2024",
+   "title": "Altera o artigo 1º da Lei 4.640/1989.",
+   "kind": "law",
+   "enacted": "2024-09-17",
+   "published": "2024-09-17",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11644",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08901": {
+   "label": "Lei nº 8.901, de 6 de setembro de 2024",
+   "title": "Denomina como logradouro público no município de Petrópolis, a Rua H, no Loteamento Parque Bonclima, Bonsucesso.",
+   "kind": "law",
+   "enacted": "2024-09-06",
+   "published": "2024-09-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11638",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08900": {
+   "label": "Lei nº 8.900, de 6 de setembro de 2024",
+   "title": "DENOMINA SERVIDÃO ADÃO DIEGO RODRIGUES FERREIRA, o logradouro público localizado no Caminho da Ladeira, Boa Vista, Cascatinha - Petrópolis/RJ.",
+   "kind": "law",
+   "enacted": "2024-09-06",
+   "published": "2024-09-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11637",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08899": {
+   "label": "Lei nº 8.899, de 2 de setembro de 2024",
+   "title": "INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS A SEMANA MUNICIPAL DO DIAGNÓSTICO E PREVENÇÃO DAS DOENÇAS OCULARES E TESTE DE CORES ISHIHARA VISANDO O DIAGNÓSTICO DO DALTONISMO NOS ALUNOS DA REDE MUNICIPAL DE ENSINO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-09-02",
+   "published": "2024-09-02",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11636",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08894": {
+   "label": "Lei nº 8.894, de 26 de agosto de 2024",
+   "title": "Institui, no âmbito do Município de Petrópolis, o Dia do Capoeirista.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11631",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08852": {
+   "label": "Lei nº 8.852, de 26 de agosto de 2024",
+   "title": "\"ALTERA O ANEXO ÚNICO DA LEI MUNICIPAL Nº 7334, DE 23 DE JULHO DE 2015 E DÁ OUTRAS PROVIDÊNCIAS\".",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11589",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08882": {
+   "label": "Lei nº 8.882, de 16 de agosto de 2024",
+   "title": "DISPÕE SOBRE A DENOMINAÇÃO DO \"TERMINAL MAURINHO BRANCO\" LOCALIZADO NA ESTRADA PHILUVIO CERQUEIRA RODRIGUES, 3º DISTRITO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2024-08-16",
+   "published": "2024-08-16",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11619",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08881": {
+   "label": "Lei nº 8.881, de 16 de agosto de 2024",
+   "title": "DENOMINA RUA GANSO DOURADO O LOGRADOURO PÚBLICO, INICIANDO NA ESTRADA RETIRO DAS PEDRAS, EM PEDRO DO RIO, 4º DISTRITO DE PETÓPOLIS-RJ.",
+   "kind": "law",
+   "enacted": "2024-08-16",
+   "published": "2024-08-16",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11618",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-08910",
+   "short": "Lei 8910/2024",
+   "title": "Lei nº 8.910, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11647",
+   "first_law": "lei-2024-08910",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11647/lei_8910-2024.pdf",
+     "sha256": "337975f01c095a9941a2a50fef69af52b04168bc41dab52b44afc1403b4bebdb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.910, DE 17/09/2024 DISPÕE SOBRA A DIVULGAÇÃO NO PORTAL DA TRANSPARÊNCIA DA PREFEITURA MUNICIPAL DE PETRÓPOLIS DAS INFORMAÇÕES SOBRE A CONTRIBUIÇÃO DE ILUMINAÇÃO PÚBLICA INSTITUÍDA PELA LEI MUNICIPAL 5.951 DE 27/12/2002.\nPublicada em 17 de Setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Deverá ser publicado no Portal da Transparência, localizado no sítio oficial da Prefeitura Municipal de Petrópolis, as seguintes informações sobre a Contribuição de Iluminação Pública:\nI - Número total de contribuintes;\nII - Valor total arrecadado;\nIII - Número de pontos de luz atendidos;\nIV - Número de novos pontos de luz instalados;\nV - O saldo financeiro do período;\nVI - A destinação do saldo apresentado.\nParágrafo único. As informações descritas neste artigo deverão ser publicadas semestralmente, com os valores descriminados mês a mês.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A presente Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 17 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.910, de 17 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08909",
+   "short": "Lei 8909/2024",
+   "title": "Lei nº 8.909, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11646",
+   "first_law": "lei-2024-08909",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11646/lei_8909-2024.pdf",
+     "sha256": "dd0b3f2345d5a099f2330b2e4f2e32941ccbba4371e3ab12d60030f9935e8698",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.909, DE 17/09/2024 DENOMINA \"RUA JOAQUIM DE ANDRADE\" O LOGRADOURO PÚBLICO LOCALIZADO APÓS A RUA AURELIANO PIRES NA ALTURA DO Nº 641, NA LOCALIDADE DENOMINADA SANTA ISABEL, BAIRRO CAXAMBU, NESTE MUNICÍPIO.\nPublicada em 17 de setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"Rua Joaquim de Andrade\", o logradouro público localizado após a Rua Aureliano Pires na altura do nº 641 na localidade denominada Santa Isabel , Bairro Caxambu, neste Município com aproximadamente 400 metros de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 17 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.909, de 17 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08908",
+   "short": "Lei 8908/2024",
+   "title": "Lei nº 8.908, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11645",
+   "first_law": "lei-2024-08908",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11645/lei_8908-2024.pdf",
+     "sha256": "3613930b2b7a25847bff2be98d41fa249c1d91de15086832e021bc8cd7126513",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.908, DE 17/09/2024 DENOMINA \"TRAVESSA MÁRIO ANTONIO FERREIRA\", O LOGRADOURO PÚBLICO COM APROXIMADAMENTE 120 METROS DE EXTENSÃO, QUE SE INICIA NA SERVIDÃO ANTONIO ALEXANDRE CORDEIRO, Nº 47 NO BAIRRO ROSEIRAL, 2º DISTRITO DE PETRÓPOLIS/RJ.\nPublicada em 17 de setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada \"Travessa Mário Antonio Ferreira\", o logradouro público com aproximadamente 120 metros de extensão, que se inicia na Servidão Antonio Alexandre Cordeiro, nº 47 no bairro Roseiral, 2º Distrito de Petrópolis/RJ:\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Deverá comunicar o Núcleo Gestor de Dados Georreferenciados para identificação e lançamento do logradouro no sistema SIGWEB.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 17 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.908, de 17 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08907",
+   "short": "Lei 8907/2024",
+   "title": "Lei nº 8.907, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11644",
+   "first_law": "lei-2024-08907",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11644/lei_8907-2024.pdf",
+     "sha256": "71d36af6b6dbf3b386c4abbd43c38a923ae89c04092d4bf31b2d2ca61c63235f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.907, DE 17/09/2024 ALTERA O ARTIGO 1º DA LEI 4.640/1989.\nPublicada em 17 de setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterado o artigo 1º da Lei Municipal 4.640/1989, passando a vigorar com a seguinte redação:\n\"Art. 1º O Logradouro Público denominado Servidão Antonio Paulo Rodrigues, localizado no Bairro Samambaia, no 2º Distrito deste Município, passa a ter início no nº 424 da Rua Luiz Salomão Viana, com aproximadamente 225 metros de extensão.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 17 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.907, de 17 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08901",
+   "short": "Lei 8901/2024",
+   "title": "Lei nº 8.901, de 6 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11638",
+   "first_law": "lei-2024-08901",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11638/lei_8901-2024.pdf",
+     "sha256": "22763b6d7567dc087ba8ac97457c372451d6f712c643d10bb678ea55eb8dbdf1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.901, DE 06/09/2024 DENOMINA COMO LOGRADOURO PÚBLICO NO MUNICÍPIO DE PETRÓPOLIS, A RUA H, NO LOTEAMENTO PARQUE BONCLIMA, BONSUCESSO.\nPublicada em 06 de setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica oficializada a denominação da Rua H, o logradouro público, que tem início no fim da Rua G, em frente ao Lote 192, com aproximadamente, 360 metros de extensão, por 2,50m de largura, no Loteamento Parque Bonclima, Bonsucesso - Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 06 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.901, de 6 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08900",
+   "short": "Lei 8900/2024",
+   "title": "Lei nº 8.900, de 6 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11637",
+   "first_law": "lei-2024-08900",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11637/lei_8900-2024.pdf",
+     "sha256": "3c9dad53e2faae72d656a14e804c7a3c9dc18417dbd31d0dfbed9367c3bc7d29",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.900, DE 06/09/2024 DENOMINA SERVIDÃO ADÃO DIEGO RODRIGUES FERREIRA, O LOGRADOURO PÚBLICO LOCALIZADO NO CAMINHO DA LADEIRA, BOA VISTA, CASCATINHA - PETRÓPOLIS/RJ.\nPublicada em 06 de setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Servidão Adão Diego Rodrigues Ferreira, o logradouro público localizado no Caminho da Ladeira, próximo ao nº 214, com extensão de aproximadamente 100m, Boa Vista, Cascatinha - Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 06 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.900, de 6 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08899",
+   "short": "Lei 8899/2024",
+   "title": "Lei nº 8.899, de 2 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11636",
+   "first_law": "lei-2024-08899",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11636/lei_8899-2024.pdf",
+     "sha256": "6d773d9551a296e3eeec44ad6cfa6433161873a60aaf723580eae0cac79e1d6e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.899, DE 02/09/2024 INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS A SEMANA MUNICIPAL DO DIAGNÓSTICO E PREVENÇÃO DAS DOENÇAS OCULARES E TESTE DE CORES ISHIHARA VISANDO O DIAGNÓSTICO DO DALTONISMO NOS ALUNOS DA REDE MUNICIPAL DE ENSINO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 02 de setembro de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no calendário de eventos do Município de Petrópolis, A semana Municipal do diagnóstico e prevenção das doenças oculares e teste de cores Ishihara, a ser organizada anualmente no dia 14 de outubro, data reconhecida pela Organização Mundial da Saúde (OMS) como o Dia Mundial da Visão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Administração Municipal assegurará aos alunos da Rede Municipal de Ensino a realização anual de exames de vista e teste de cores Ishihara, visando o diagnóstico do daltonismo e a determinação do grau em que ele está afetando a percepção das cores.\nParágrafo único. Serão observadas em sala de aula da Rede Pública Municipal de Educação aqueles que apresentem dificuldades no aprendizado e na identificação de cores, os casos em que for diagnosticado o daltonismo deverão ser encaminhados para o tratamento adequado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para garantir a qualidade e o efetivo atendimento à demanda, fica, a critério do Município de Petrópolis a possibilidade de firmar convênios com instituições de saúde especializadas, sendo elas públicas ou privadas, para o efetivo tratamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Poderá a critério do Executivo Municipal realizar mutirões nas instituições de ensino do Município, para detectar doenças oculares.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes desta Lei correrão por conta de dotação orçamentária própria, suplementas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 02 de setembro de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.899, de 2 de setembro de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08894",
+   "short": "Lei 8894/2024",
+   "title": "Lei nº 8.894, de 26 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11631",
+   "first_law": "lei-2024-08894",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11631/lei_8894-2024.pdf",
+     "sha256": "3e3e3116e606b594f2ab227f34f2b53c7413a7cea6599e87e5c6ad5de24d7e59",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.894, DE 26/08/2024 INSTITUI, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS, O DIA DO CAPOEIRISTA.\nPublicada em 26 de agosto de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do Município de Petrópolis, o Dia do Capoeirista, a ser comemorado, anualmente, no dia 03 de agosto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A data comemorativa por esta Lei instituída passará a constar do Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica a critério do Poder Executivo construir e implementar Políticas Públicas, bem como ações que promovam e divulguem a história e a prática da Capoeira para a população de Petrópolis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 26 de agosto de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.894, de 26 de agosto de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08852",
+   "short": "Lei 8852/2024",
+   "title": "Lei nº 8.852, de 26 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11589",
+   "first_law": "lei-2024-08852",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11589/lei_8852-2024.pdf",
+     "sha256": "b22bfb0e52accd092bde4bda2e0a56d273b3a87eacd3d81735ee7893a42c71e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.852, DE 26/07/2024 ALTERA AS ESTRATÉGIAS 1.3, 1.8, 1.9, 1.14, 1.15, 2.2, 2.14, 3.2, 4.5, 4.8, 5.1, 5.6, 6.1, 6.3, 6.4, 6.11, 6.12, 7.1, 7.2, 7.8, 7.9, 7.19, 7.23, 7.27, 9.3, 10.12, 11.3, 11.10, 11.12, 12.6, 13.2, 16.8, 17.10, 18.2 E 20.2. INCLUI AS ESTRATÉGIAS 1.16, 1.17, 2.17, 7.32, 15.7, 18.7 E 19.10., E REVOGA AS ESTRATÉGIAS 4.19, 6.15, 6.16 E 10.13, BEM COMO AS ALÍNEAS \"A\" E \"B\" DA ESTRATÉGIA 7.2, NO ANEXO ÚNICO DA LEI MUNICIPAL Nº 7.334, DE 23 DE JULHO DE 2015.\nPublicada em 26 de julho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As estratégias 1.3, 1.8, 1.9, 1.14, 1.15 da Meta 1, 2.2, 2.14 da Meta 2, 3.2 da Meta 3, 4.5, 4.8 da Meta 4, 5.1, 5.6 da Meta 5, 6.1, 6.3, 6.4, 6.11, 6.12 da Meta 6, 7.1, 7.2, 7.8, 7.9, 7.19, 7.23, 7.27 da Meta 7, 9.3 da Meta 9, 10.12 da Meta 10, 11.3, 11.10, 11.12 da Meta 11, 12.6 da Meta 12, 13.2 da Meta 13, 16.8 da Meta 16, 17.10 da Meta 17, 18.2 da Meta 18 e 20.2 da Meta 20, do Anexo Único da Lei Municipal nº 7.334, de 23 de julho de 2015, passam a vigorar com a seguinte redação:\n\"(...) 1.3. Elaborar um Plano de Ação com estratégias para assegurar a ampliação da oferta de vagas na creche e na pré-escola, priorizando os alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação.\n(...) 1.8. Priorizar o acesso à educação infantil e ofertar o atendimento educacional especializado complementar e suplementar aos alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação, assegurando a educação bilíngue para as crianças surdas e a transversalidade da educação especial nesta etapa da educação básica.\n(...) 1.9. Ampliar gradativamente escolas de educação infantil em tempo integral para todas as crianças de 0 (zero) a 5 (cinco) anos, de acordo com o estabelecido na BNCC - Base Nacional Comum Curricular e, no caso da rede municipal, conforme orçamento previsto no regime de colaboração com Estado e União.\n(...) 1.14. Promover a formação inicial e continuada dos professores da Educação Infantil, garantindo, progressivamente, o atendimento por professores com formação superior.\n(...) 1.15. Incentivar e criar meios organizacionais e estruturais para a ampliação de momentos destinados à formação continuada de professores na própria escola onde atuam.\n(...) 2.2. Pactuar entre União, Estados, Distrito Federal e Municípios, no âmbito da instância permanente de que trata o § 5º do art. 7º da Lei 13.005/14, a implantação das competências e habilidades que configuram a Base Nacional Comum Curricular do ensino fundamental.\n(...) 2.14. Oferecer atividades extracurriculares de incentivo aos estudantes e de estímulo a habilidades, inclusive mediante certames e concursos nacionais.\n(...) 3.2. Implantar medidas pedagógicas e de infraestrutura que consolidem a identidade do Ensino Médio, no sentido significativa para o aluno, com uma proposta curricular e de atividades diversificadas para atender aos diferentes focos de interesse humano conforme o estabelecido nos Parâmetros Curriculares Nacionais e na Base Nacional Comum Curricular (BNCC).\n(...) 4.5. Garantir o atendimento educacional especializado em sala de recursos multifuncionais e serviços especializados, públicos ou conveniados nas formas complementar e suplementar, a todos os alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação, matriculados na rede pública de educação básica.\n(...) 4.8. Promover a oferta do atendimento pedagógico por profissional do magistério (professor) em ambientes hospitalares e domiciliares de forma a assegurar o acesso à Educação Básica e a atenção às necessidades educacionais especiais, que propicie o desenvolvimento e contribua para a construção do conhecimento desses educandos.\n(...) 5.1. Manter os processos pedagógicos de Alfabetização realizados através dos programas vigentes da Política Nacional de Alfabetização (PNA), articulando-os com as estratégias desenvolvidas na pré-escola a fim de garantir a alfabetização plena de todas as crianças.\n(...) 5.6. Apoiar a alfabetização das pessoas com deficiência e/ou transtornos globais do desenvolvimento considerando as suas especificidades, inclusive a alfabetização bilíngue de pessoas surdas, sem estabelecimento de terminalidade temporal.\n(...) 6.1. Ampliar, se possível com o apoio da União, do Estado e de parcerias público-privado, a oferta de Educação Básica Pública em tempo integral, por meio de atividades de acompanhamento pedagógico e multidisciplinares, culturais e esportivas, de forma que o tempo de permanência dos alunos na escola, ou sob sua responsabilidade, passe a ser igual ou superior a 7 (sete) horas diárias durante todo o ano letivo, com a ampliação progressiva da jornada de professores em uma única escola.\n(...) 6.3. Garantir a educação em tempo integral para pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação na faixa etária de 4 (quatro) a 17 (dezessete) anos, assegurando atendimento educacional especializado complementar e suplementar ofertado em salas de recursos multifuncionais preferencialmente da própria escola ou em instituições especializadas.\n(...) 6.4. Garantir, se possível com assistência financeira da União, do Estado e parcerias público-privada, estrutura física e recursos materiais e humanos adequados nas escolas que atendam alunos em tempo integral.\n(...) 6.11. Garantir, em regime de colaboração, quando possível, programa de ampliação e reestruturação das escolas públicas, por meio da instalação de quadras poliesportivas, laboratórios e insumos necessários, inclusive de informática, espaços para atividades culturais, bibliotecas, auditórios, cozinhas, refeitórios, banheiros e outros equipamentos.\n(...) 6.12. Ampliar, na Rede Municipal de Ensino, os núcleos de Educação Integral para atendimento dos alunos do Ensino Fundamental Anos Finais, no contraturno, de forma que o tempo de permanência dos alunos no núcleo complemente sua carga horária semanal e que está passe a ser igual ou superior a 40 (quarenta) horas semanais durante todo o ano letivo.\n(...) 7.1. Estabelecer, em consonância com a Base Nacional Comum Curricular, orientações curriculares e pedagógicas para a educação básica do Município, prevendo competências e habilidades para cada ano de escolaridade do ensino fundamental e médio.\n(...) 7.2. Assegurar que pelo menos 70% (setenta por cento) dos alunos do Ensino Fundamental e do Ensino Médio tenham alcançado nível desejável de aprendizado em relação às competências e habilidades em seu ano de estudo até o quinto ano de vigência desse plano.\n(...) 7.8. Orientar as escolas municipais e conveniadas a desenvolver um trabalho pedagógico de modo a atingir as metas projetadas para o IDEB, diminuindo a diferença entre as escolas, garantindo equidade da aprendizagem e colaborando para o alcance da meta nacional até o último ano de vigência deste PME.\n(...) 7.9. Acompanhar e divulgar bienalmente os resultados pedagógicos dos indicadores do Sistema Nacional de Avaliação da Educação Básica (SAEB) e do IDEB relativos às escolas que compõem o sistema municipal de ensino, promovendo a discussão contextualizada desses resultados.\n(...) 7.19. Estimular e orientar o uso de equipamentos e recursos tecnológicos digitais nas escolas municipais e conveniadas, criando, inclusive, condições necessárias para a informatização das bibliotecas e salas de leitura, incluindo acesso à internet.\n(...) 7.23. Garantir nas propostas curriculares a presença de conteúdos sobre a história e as culturas afro-brasileira e indígenas e implantar ações educacionais, nos termos das Leis nº 10.639, de 9 de janeiro de 2003, e nº 11.645, de 10 de março de 2008, assegurando o desenvolvimento de ações colaborativas, como fóruns de educação para a diversidade étnico-racial e projetos pedagógicos.\n(...) 7.27. Participar, do sistema municipal de avaliação da educação básica, como meio de fornecimento de informações às escolas e orientação das práticas pedagógicas, atentando-se para a confecção de exemplares específicos considerando os alunos com deficiência e que apresentem necessidades educativas especiais.\n(...) 9.3. Efetivar parceria com setores públicos e privados a fim de realizar diagnóstico para identificar e contabilizar adolescentes, jovens, adultos e idosos não alfabetizados, para atender as demandas existentes de forma a garantir o acesso dos adolescentes, jovens, adultos e idosos no universo escolar.\n(...) 10.12. Elevar progressivamente, até o fim da vigência deste plano, em 10% (dez por cento) os índices de desempenho dos alunos do Ensino Fundamental EJA e 30% (trinta por cento) do Ensino Médio EJA.\n(...) 11.3. Garantir o comprometimento da Educação Profissional com a educação inclusiva e bilíngue, agregado a valorização do educador e do educando, permitindo a acessibilidade, flexibilização e adaptação curricular e a avaliação diferenciada adequada às especificidades das necessidades de cada um, seja definitiva ou circunstancial.\n(...) 11.10. Expandir a oferta de Educação Profissional Técnica de nível médio para as pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação.\n(...) 11.12. Incentivar e criar meios organizacionais e estruturais, inclusive tecnológicos, para a ampliação de momentos destinados à formação continuada de professores na própria unidade de ensino.\n(...) 12.6. Ampliar, com assistência do Estado e da União, as políticas de inclusão e de assistência estudantil dirigidas aos estudantes de instituições públicas, na educação superior, de modo a reduzir as desigualdades étnico-raciais e ampliar as taxas de acesso e permanência na educação superior de estudantes egressos da escola pública, afrodescendentes e indígenas e de estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação, de forma a apoiar seu sucesso acadêmico.\n(...) 13.2. Promover a melhoria da qualidade dos cursos de pedagogia e licenciaturas, por meio da aplicação de instrumento próprio de avaliação aprovado pela Comissão Nacional de Avaliação da Educação Superior CONAES, integrando-os às demandas e necessidades das redes de educação básica, de modo a permitir aos graduandos a aquisição das qualificações necessárias a conduzir o processo pedagógico de seus futuros alunos (as), combinando formação geral e específica com a prática didática, além da educação para as relações étnico-raciais, a diversidade e as necessidades das pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação.\n(...) 16.8. Priorizar a formação continuada dos profissionais da educação, inclusive no âmbito de cursos voltados ao atendimento de pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação de forma a superar a dicotomia existente entre a teoria e prática, isso tudo articulado com a avaliação externa do rendimento escolar do aluno e a melhoria da qualidade do ensino, promovendo ações conjuntas entre Secretarias de Educação, universidades públicas ou privadas e demais instâncias da sociedade civil.\n(...) 17.10. Assegurar oferta de material de consumo, didático, limpeza, equipamentos, inclusive os de proteção individual (EPI), e recursos, de forma que os profissionais da educação - e nas escolas públicas, os alunos ou seus responsáveis - não precisem, às suas expensas, adquirir esses insumos para a realização das atividades inerentes ao ensino e à administração e organização escolares.\n(...) 18.1. Rever o Plano de Cargos, Carreira e Salários - PCCS, dos Profissionais da Educação do Município de Petrópolis, promovendo as adequações necessárias às carreiras existentes e/ou criação de novas carreiras, sempre que houver demanda ou atendendo à temporalidade do próprio PCCS.\n(...) 18.2. Limitar prazo para os enquadramentos previstos no PCCS por progressão por tempo de serviço, dentro do ano corrente ao qual o profissional de Educação fizer jus ao direito; promoção por formação até 90 dias da formalização do requerimento;\n(...) 20.2. Assegurar alimentação escolar de qualidade para todos os níveis e modalidades de ensino na Educação Básica.\n(...) 20.4. Apoiar a capacitação de integrantes dos Conselhos de Educação, gestores dos recursos da educação e membros das Associações de Apoio à Escola, nas áreas administrativa, financeira, contábil e jurídica, para que tenham melhores condições de exercer as funções associadas ao acompanhamento e controle dos recursos públicos destinados à educação pública.\n(...)\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Inclui as seguintes estratégias 1.16, 1.17 NA META 1, 2.17 na meta 2, 7.32 na Meta 7, 15.7 na Meta 15, 18.7 na Meta 18 e 19.10 na Meta 19, do Anexo Único da Lei Municipal nº 7.334, de 23 de julho de 2015, com a seguinte redação:\n\"(...) 1.16. Assegurar a opção de matrícula para as crianças CODA (ChildrenofDeafAdult) que tenham responsáveis legais surdos, na modalidade de educação bilíngue.\n(...) 1.17. Incentivar e garantir a formação inicial e continuada dos educadores de educação infantil para o desempenho de suas funções desenvolvendo metodologias e estratégias de intervenções pedagógicas adequadas à primeira infância.\n(...) 2.17. Priorizar o acesso à educação infantil e ofertar o atendimento educacional especializado complementar e suplementar aos alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, assegurando a educação bilíngue para as crianças surdas e a transversalidade da educação especial nesta etapa da educação básica.\n(...) 7.32. Adequar o atendimento escolar para a população quilombola considerando as especificidades locais e as reais necessidades de aprendizagem.\n(...) 15.7. Estabelecer parcerias com Universidades e demais instituições públicas ou privadas, visando à oferta de cursos de pós-graduação e/ou de extensão aos docentes do sistema de ensino no âmbito do Município de Petrópolis a fim de atender à obrigatoriedade do ensino de História e Cultura Afro-brasileira e Indígena considerando toda a diversidade étnico-racial.\n(...) 18.7. Criar, no quadro da Secretaria de Educação, o cargo de Professor da Educação Básica, com 40 (quarenta) horas semanais, para atendimento às turmas de Ensino Fundamental Anos Iniciais, em escolas de tempo integral.\n(...) 19.10. Promover estudos para a elaboração de indicadores associados à implementação de medidas que favoreçam o fortalecimento da gestão democrática nas escolas públicas municipais, bem como o acompanhamento da sociedade civil sobre o cumprimento da referida meta.\n(...)\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Revoga as estratégias 4.19 da Meta 4, 6.15 e 6.16 da Meta 6 e 10.13 da Meta 10, bem como as alíneas \"a\" e \"b\" da estratégia 7.2 da Meta 7.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 26 de julho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.852, de 26 de agosto de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08882",
+   "short": "Lei 8882/2024",
+   "title": "Lei nº 8.882, de 16 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11619",
+   "first_law": "lei-2024-08882",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11619/lei_8882-2024.pdf",
+     "sha256": "e3c159ea364350fae425746ff7ec0018c0cd133febaea5d44ef6e4e5e3fd4873",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.882, DE 16/08/2024 DISPÕE SOBRE A DENOMINAÇÃO DO TERMINAL MAURINHO BRANCO LOCALIZADO NA ESTRADA PHILUVIO CERQUEIRA RODRIGUES, 3º DISTRITO DE PETRÓPOLIS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"TERMINAL MAURINHO BRANCO\", o terminal de transporte coletivo, localizado à Estrada Philuvio Cerqueira Rodrigues, 3º Distrito deste Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 16 de agosto de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.882, de 16 de agosto de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08881",
+   "short": "Lei 8881/2024",
+   "title": "Lei nº 8.881, de 16 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11618",
+   "first_law": "lei-2024-08881",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11618/lei_8881-2024.pdf",
+     "sha256": "cd2f933fe37731d8f23425006149e8a13e322e9e26edd402b00132b3941588fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.881, DE 16/08/2024 DENOMINA RUA GANSO DOURADO O LOGRADOURO PÚBLICO, INICIANDO NA ESTRADA RETIRO DAS PEDRAS, EM PEDRO DO RIO, 4º DISTRITO DE PETRÓPOLIS-RJ.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada RUA GANSO DOURADO o logradouro público que se inicia na altura do quilômetro 0,3 da Estrada Retiro das Pedras, em Pedro do Rio, 4º distrito de Petrópolis, medindo aproximadamente 115 (cento e quinze) metros de extensão e 6 (seis) metros de largura.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 16 de agosto de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.881, de 16 de agosto de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}

@@ -1,0 +1,1303 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "23 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-08824": {
+   "label": "Lei nº 8.824, de 5 de julho de 2024",
+   "title": "INSTITUI A CAMPANHA MUNICIPAL DE CONSCIENTIZAÇÃO E ORIENTAÇÃO SOBRE A ALOPECIA AREATA NO MUNICÍPIO DE PETRÓPOLIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-07-05",
+   "published": "2024-07-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11561",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08823": {
+   "label": "Lei nº 8.823, de 5 de julho de 2024",
+   "title": "INSTITUI O DIA MUNICIPAL DE CONSCIENTIZAÇÃO E ENFRENTAMENTO À ASMA NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS",
+   "kind": "law",
+   "enacted": "2024-07-05",
+   "published": "2024-07-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11560",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08822": {
+   "label": "Lei nº 8.822, de 5 de julho de 2024",
+   "title": "DECLARA COMO PATRIMÔNICO NATURAL DO MUNICÍPIO DE PETRÓPOLIS O LAGO DE NOGUEIRA, LOCALIZADO NA AVENIDA MILTON DE SOUZA CARVALHO.",
+   "kind": "law",
+   "enacted": "2024-07-05",
+   "published": "2024-07-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11559",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08821": {
+   "label": "Lei nº 8.821, de 5 de julho de 2024",
+   "title": "DENOMINA COMPLEXO DE SAÚDE VEREADOR OSVALDO FERNANDES DO VALE - VADINHO, AS UNIDADES DE SAÚDE LOCALIZADAS NA ESTRADA UNIÃO E INDÚSTRIA, Nº 19.691, EM PEDRO DO RIO, QUARTO DISTRITO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2024-07-05",
+   "published": "2024-07-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11558",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08820": {
+   "label": "Lei nº 8.820, de 1 de julho de 2024",
+   "title": "DENOMINA TERMINAL FARLEN MACIEIRA DA COSTA O terminal ITAMARATI, localizada na rua. Bernardo Proença, 100 - bairro Itamarati, Petrópolis/RJ.",
+   "kind": "law",
+   "enacted": "2024-07-01",
+   "published": "2024-07-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11557",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08819": {
+   "label": "Lei nº 8.819, de 1 de julho de 2024",
+   "title": "Institui a Semana da Árvore no Município de Petrópolis e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-07-01",
+   "published": "2024-07-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11556",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08818": {
+   "label": "Lei nº 8.818, de 27 de junho de 2024",
+   "title": "Institui o \"Dia Municipal do Capelão Religioso\" no município de Petrópolis e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-06-27",
+   "published": "2024-06-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11555",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08817": {
+   "label": "Lei nº 8.817, de 27 de junho de 2024",
+   "title": "INCLUI O DIA MUNICIPAL DA MULHER FORROZEIRA - CARMÉLIA ALVES, NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-06-27",
+   "published": "2024-06-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11554",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08816": {
+   "label": "Lei nº 8.816, de 24 de junho de 2024",
+   "title": "DENOMINA \"SERVIDÃO MARIA TERESINHA DE JESUS ANTONIO\", O LOGRADOURO PÚBLICO LOCALIZADO NO FINAL DA RUA ALCEBÍADES BARBOSA, NO BAIRRO SAMAMBAIA.",
+   "kind": "law",
+   "enacted": "2024-06-24",
+   "published": "2024-06-24",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11553",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08812": {
+   "label": "Lei nº 8.812, de 18 de junho de 2024",
+   "title": "INSTITUI O DIA MUNICIPAL DA COSTUREIRA NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2024-06-18",
+   "published": "2024-06-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11549",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08811": {
+   "label": "Lei nº 8.811, de 18 de junho de 2024",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE PETRÓPOLIS O \"DIA MUNICIPAL DA MOTO ROMARIA\", A SER COMEMORADO ANUALMENTE, NO DIA 12 DE OUTUBRO, DIA DE NOSSA SENHORA APARECIDA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-06-18",
+   "published": "2024-06-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11548",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08810": {
+   "label": "Lei nº 8.810, de 18 de junho de 2024",
+   "title": "Institui o dia municipal da Logosofia no município de Petrópolis e dá outras providências",
+   "kind": "law",
+   "enacted": "2024-06-18",
+   "published": "2024-06-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11547",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08809": {
+   "label": "Lei nº 8.809, de 18 de junho de 2024",
+   "title": "Denomina Rua Maria Tereza, com extensão aproximada de 240m x 9m de largura, no interior da Associação Santo Antônio da Providência, situada na Estrada Ministro Salgado Filho, 2003, Vale do Cuiabá, Itaipava - Petrópolis/RJ. O acesso serviria de ligação entre a Rua E e a Gleba A1.",
+   "kind": "law",
+   "enacted": "2024-06-18",
+   "published": "2024-06-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11546",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08802": {
+   "label": "Lei nº 8.802, de 12 de junho de 2024",
+   "title": "GP 347/2024, PROJETO DE LEI QUE DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DA PESSOA COM DEFICIÊNCIA, MOBILIDADE REDUZIDA E DOEÇAS RARAS DE PETRÓPOLIS - CMPCD - E REVOGA ALEI MUNICIPAL Nº 5.820 E SUAS ALTERAÇÕES, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-06-12",
+   "published": "2024-06-12",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11539",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08793": {
+   "label": "Lei nº 8.793, de 10 de junho de 2024",
+   "title": "DENOMINA RUA DOUTOR PAULO OSÓRIO, LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO DE ARARAS.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11530",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08792": {
+   "label": "Lei nº 8.792, de 10 de junho de 2024",
+   "title": "INCLUI O DIA MUNICIPAL DE CONSCIENTIZAÇÃO SOBRE O ALBINISMO NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11529",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08791": {
+   "label": "Lei nº 8.791, de 10 de junho de 2024",
+   "title": "Altera a Lei Municipal nº 7.106 de 17.10.2013, que institui o Dia Municipal do Laço Branco, pela mobilização dos homens pelo fim da violência contra as mulheres.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11528",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08790": {
+   "label": "Lei nº 8.790, de 10 de junho de 2024",
+   "title": "Dispõe sobre a necessidade de instituir a semana municipal dos pipeiros no calendário municipal de Petrópolis.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11527",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08789": {
+   "label": "Lei nº 8.789, de 4 de junho de 2024",
+   "title": "ESTABELECE SANÇÕES ADMINISTRATIVAS PARA QUEM CAUSAR DANOS ÀS ESTRUTURAS FÍSICAS OU SÍMBOLOS RELIGIOSOS.",
+   "kind": "law",
+   "enacted": "2024-06-04",
+   "published": "2024-06-04",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11526",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08788": {
+   "label": "Lei nº 8.788, de 4 de junho de 2024",
+   "title": "Institui a Campanha Julho Laranja, no município de Petrópolis, com o objetivo de incentivar os cuidados da saúde bucal e odontológicos nas crianças e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-06-04",
+   "published": "2024-06-04",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11525",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08787": {
+   "label": "Lei nº 8.787, de 4 de junho de 2024",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS, A FESTA DE SÃO PEDRO, DA PARÓQUIA DE PEDRO DO RIO, QUARTO DISTRITO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-06-04",
+   "published": "2024-06-04",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11524",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08786": {
+   "label": "Lei nº 8.786, de 4 de junho de 2024",
+   "title": "DENOMINA SERVIDÃO AMANDIO ZAINOTTE LOGRADOURO PÚBLICO LOCALIZADO NA RUA QUISSAMÃ PRÓXIMO AO Nº 1417.",
+   "kind": "law",
+   "enacted": "2024-06-04",
+   "published": "2024-06-04",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11523",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08785": {
+   "label": "Lei nº 8.785, de 23 de maio de 2024",
+   "title": "DENOMINA O PRÉDIO PÚBLICO SITUADO À RUA FLORIANO PEIXOTO 285, COMO: GABRIEL VILA REAL DA ROCHA.",
+   "kind": "law",
+   "enacted": "2024-05-23",
+   "published": "2024-05-23",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11522",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-08824",
+   "short": "Lei 8824/2024",
+   "title": "Lei nº 8.824, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11561",
+   "first_law": "lei-2024-08824",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11561/lei_8824-2024.pdf",
+     "sha256": "99665d67ad55d706acb429c19ede455768a2e0b08997e699bed49b966fc966dd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.824, DE 05/07/2024 INSTITUI A CAMPANHA MUNICIPAL DE CONSCIENTIZAÇÃO E ORIENTAÇÃO SOBRE A ALOPECIA AREATA NO MUNICÍPIO DE PETRÓPOLIS, E DÁ OUTRAS PROVIDÊNCIAS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no município de Petrópolis a Campanha Municipal de Conscientização e Orientação sobre a Alopécia Areata a ser realizada na última semana do mês de setembro, tendo em vista que este é o mês dedicado para a conscientização sobre a doença.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Campanha Municipal de Conscientização e Orientação sobre a Alopecia Areata tem como principais objetivos:\nI - conscientizar a população sobre o que é a Alopecia Areata, qual o tratamento necessário e as chances de cura;\nII - estimular atividades de divulgação, proteção e apoio às pessoas Alopecia Areata;\nIII - incentivar a doação de cabelos para as pessoas com a doença.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Durante a Campanha Municipal de Conscientização e Orientação sobre a Alopecia Areata poderão ser desenvolvidos materiais informativos, como folhetos, cartazes e vídeos, para serem distribuídos nos espaços públicos e de atendimento à população.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 05 de julho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.824, de 5 de julho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08823",
+   "short": "Lei 8823/2024",
+   "title": "Lei nº 8.823, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11560",
+   "first_law": "lei-2024-08823",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11560/lei_8823-2024.pdf",
+     "sha256": "83d436063a71e2b6b51511564d4a9e677131aeea0630f132b2287955cca1d6b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.823, DE 05/07/2024 INSTITUI O DIA MUNICIPAL DE CONSCIENTIZAÇÃO E ENFRENTAMENTO À ASMA NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS.\nPublicada em 05 de julho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o dia municipal de conscientização e enfrentamento à asma no âmbito do Município de Petrópolis.\n§ 1º A celebração oficial desta data ocorrerá anualmente na primeira terça- feira do mês de maio, conforme Global Initiative for Asthma (GINA).\n§ 2º O dia municipal de conscientização e enfrentamento à asma integrará o Calendário Oficial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá adotar ações e promover meios para celebrar o dia municipal de conscientização e enfrentamento à asma.\nParágrafo único. As ações a serem desenvolvidas no dia municipal de conscientização e enfrentamento à asma visam:\nI - conscientizar,sensibilizar e mobilizar os petropolitanos acerca da temática;\nII - desconstruir estigmas associados à enfermidade; e\nIII - ressaltar a importância do tratamento adequado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá realizar convênios, parcerias públicas ou privadas, atividades e ações relacionadas ao dia municipal de conscientização e enfrentamento à asma.\nI - palestras, debates, seminários, entre outras atividades didáticas, a fim de divulgar informações relativas à ASMA e suas implicações;\nII - apoio para o público-alvo e familiares;\nIII - encontros interdisciplinares entre os profissionais das áreas de Medicina, Psicologia, e Fisioterapia que atuam com o público a que se refere esta Lei;\nIV - estímulo à inserção da pessoa com ASMA no mercado de trabalho; e\nV - fomento à capacitação e formação de profissionais especializados no atendimento à pessoa com ASMA.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 05 de julho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.823, de 5 de julho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08822",
+   "short": "Lei 8822/2024",
+   "title": "Lei nº 8.822, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11559",
+   "first_law": "lei-2024-08822",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11559/lei_8822-2024.pdf",
+     "sha256": "11d691b734fabd0ecca28ff5ac67b04ce06cb7692e2bf2b915aaf5f9b08ce932",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.822, DE 05/07/2024 DECLARA COMO PATRIMÔNIO NATURAL DO MUNICÍPIO DE PETRÓPOLIS O LAGO DE NOGUEIRA, LOCALIZADO NA AVENIDA MILTON DE SOUZA CARVALHO.\nPublicada em 05 de julho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado como Patrimônio Natural do Município de Petrópolis o Lago de Nogueira.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para fins do disposto nesta Lei, o Poder Executivo Municipal de Petrópolis procederá aos registros necessários nos livros próprios do órgão competente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 05 de julho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.822, de 5 de julho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08821",
+   "short": "Lei 8821/2024",
+   "title": "Lei nº 8.821, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11558",
+   "first_law": "lei-2024-08821",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11558/lei_8821-2024.pdf",
+     "sha256": "1fa86a7849fddf0bb00d7a56afbc56e8d8561d41fd5377addf5c01df3f1843db",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.821, DE 05/07/2024 DENOMINA COMPLEXO DE SAÚDE VEREADOR OSVALDO FERNANDES DO VALE - VADINHO, AS UNIDADES DE SAÚDE LOCALIZADAS NA ESTRADA UNIÃO E INDÚSTRIA, Nº 19.691, EM PEDRO DO RIO, QUARTO DISTRITO DE PETRÓPOLIS.\nPublicada em 05 de julho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Complexo de Saúde Vereador Osvaldo Fernandes do Vale - Vadinho, as unidades de saúde localizadas na Estrada União e Indústria, nº 19.691, Pedro do Rio, quarto distrito de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 05 de julho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.821, de 5 de julho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08820",
+   "short": "Lei 8820/2024",
+   "title": "Lei nº 8.820, de 1 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11557",
+   "first_law": "lei-2024-08820",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11557/lei_8820-2024.pdf",
+     "sha256": "6f40480d4caaa8bbd1b4a05f60fa574f3e1a5c32a52afa8e8cfe56fd31c60477",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.820, DE 01/07/2024 DENOMINA TERMINAL FARLEN MACIEIRA DA COSTA O TERMINAL ITAMARATI, LOCALIZADA NA RUA BERNARDO PROENÇA, 100 - BAIRRO ITAMARATI, PETRÓPOLIS/RJ.\nPublicada em 01 de julho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado TERMINAL FARLEN MACIEIRA DA COSTA, o Terminal Itamarati, localizado na rua. Bernardo Proença, 100 - Itamarati, Petrópolis - RJ, 25710-082.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Revogam-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de julho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.820, de 1 de julho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08819",
+   "short": "Lei 8819/2024",
+   "title": "Lei nº 8.819, de 1 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11556",
+   "first_law": "lei-2024-08819",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11556/lei_8819-2024.pdf",
+     "sha256": "b032ca5d62b7738afc75bb478373b8e34e9a138819cb8d4e2e63b7e9dc00b0d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.819, DE 01/07/2024 INSTITUI A SEMANA DA ÁRVORE NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 01 de julho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído a terceira semana do mês de setembro como a Semana da Árvore, a ser realizada anualmente no município de Petrópolis, com a finalidade de estimular medidas que incentivem a preservação do meio ambiente, bem como a promoção da educação ambiental sobre a importância das árvores para melhor qualidade de vida dos cidadãos e no progresso da Cidade.\nParágrafo único. A Semana da Árvore no Município de Petrópolis, prevista no caput deste artigo, será comemorada no mesmo mês de Setembro quando é também comemorado nacionalmente no dia 21, o Dia da Árvore.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana da Árvore passa a fazer parte do Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Semana da Árvore, poderá ser realizado com palestras, cartazes e folhetos educativos, trabalhos escolares e campanhas através dos órgãos de divulgação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Mudas de árvores poderão ser doadas pela iniciativa privada ou Poder Público.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica revogada a Lei Municipal nº 6.187 de 25 de Novembro de 2004.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de julho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.819, de 1 de julho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08818",
+   "short": "Lei 8818/2024",
+   "title": "Lei nº 8.818, de 27 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11555",
+   "first_law": "lei-2024-08818",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11555/lei_8818-2024.pdf",
+     "sha256": "707f73a5f74ebd3f0c4387278b7f1b5308d879a14d69af8560ea56585ea38db5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.818, DE 27/06/2024 INSTITUI O DIA MUNICIPAL DO CAPELÃO RELIGIOSO NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 27 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, na esfera municipal de Petrópolis, o Dia Municipal do Capelão Religioso, a ser comemorado anualmente no dia 11 de fevereiro, passando a constar no calendário oficial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo, no Dia Municipal do Capelão Religioso, poderá promover as seguintes atividades:\nI - Reuniões religiosas;\nII - Palestras;\nIII - Seminários;\nIV - Atividades comemorativas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 27 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.818, de 27 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08817",
+   "short": "Lei 8817/2024",
+   "title": "Lei nº 8.817, de 27 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11554",
+   "first_law": "lei-2024-08817",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11554/lei_8817-2024.pdf",
+     "sha256": "16ab6e85172b874115f5a1c8de5d0fd17e2832cc386ce6fe7222decc50231f5d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.817, DE 27/06/2024 INCLUI O DIA MUNICIPAL DA MULHER FORROZEIRA - CARMÉLIA ALVES, NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 27 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o dia Municipal da mulher forrozeira - Carmélia Alves a ser comemorado anualmente em 14 de fevereiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Municipal de que trata esta Lei passa a integrar o Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 27 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.817, de 27 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08816",
+   "short": "Lei 8816/2024",
+   "title": "Lei nº 8.816, de 24 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11553",
+   "first_law": "lei-2024-08816",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-24",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11553/lei_8816-2024.pdf",
+     "sha256": "0ed1c66542b37f8782d78a617958bd3827fb21527ddf82455b1afa7fda1d9871",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.816, DE 24/06/2024 DENOMINA SERVIDÃO MARIA TERESINHA DE JESUS ANTONIO, O LOGRADOURO PÚBLICO LOCALIZADO NO FINAL DA RUA ALCEBÍADES BARBOSA, NO BAIRRO SAMAMBAIA.\nPublicada em 24 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"SERVIDÃO MARIA TERESINHA DE JESUS ANTONIO\", o logradouro público localizado no final da Rua Alcebíades Barbosa, no bairro Samambaia, com aproximadamente 240 (duzentos e quarenta) metros de extensão, com saída por escadaria, na Rua Gabriel Vieira, ao lado do número 17, no mesmo bairro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Deverá comunicar o Núcleo Gestor de Dados Georreferenciados para identificação e lançamento do logradouro no sistema SIGWEB.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 24 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.816, de 24 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08812",
+   "short": "Lei 8812/2024",
+   "title": "Lei nº 8.812, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11549",
+   "first_law": "lei-2024-08812",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11549/lei_8812-2024.pdf",
+     "sha256": "50d5b7f5d511eae400c0b801cc5989c6c4ea7110380942afe104b81907391b21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.812, DE 18/06/2024 INSTITUI O DIA MUNICIPAL DA COSTUREIRA NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS.\nPublicado em 18 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Municipal da Costureira a ser comemorado anualmente no dia 25 de Maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Municipal de que trata esta Lei passa a integrar o Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.812, de 18 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08811",
+   "short": "Lei 8811/2024",
+   "title": "Lei nº 8.811, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11548",
+   "first_law": "lei-2024-08811",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11548/lei_8811-2024.pdf",
+     "sha256": "df57bb93ef97b18adae6732f76af0bd9d9bc537bd000f7c5dbfe88ba8b2b4c67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.811, DE 18/06/2024 INSTITUI NO CALENDÁRIO OFICIAL DE PETRÓPOLIS O DIA MUNICIPAL DA MOTO ROMARIA, A SER COMEMORADO ANUALMENTE, NO DIA 12 DE OUTUBRO, DIA DE NOSSA SENHORA APARECIDA E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 18 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Municipal da Moto romaria, a ser comemorado anualmente no dia 12 de Outubro, dia de Nossa Senhora Aparecida.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No mês de outubro de cada ano, a critério dos organizadores e apoiadores, o poder executivo poderá através de seus órgãos competentes, apoiar a realização do evento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Inclui-se o Dia Municipal da Moto romaria, no calendário oficial de eventos do Município de Petrópolis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo poderá regulamentar esta Lei no que lhe couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.811, de 18 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08810",
+   "short": "Lei 8810/2024",
+   "title": "Lei nº 8.810, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11547",
+   "first_law": "lei-2024-08810",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11547/lei_8810-2024.pdf",
+     "sha256": "c10e6385606e2e81fcadb871eb044ddb2bc2cac63d415d6fd66ffab9b6565650",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.810, DE 18/06/2024 INSTITUI O DIA MUNICIPAL DA LOGOSOFIA NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 18 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do Município de Petrópolis, o Dia Municipal da Logosofia, a ser comemorado anualmente no dia 11 de agosto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A comemoração instituída passa a integrar o Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo Municipal poderá promover a realização de eventos alusivos à data, com a finalidade de divulgação e informação para ampliar o conhecimento e a conscientização sobre a matéria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal regulamentará esta Lei no que for necessário para sua aplicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.810, de 18 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08809",
+   "short": "Lei 8809/2024",
+   "title": "Lei nº 8.809, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11546",
+   "first_law": "lei-2024-08809",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11546/lei_8809-2024.pdf",
+     "sha256": "e72d23985a410601798f9b8c059d246397c0ad3d31a8fd059b42e7724c42905b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.809, DE 18/06/2024 DENOMINA RUA MARIA TEREZA, COM EXTENSÃO APROXIMADA DE 240M X 9M DE LARGURA, NO INTERIOR DA ASSOCIAÇÃO SANTO ANTÔNIO DA PROVIDÊNCIA, SITUADA NA ESTRADA MINISTRO SALGADO FILHO, 2003, VALE DO CUIABÁ, ITAIPAVA - PETRÓPOLIS/RJ. O ACESSO SERVIRIA DE LIGAÇÃO ENTRE A RUA E E A GLEBA A1.\nPublicada em 18 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Maria Tereza, com extensão aproximada de 240m x 9m de largura, no interior da Associação Santo Antônio da Providência, situada na Estrada Ministro Salgado Filho, 2003, Vale do Cuiabá, Itaipava - Petrópolis/RJ. O acesso serviria de ligação entre a Rua E e a Gleba A1.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogados as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.809, de 18 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08802",
+   "short": "Lei 8802/2024",
+   "title": "Lei nº 8.802, de 12 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11539",
+   "first_law": "lei-2024-08802",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11539/lei_8802-204.pdf",
+     "sha256": "1984faf6d20848d7f8dcbf553b49a6940b638cbd83042908e012347192abfc67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.802, DE 12/06/2024 DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DA PESSOA COM DEFICIÊNCIA, MOBILIDADE REDUZIDA E DOENÇAS RARAS DE PETRÓPOLIS - CMPCD, REVOGA A LEI MUNICIPAL Nº 5820/2001 E SUAS ALTERAÇÕES E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 12 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Conselho Municipal da Pessoa com Deficiência, Mobilidade Reduzida e Doenças Raras de Petrópolis - CMPcD, órgão encarregado de políticas em favor dos direitos da pessoa com deficiência, mobilidade reduzida e doenças raras, vinculado à Secretaria Municipal da Pessoa com Deficiência, Mobilidade Reduzida e Doenças Raras (SecPcD).\nParágrafo único. O CMPcD é um órgão colegiado, de composição paritária entre o Poder Público e a Sociedade Civil, de caráter permanente, deliberativo, de assessoramento ao Poder Executivo Municipal e de acompanhamento e propositura de políticas publicas implementadas para o bem-estar da pessoa com deficiência, mobilidade reduzida e doenças raras, no âmbito do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Compete ao Conselho Municipal da Pessoa com Deficiência, Mobilidade Reduzida e Doenças Raras de Petrópolis - CMPcD:\nI - Propor diretrizes e promover atividades que visem à defesa dos direitos da pessoa com deficiência, mobilidade reduzida e doenças raras, à eliminação das discriminações que os atingem e sua plena inserção na vida sócio econômica, política e cultural do Município;\nII - Auxiliar o Poder Executivo na definição da política a ser adotada para o atendimento das necessidades das pessoas com deficiência, mobilidade reduzida e doenças raras, inclusive, emitindo pareceres e acompanhando a elaboração de programas de governo;\nIII - Desenvolver estudos, debates, pesquisas, projetos, atividades e outros atos relevantes à melhoria da condição de vida da pessoa com deficiência, mobilidade reduzida e doenças raras, no Município de Petrópolis;\nIV - Propor aperfeiçoamento da Política Municipal relacionada às pessoas com deficiência, mobilidade reduzida e doenças raras;\nV - Propor a celebração de convênios, contratos e acordos com entidades publicas e privadas, nacionais e internacionais, de pesquisa e atividades ligadas à área de Proteção e Defesa Civil;\nVI - Apoiar as realizações concernentes às pessoas com deficiência, mobilidade reduzida e doenças raras;\nVII - Promover, individualmente ou em parceria com entidades afins, iniciativas e campanhas que visem o bem-estar e defesa dos direitos das pessoas com deficiência, mobilidade reduzida e doenças raras;\nVIII - Fiscalizar a aplicação de recursos do Fundo Municipal da Pessoa com Deficiência, Mobilidade Reduzida e Doenças Raras - FUMPCD;\nIX - Sugerir critérios para programação financeira e orçamentária do FUMPCD;\nX - Denunciar, sempre que de conhecimento dos representantes, qualquer tipo de violência ou repressão sofrida por pessoa com deficiência, mobilidade reduzida e doenças raras no Município;\nXI - Desenvolver projetos que promovam a participação da pessoa com deficiência, mobilidade reduzida e doenças raras em todos os níveis de atividade, compatíveis com a sua condição, em conformidade com o art. 1º da Constituição da Republica;\nXII - Receber, encaminhar e acompanhar junto aos órgãos competentes, denúncias de todas as formas de negligência, omissão, discriminação, exclusão e violência contra as pessoas com deficiência, mobilidade reduzida e doenças raras, fiscalizando a execução das medidas necessárias a sua apuração;\nXIII - Apoiar as realizações concernentes à pessoa com deficiência, mobilidade reduzida e doenças raras e promover articulações e intercâmbios com organizações nacionais e internacionais afins;\nXIV - Responder sobre matérias de sua atribuição e Elaborar o seu Regimento Interno.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para consecução de suas propostas, poderá o Conselho solicitar ao Poder Público Municipal recursos que se fizerem necessários, cabendo a este avaliar a viabilidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O CMPcD será composto por 16 (dezesseis) membros, distribuídos da seguinte forma:\nI - 08 (oito) representantes do Poder Público, indicados pelo Chefe do Executivo Municipal;\nII - 08 (oito) representantes da Sociedade civil, indicados em Assembleia pelo Fórum Municipal da Pessoa com Deficiência.\n§ 1º A cada titular corresponderá um suplente oriundo do mesmo segmento representativo.\n§ 2º Os representantes do Poder Publico Municipal e seus respectivos suplentes serão indicados e nomeados pelo Chefe do Executivo.\n§ 3º Os representantes da Sociedade Civil serão indicados pelo Fórum Municipal.\n§ 4º Será considerada corno existente, para fins de participação no CMPcD, a entidade ou organização juridicamente constituída e em regular funcionamento há pelo menos 01 (um) ano.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O mandato dos conselheiros e respectivos suplentes, representantes da Sociedade Civil e indicados pelo Fórum Municipal, será de 02 (dois) anos, permitida a recondução por igual período.\nParágrafo único. O Fórum Municipal poderá substituir os representantes da Sociedade Civil por idêntico processo de indicação ou eleição, não podendo o mandato do substituto exceder o prazo do mandato original.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O mandato dos conselheiros e respectivos suplentes indicados pelo Poder Executivo coincidirá com o tempo do mandato de quem o outorgar.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O CMPcD é presidido pelo Secretário Municipal da Pessoa com Deficiência, Mobilidade Reduzida e Doenças Raras.\nParágrafo único. O Vice-Presidente do CMPcD deve ser um membro da sociedade civil, eleito em Assembleia, com mandato de 02 (dois) anos, desde que coincida com o tempo de duração de seu mandato como conselheiro.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O exercício das funções dos membros do CMPcD será gratuito, sendo considerado prestação de serviço de relevante valor social.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O quórum para realização das reuniões ordinárias e extraordinárias do CMPcD, será definido em seu regimento interno.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As sessões do CMPcD serão publicas e os atos deverão ser amplamente divulgados.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O plenário do CMPcD reunir-se-à, ordinariamente, uma vez por mês, de acordo com calendário anual estabelecido em sua primeira reunião, e extraordinariamente, quando algum fato o exigir, por convocação de seu Presidente.\nParágrafo único. Caso o Presidente não convoque reunião Ordinária mensal, desde que não se configure impossibilidade amparada pela lei, a maioria simples dos membros do CMPcD pode providenciar a convocação, indicando, no mesmo ato, quem compõe a referida maioria, quem assinará o edital de convocação e quem presidirá a reunião.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Câmaras Técnicas e Comissões poderão ser criadas e instituídas por deliberação da plenária e serão disciplinadas pelo Regimento Interno.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O Regimento Interno do CMPcD deverá ser homologado por meio de Decreto do Chefe do Poder Executivo.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei Municipal nº 5.820/2001 e suas alterações.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 12 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.802, de 12 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08793",
+   "short": "Lei 8793/2024",
+   "title": "Lei nº 8.793, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11530",
+   "first_law": "lei-2024-08793",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11530/lei_8793-2024.pdf",
+     "sha256": "0dd1a9a377779bee87ef2a40128b2db1a6745e7323866d192abaa7f40486a649",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.793, DE 10/06/2024 DENOMINA RUA DOUTOR PAULO OSÓRIO, LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO DE ARARAS.\nPublicada em 10 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"Rua Doutor Paulo Osório\", o logradouro público de 400 metros de extensão, com inicio na bifurcação com a Rua Jaderico Machado, localizado no Grotão, Araras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 10 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.793, de 10 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08792",
+   "short": "Lei 8792/2024",
+   "title": "Lei nº 8.792, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11529",
+   "first_law": "lei-2024-08792",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11529/lei_8792-2024.pdf",
+     "sha256": "e7b0bc7a08f1625795026826e53007cc6dc396aeb98c35655cbe7a3ec82802af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.792, DE 10/06/2024 INCLUI O DIA MUNICIPAL DE CONSCIENTIZAÇÃO SOBRE O ALBINISMO NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS.\nPublicada em 10 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluso no calendário oficial do município de Petrópolis o Dia Municipal de Conscientização sobre o Albinismo, a ser comemorado anualmente no dia 13 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 10 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.792, de 10 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08791",
+   "short": "Lei 8791/2024",
+   "title": "Lei nº 8.791, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11528",
+   "first_law": "lei-2024-08791",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11528/lei_8791-2024.pdf",
+     "sha256": "e744e402724b3a82feaa30d29fa43d282a1fa178f0ae22f469fd8ce3bf40dec8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.791, DE 10/06/2024 ALTERA A LEI MUNICIPAL Nº 7.106 DE 17.10.2013, QUE INSTITUI O DIA MUNICIPAL DO LAÇO BRANCO, PELA MOBILIZAÇÃO DOS HOMENS PELO FIM DA VIOLÊNCIA CONTRA AS MULHERES.\nPublicada em 10 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescentado o parágrafo único no artigo 1º da Lei Municipal nº 7.106/13, passando a vigorar com a seguinte redação:\n\"Art. 1º (...)\nParágrafo único. A campanha de mobilização será realizada durante todo mês de dezembro, Campanha Mês do Laço Branco Homens pelo fim da violência contra as mulheres, sendo realizadas atividades durante todo o mês de dezembro, no intuito de conscientizar homens para o fim da violência contra as mulheres.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica acrescentado o parágrafo único no artigo 2º da Lei Municipal nº 7.106/13, passando a vigorar com a seguinte redação:\n\" Art. 2º (...)\nParágrafo único. As ações da campanha de que trata esta Lei terão como símbolo um laço de fita de cor branca.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Altera o caput do artigo 3º da Lei Municipal nº 7.106/13, passando a vigorar com a seguinte redação:\n\"Art. 3º Neste dia, devem ser desenvolvidas as seguintes ações, entre outras, pelos gestores municipais e secretarias que aderirem à campanha:\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam acrescentados ao artigo 3º da Lei Municipal nº 7.106/13, os incisos IV, V, VI e VII, passando a vigorar com a seguinte redação:\n\"Art. 3º (...)\nIV - Opcionalmente, iluminar e decorar os prédios públicos de cor branca e com laços brancos;\nV - Promoção de palestras, eventos e atividades educativas voltadas aos homens sobre o tema;\nVI - Veiculação de campanhas na mídia e disponibilização à população de informações em banners, folders e outros materiais com ilustrações e exemplos sobre a prevenção ao feminicídio, contemplando a generalidade do tema;\nVII - Campanha de conscientização nas escolas do município sobre o fim da violência contra as mulheres.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Acrescenta o parágrafo único ao artigo 3º da Lei Municipal nº 7.106/13, passando a vigorar com a seguinte redação:\n\"Art. 3º (...)\nParágrafo único. A conscientização e a campanha instituída por essa lei poderá ser realizada durante todo o mês de dezembro.\"\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 10 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.791, de 10 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08790",
+   "short": "Lei 8790/2024",
+   "title": "Lei nº 8.790, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11527",
+   "first_law": "lei-2024-08790",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11527/lei_8790-2024.pdf",
+     "sha256": "132c3bef14a1d9d8f739e4c5295227a49f38258a71fcb41ff48ead170c33a298",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.790, DE 10/06/2024 DISPÕE SOBRE A NECESSIDADE DE INSTITUIR A SEMANA MUNICIPAL DOS PIPEIROS NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS.\nPublicada em 10 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no município de Petrópolis, a semana municipal dos pipeiros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A semana a ser instituída será a primeira semana de fevereiro.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A semana que trata essa passa a integrar no calendário municipal do município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Está lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 10 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.790, de 10 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08789",
+   "short": "Lei 8789/2024",
+   "title": "Lei nº 8.789, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11526",
+   "first_law": "lei-2024-08789",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11526/lei_8789-2024.pdf",
+     "sha256": "9c0f026494769edd964cd434197c99b82ca1b396552aec548b0eccc1866a8f1b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.789, DE 04/06/2024 ESTABELECE SANÇÕES ADMINISTRATIVAS PARA QUEM CAUSAR DANOS ÀS ESTRUTURAS FÍSICAS OU SÍMBOLOS RELIGIOSOS.\nPublicada em 04 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei estabelece sanções administrativas para quem causar danos às estruturas físicas ou símbolos religiosos.\nParágrafo único. Para os fins desta Lei, considera-se causar danos, o ato de impedir, perturbar cerimônia ou prática de culto religioso, vilipendiar publicamente ato ou objeto de culto religioso, ou depredar templos, igrejas e terreiros religiosos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São puníveis os atos descritos no art. 1º, com as seguintes sanções administrativas, de acordo com a gravidade do ato:\n§ 1º O autor ou autores da infração administrativa não poderão ser contratados pela Administração Direta e Indireta Municipal para exercer atividade remunerada pelo prazo de três anos.\n§ 2º retratação pública na mesma proporcionalidade, além da reparação cível aos templos ou terreiros religiosos, proporcional ao dano causado.\n§ 3º VETADO\nI - VETADO\nII - VETADO\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As sanções previstas nesta Lei não excluem outras decorrentes de condenações de natureza cível ou penal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder executivo deverá regulamentar a presente Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 04 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.789, de 4 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08788",
+   "short": "Lei 8788/2024",
+   "title": "Lei nº 8.788, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11525",
+   "first_law": "lei-2024-08788",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11525/lei_8788-2024.pdf",
+     "sha256": "01e4b045086626f73e842ab3392be78a237f6dc701110433bda9e20a0ccaf4e7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.788, DE 04/06/2024 INSTITUI A CAMPANHA JULHO LARANJA, NO MUNICÍPIO DE PETRÓPOLIS, COM O OBJETIVO DE INCENTIVAR OS CUIDADOS DA SAÚDE BUCAL E ODONTOLÓGICOS NAS CRIANÇAS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 04 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no âmbito do município de Petrópolis, a Campanha Julho Laranja, com o objetivo de incentivar pais e responsáveis a cuidar da saúde bucal das crianças, intensificando a prática de hábitos saudáveis e o acompanhamento odontológico desde o nascimento, a fim de prevenir as anormalidades dento faciais, tratando precocemente em caso de necessidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Campanha Julho Laranja deverá ser implementada mediante a realização de palestras, debates, distribuição de impressos educativos, exposições práticas, publicidade e propagandas, expondo os benefícios de uma saúde bucal adequada desde os primeiros anos de vida, sendo essencial para a saúde integral de crianças e adolescentes.\nParágrafo único. Os eventos descritos no caput deste artigo também promoverão o estímulo ao desenvolvimento de hábitos de saúde bucal em bebês, como: higiene bucal, aleitamento materno, introdução de alimentação balanceada e nutritiva e ingestão de água na idade certa bem como o não uso de chupetas, mamadeiras e a não sucção de dedo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Podem ser firmados convênios e parcerias com entidades públicas e privadas para o cumprimento do objetivo desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 04 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.788, de 4 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08787",
+   "short": "Lei 8787/2024",
+   "title": "Lei nº 8.787, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11524",
+   "first_law": "lei-2024-08787",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11524/lei_8787-2024.pdf",
+     "sha256": "ac9bb25e217ca7fb90e4a1b6218fe3618bb6de0b98a8445de992f1bbe0d0c3b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.787, DE 04/06/2024 INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS, A FESTA DE SÃO PEDRO, DA PARÓQUIA DE PEDRO DO RIO, QUARTO DISTRITO E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 04 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Institui no calendário oficial do Município de Petrópolis a Festa de São Pedro, da Paróquia de Pedro do Rio, no quarto distrito.\n§ 1º A Festa de São Pedro, da Paróquia de Pedro do Rio, será comemorada anualmente sempre no dia 29 (vinte e nove) de Junho.\n§ 2º A comemoração referida no caput passa a integrar o Calendário Oficial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 04 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.787, de 4 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08786",
+   "short": "Lei 8786/2024",
+   "title": "Lei nº 8.786, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11523",
+   "first_law": "lei-2024-08786",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11523/lei_8786-2024.pdf",
+     "sha256": "027423b36909d3768cfb611c7dfcc3fe0e217fcf4e39f4929f63e9dc9e265a2b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.786, DE 04/06/2024 DENOMINA SERVIDÃO AMANDIO ZAINOTTE LOGRADOURO PÚBLICO LOCALIZADO NA RUA QUISSAMÃ PRÓXIMO AO Nº 1417.\nPublicada em 04 de junho de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"Servidão Amandio Zainotte\", o logradouro público localizado na Rua Quissamã, próximo ao nº 1417, Quissamã, com aproximadamente 70 m de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 04 de junho de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.786, de 4 de junho de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08785",
+   "short": "Lei 8785/2024",
+   "title": "Lei nº 8.785, de 23 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11522",
+   "first_law": "lei-2024-08785",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11522/lei_8785-2024.pdf",
+     "sha256": "0196cbd73efa6599173357cad29b24f61f1962e858cb7c3fccfeb906a6e58a7a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.785, DE 23/05/2024 DENOMINA O PRÉDIO PÚBLICO SITUADO À RUA FLORIANO PEIXOTO 285, COMO:\nGABRIEL VILA REAL DA ROCHA.\nPublicada em 23 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina o Prédio Público situado à Rua Floriano Peixoto 285, Centro - Petrópolis/RJ, como: Gabriel Vila Real da Rocha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 23 de maio de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.785, de 23 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
