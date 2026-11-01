@@ -1,0 +1,2265 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "41 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-08775": {
+   "label": "Lei nº 8.775, de 15 de maio de 2024",
+   "title": "Institui, no âmbito da Rede Municipal de Ensino, o Programa Defesa Civil nas Escolas.",
+   "kind": "law",
+   "enacted": "2024-05-15",
+   "published": "2024-05-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11512",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08774": {
+   "label": "Lei nº 8.774, de 15 de maio de 2024",
+   "title": "DISPÕE SOBRE A CRIAÇÃO DA SEMANA MUNICIPAL DE PREVENÇÃO AO ALCOOLISMO ENTRE MULHERES NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-05-15",
+   "published": "2024-05-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11511",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08773": {
+   "label": "Lei nº 8.773, de 15 de maio de 2024",
+   "title": "DECLARA PATRIMÔNIO CULTURAL DE NATUREZA IMATERIAL A UBUNTU- FESTA AFRO DIASPÓRICA NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-05-15",
+   "published": "2024-05-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11510",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08772": {
+   "label": "Lei nº 8.772, de 15 de maio de 2024",
+   "title": "Dispõe sobre a Revogação da Lei Municipal 8.620, de 23 de Outubro de 2023.",
+   "kind": "law",
+   "enacted": "2024-05-15",
+   "published": "2024-05-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11509",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08771": {
+   "label": "Lei nº 8.771, de 15 de maio de 2024",
+   "title": "Institui no âmbito do município de Petrópolis o \"PROGRAMA ASSOCIAÇÃO LEGAL\" e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-05-15",
+   "published": "2024-05-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11508",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08770": {
+   "label": "Lei nº 8.770, de 15 de maio de 2024",
+   "title": "INSTITUI A CAMPANHA MUNICIPAL DE DEBATE AOS DIREITOS DA PESSOA IDOSA EM CONFORMIDADE COM A LEI N°10.741/2003.",
+   "kind": "law",
+   "enacted": "2024-05-15",
+   "published": "2024-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11507",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08768": {
+   "label": "Lei nº 8.768, de 26 de abril de 2024",
+   "title": "Denomina \"Servidão João de Freitas\" o logradouro público localizado na Rua Bataillard, na altura do n.º 905, no bairro Mosela.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11505",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08767": {
+   "label": "Lei nº 8.767, de 26 de abril de 2024",
+   "title": "DENOMINA \"RUA ODYR CARNEIRO\" O LOGRADOURO PÚBLICO COM APROXIMADAMENTE 270 METROS DE EXTENSÃO, QUE SE INICIA NO Nº 2333, DA ESTRADA DA SAUDADE, ATÉ O ENTRONCAMENTO DA RUA MACHADO FAGUNDES COM A RUA PAULO RUDGE, NO BAIRRO ESTRADA DA SAUDADE, 2º DISTRITO DE PETRÓPOLIS/RJ.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11504",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08766": {
+   "label": "Lei nº 8.766, de 26 de abril de 2024",
+   "title": "INSTITUI A SEMANA DE DIVULGAÇÃO E VALORIZAÇÃO DO ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA) NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11503",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08765": {
+   "label": "Lei nº 8.765, de 24 de abril de 2024",
+   "title": "INSTITUI O MOVIMENTO \"CABELO SOLIDÁRIO - AMOR EM CADA FIO\" DEDICADO À REALIZAÇÃO DE CAMPANHA DE INCENTIVO À DOAÇÃO DE CABELOS PARA PESSOAS E INSTITUIÇÕES SOCIAIS QUE AUXILIEM NO TRATAMENTO DO CÂNCER, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS, A SER REALIZADO, ANUALMENTE, NO DIA 27 DE NOVEMBRO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-24",
+   "published": "2024-04-24",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11502",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08764": {
+   "label": "Lei nº 8.764, de 24 de abril de 2024",
+   "title": "Denomina Rua Hélio Gracie o logradouro público localizado no Parque Residencial São José no Bairro do Bingen",
+   "kind": "law",
+   "enacted": "2024-04-24",
+   "published": "2024-04-24",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11501",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08763": {
+   "label": "Lei nº 8.763, de 24 de abril de 2024",
+   "title": "Denomina Servidão Joffre Fontaine, o logradouro público, com extensão de 150 metros, cujo acesso se dá pela Rua Quissamã 1227, Petrópolis/RJ.",
+   "kind": "law",
+   "enacted": "2024-04-24",
+   "published": "2024-04-24",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11500",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08762": {
+   "label": "Lei nº 8.762, de 15 de abril de 2024",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE E SUBSTITUIÇÃO DE SINAIS SONOROS ESTRIDENTES POR SINAIS MUSICAIS OU VISUAIS ADEQUADOS A ESTUDANTES COM TRANSTORNO DO ESPECTRO AUTISTA -TEA NOS ESTABELECIMENTOS DE ENSINO LOCALIZADOS NO MUNICÍPIO.",
+   "kind": "law",
+   "enacted": "2024-04-15",
+   "published": "2024-04-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11499",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08761": {
+   "label": "Lei nº 8.761, de 15 de abril de 2024",
+   "title": "INSTITUI O PROGRAMA INCLUSÃO SOBRE RODAS NAS ESCOLAS DA REDE MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-15",
+   "published": "2024-04-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11498",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08759": {
+   "label": "Lei nº 8.759, de 15 de abril de 2024",
+   "title": "INSTITUI AÇÕES DE CONSCIENTIZAÇÃO, PREVENÇÃO E COMBATE A DESNUTRIÇÃO A SEREM REALIZADAS NA REDE PÚBLICA DE SAÚDE E DE EDUCAÇÃO.",
+   "kind": "law",
+   "enacted": "2024-04-15",
+   "published": "2024-04-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11496",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08758": {
+   "label": "Lei nº 8.758, de 15 de abril de 2024",
+   "title": "INSTITUI A CAMPANHA DENOMINADA \"ABRIL AZUL\" SOBRE CONSUMO CONSCIENTE DE ÁGUA NO PERÍODO DA SECA NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-15",
+   "published": "2024-04-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11495",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08757": {
+   "label": "Lei nº 8.757, de 15 de abril de 2024",
+   "title": "DISPÕE SOBRE A ISENÇÃO DO PAGAMENTO DE TAXAS DE INSCRIÇÃO EM CONCURSOS PÚBLICOS MUNICIPAIS PARA AS MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-15",
+   "published": "2024-04-15",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11494",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08756": {
+   "label": "Lei nº 8.756, de 12 de abril de 2024",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE PETRÓPOLIS, o \"Dia Municipal do Orgulho Nerd\" a ser comemorado no dia 25 de maio de cada ano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-12",
+   "published": "2024-04-12",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11493",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08755": {
+   "label": "Lei nº 8.755, de 12 de abril de 2024",
+   "title": "INSTITUI A SEMANA MUNICIPAL DE PREVENÇÃO DE ACIDENTES COM MOTOCICLISTAS E DA OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-12",
+   "published": "2024-04-12",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11492",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08754": {
+   "label": "Lei nº 8.754, de 5 de abril de 2024",
+   "title": "DENOMINA \"SERVIDÃO DO AÇUDE\" O LOGRADOURO PÚBLICO LOCALIZADO NA ESTRADA VELHA DA ESTRELA, ALTURA DO NÚMERO 1.505, PRÓXIMO AO \"CACHOEIRAS BAR\", ALTO DA SERRA, PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2024-04-05",
+   "published": "2024-04-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11491",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08753": {
+   "label": "Lei nº 8.753, de 3 de abril de 2024",
+   "title": "Institui a Política Municipal de Atenção à Saúde Mental.",
+   "kind": "law",
+   "enacted": "2024-04-03",
+   "published": "2024-05-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11490",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08750": {
+   "label": "Lei nº 8.750, de 2 de abril de 2024",
+   "title": "Dispõe sobre a obrigatoriedade de supermercados, hipermercados e estabelecimentos congêneres do município de Petrópolis disponibilizarem carrinhos de compras adaptados às pessoas com deficiência ou com mobilidade reduzida.",
+   "kind": "law",
+   "enacted": "2024-04-02",
+   "published": "2024-04-02",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11487",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08749": {
+   "label": "Lei nº 8.749, de 2 de abril de 2024",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DE AFIXAÇÃO DE CARTAZES COM FINALIDADE DE INIBIR A VIOLÊNCIA CONTRA A MULHER COM INFORMATIVOS DE CONTATOS E APOIO EM TRANSPORTE PÚBLICO, BARES, RESTAURANTE, CASAS NOTURNAS E ESTABELECIMENTOS SIMILARES.",
+   "kind": "law",
+   "enacted": "2024-04-02",
+   "published": "2024-04-02",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11486",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08748": {
+   "label": "Lei nº 8.748, de 2 de abril de 2024",
+   "title": "CRIA A \"SEMANA MUNICIPAL DO A ASSISTENTE SOCIAL\" NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2024-04-02",
+   "published": "2024-04-02",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11485",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08747": {
+   "label": "Lei nº 8.747, de 1 de abril de 2024",
+   "title": "DISPÕE SOBRE A GARANTIA DO DIREITO DE PRIORIDADE DE MATRÍCULA DE IRMÃOS NA MESMA UNIDADE ESCOLAR DA REDE MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PETRÓPOLIS / RJ.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11484",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08745": {
+   "label": "Lei nº 8.745, de 1 de abril de 2024",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DE DIVULGAÇÃO DOS TERMOS DA LEI FEDERAL Nº 12.845 DE 1 DE AGOSTO DE 2013 NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS-RJ.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11482",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08744": {
+   "label": "Lei nº 8.744, de 1 de abril de 2024",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DE DIVULGAÇÃO DOS TERMOS DA LEI MUNICIPAL N° 6. 628 DE 23/12/2008 NOS LOCAIS DE RECOLHIMENTO DE PILHAS, BATERIAS E LÂMPADAS USADAS.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11481",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08743": {
+   "label": "Lei nº 8.743, de 1 de abril de 2024",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE DATAS E EVENTOS O \"DIA MUNICIPAL DOS MOTORISTAS E OPERADORES DE MAQUINA \" E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11480",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08742": {
+   "label": "Lei nº 8.742, de 1 de abril de 2024",
+   "title": "DISPÕE SOBRE A INSTITUIÇÃO DA \"SERRA SERATA\" NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11479",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08741": {
+   "label": "Lei nº 8.741, de 1 de abril de 2024",
+   "title": "Institui no Calendário Oficial o Dia Municipal do Turismólogo e dos Profissionais em Turismo, Hospedagem, Gastronomia, Entretenimento, Diversão e Lazer do Município de Petrópolis.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11478",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08740": {
+   "label": "Lei nº 8.740, de 1 de abril de 2024",
+   "title": "INSTITUI O DIA MUNICIPAL DAS UNIDADES DE CONSERVAÇÃO NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11477",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08739": {
+   "label": "Lei nº 8.739, de 1 de abril de 2024",
+   "title": "DENOMINA \"SERVIDÃO ALMIRO ADELINO DE OLIVEIRA\" O LOGRADOURO PÚBLICO QUE ESTÁ LOCALIZADO NO ENTROCAMENTO COM A RUA JOSÉ TIMÓTEO CALDARA, NO BAIRRO ITAMARATI.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11476",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08738": {
+   "label": "Lei nº 8.738, de 1 de abril de 2024",
+   "title": "INSTITUI O DIA DO FISIOTERAPEUTA E DO TERAPEUTA OCUPACIONAL NO CALENDÁRIO OFICIAL NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2024-04-01",
+   "published": "2024-04-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11475",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08737": {
+   "label": "Lei nº 8.737, de 18 de março de 2024",
+   "title": "Institui, no Calendário Oficial de Eventos do Município de Petrópolis, a \"Semana da Maternidade Atípica\".",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11474",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08736": {
+   "label": "Lei nº 8.736, de 18 de março de 2024",
+   "title": "Institui no Calendário Oficial do Município de Petrópolis o mês Junho Alemão, e da outras providências.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11473",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08735": {
+   "label": "Lei nº 8.735, de 18 de março de 2024",
+   "title": "Institui a Semana Municipal de Conscientização sobre Saúde Mental e Medicina Veterinária.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11472",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08734": {
+   "label": "Lei nº 8.734, de 18 de março de 2024",
+   "title": "FICA INSTITUÍDO E INCLUÍDO NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS a Exposição de automóveis antigos no Quitandinha - Garagem 407, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11471",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08733": {
+   "label": "Lei nº 8.733, de 18 de março de 2024",
+   "title": "Institui a Semana Municipal da \"Cultura Geek\" no Município de Petrópolis.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11470",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08732": {
+   "label": "Lei nº 8.732, de 18 de março de 2024",
+   "title": "Institui e inclui no Calendário Oficial de Eventos do Município de Petrópolis a Semana da Criatividade e Inovação de Petrópolis e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11469",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08731": {
+   "label": "Lei nº 8.731, de 18 de março de 2024",
+   "title": "DISPÕE SOBRE A INSTITUIÇÃO DO \"BUNKA-SAI\" NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11468",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-08730": {
+   "label": "Lei nº 8.730, de 18 de março de 2024",
+   "title": "Denomina como Servidão Maria Pitzer de Gonçalves, trecho delimitado, partindo de ladeira situada na BR 040, sentido Terminal Rodoviário Leonel Brizola, nas proximidades do Km 81, Contorno - Petrópolis/RJ, cujo término se dará no fim de Rua sem saída, totalizando aproximadamente 250m.",
+   "kind": "law",
+   "enacted": "2024-03-18",
+   "published": "2024-03-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11467",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-08775",
+   "short": "Lei 8775/2024",
+   "title": "Lei nº 8.775, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11512",
+   "first_law": "lei-2024-08775",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11512/lei_8775-2024.pdf",
+     "sha256": "2df65333841f3730e2ac023cb8bf9831a82aab802ed90da8d9135cb6a5280ea2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.775, DE 15/05/2024 INSTITUI, NO ÂMBITO DA REDE MUNICIPAL DE ENSINO, O PROGRAMA DEFESA CIVIL NAS ESCOLAS.\nPublicada em 15 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito da Rede Municipal de Ensino, o Programa Defesa Civil nas Escolas.\nParágrafo único. O programa de que trata o caput tem como objetivo capacitar servidores e alunos a desenvolverem, no interior das escolas, ações de mitigação e enfrentamento a emergências e/ou desastres, naturais ou provocados pelo homem.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para alcançar os fins previstos nesta Lei, o Poder Executivo poderá firmar parcerias com instituições públicas e privadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 15 de maio de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.775, de 15 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08774",
+   "short": "Lei 8774/2024",
+   "title": "Lei nº 8.774, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11511",
+   "first_law": "lei-2024-08774",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11511/lei_8774-2024.pdf",
+     "sha256": "0b38e89caefbf4ac54d637bc8e55b5cc64b6c0e8de70e61d88e4d03ea8389e07",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.774, DE 15/05/2024 DISPÕE SOBRE A CRIAÇÃO DA SEMANA MUNICIPAL DE PREVENÇÃO AO ALCOOLISMO ENTRE MULHERES NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 15 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de Petrópolis, a Semana Municipal de Prevenção ao Alcoolismo entre Mulheres, que deverá ser desenvolvida na terceira semana do mês de fevereiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei tem por objetivo proceder à execução de um conjunto de normas e ações que contribuam, de modo eficaz, para a redução do consumo de bebida alcoólica entre as mulheres, buscando inibir a ingestão excessiva que, entre outras consequências, causa graves riscos à saúde, sendo considerada bebida alcoólica, para os efeitos desta Lei, toda bebida potável com qualquer teor de álcool.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Semana de Prevenção ao Alcoolismo entre Mulheres, tem como objetivo realizar eventos e atividades voltados para a redução do consumo de álcool entre o público feminino.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Anualmente na Semana Municipal instituída por esta Lei poderão ser desenvolvidas palestras e seminários sobre o alcoolismo, dirigidos ao público objeto desta Lei, além de distribuição de material informativo, folhetos e montagem de quiosques para panfletagem e orientação em locais próximos a boates, bares, restaurantes, danceterias, clubes e congêneres, e ainda em locais e dias de eventos musicais e esportivos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Após a execução de qualquer das políticas públicas objeto desta Lei, caso sejam identificadas pessoas que queiram se submeter a tratamento contra o vício, poderão estas serem encaminhadas aos órgãos competentes indicados pela Secretaria Municipal de Saúde.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 15 de maio de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.774, de 15 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08773",
+   "short": "Lei 8773/2024",
+   "title": "Lei nº 8.773, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11510",
+   "first_law": "lei-2024-08773",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11510/lei_8773-2024.pdf",
+     "sha256": "3250925af299e3a95bc184bceb701804df9918069b80d6756b0544c208caf734",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.773, DE 15/05/2024 DECLARA PATRIMÔNIO CULTURAL DE NATUREZA IMATERIAL A UBUNTU-FESTA AFRO DIASPÓRICA NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 15 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada como Patrimônio Cultural Imaterial do Município de Petrópolis, a UBUNTU- Festa Afro Diaspórica, a ser celebrada anualmente no mês de Novembro, tendo por norte a data de 20 de Novembro e a garantia de ampla divulgação, acesso público e gratuito.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente Lei tem por objetivo atribuir o título de Patrimônio Cultural Imaterial à UBUNTU- Festa Afro Diaspórica, observando-se ser um importante manifesto de domínio social por meio da celebração à cultura africana e afrodescendente, devendo ser preservado pelo Poder Público e pela sociedade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Município poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 15 de maio de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.773, de 15 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08772",
+   "short": "Lei 8772/2024",
+   "title": "Lei nº 8.772, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11509",
+   "first_law": "lei-2024-08772",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11509/lei_8772-2024.pdf",
+     "sha256": "20e32f30256069a48e8ceb4bf6786a0f72abc0249dbd8c0073e32cf415bdcafb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.772, DE 15/05/2024 DISPÕE SOBRE A REVOGAÇÃO DA LEI MUNICIPAL 8.620, DE 23 DE OUTUBRO DE 2023.\nPublicada em 15 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado na íntegra Lei Municipal 8.620, de 23 de Outubro de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 15 de maio de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.772, de 15 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08771",
+   "short": "Lei 8771/2024",
+   "title": "Lei nº 8.771, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11508",
+   "first_law": "lei-2024-08771",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11508/lei_8771-2024.pdf",
+     "sha256": "2c8b0d20c17fffed0c22e8edecd58dbd78c93da0e6cfd5ee537154270e7495eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.771, DE 15/05/2024 INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS O \"PROGRAMA ASSOCIAÇÃO LEGAL\" E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 15 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As associações de moradores do município de Petrópolis poderão manter em um site público, de livre acesso, os seguintes dados:\nI - nome da associação de moradores e endereço da sede, quando houver;\nII - data da última eleição e o prazo de mandato da diretoria;\nIII - nome e cargos dos membros da diretoria;\nIV - o cartório onde está registrado o estatuto e a ata da eleição da diretoria com mandato em vigor.\nParagrafo único. As associações de moradores deverão dar publicidade do endereço eletrônico onde estão disponíveis os dados mencionados neste artigo, por meio de materiais impressos e redes sociais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá disponibilizar em seu site oficial, uma página destinada às associações de moradores, na qual poderão inserir as informações referentes aos dados previstos no artigo 1º desta Lei. (Nota) (Originalmente este inciso havia sido vetado pelo Prefeito Municipal. Posteriormente, o veto foi rejeitado pela Câmara Municipal de Vereadores, conforme se pode observar do adendo a esta Lei)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O registro das informações e a manutenção dos dados não terão custos para as associações de moradores, podendo o Poder Executivo regulamentar a presente Lei no que lhe couber. (Nota) (Originalmente este inciso havia sido vetado pelo Prefeito Municipal.\nPosteriormente, o veto foi rejeitado pela Câmara Municipal de Vereadores, conforme se pode observar do adendo a esta Lei)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As associações de moradores que atendam às condições descritas na presente Lei, poderão receber do Poder Executivo, uma versão digital do Selo \"Programa Associação Legal\" e utilizá-lo em suas redes sociais, canais de comunicação e divulgação interna e externa da associação. (Nota) (Originalmente este inciso havia sido vetado pelo Prefeito Municipal.\nPosteriormente, o veto foi rejeitado pela Câmara Municipal de Vereadores, conforme se pode observar do adendo a esta Lei)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, revogada as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 15 de maio de 2024.\nRubens José França Bomtempo Prefeito Projeto de Lei - Proc.: 2067/2023 Autor: MARCELO CHITÃO.\nLEI MUNICIPAL Nº 8.771, DE 15/05/2024 INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS O \"PROGRAMA ASSOCIAÇÃO LEGAL\" E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS MANTEVE E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO OS SEGUINTES DISPOSITIVOS DA LEI Nº 8.771 DE 15 DE MAIO DE 2024:\n\"Art. 2º O Poder Executivo poderá disponibilizar em seu site oficial, uma página destinada às associações de moradores, na qual poderão inserir as informações referentes aos dados previstos no artigo 1º desta Lei.\nArt. 3º O registro das informações e a manutenção dos dados não terão custos para as associações de moradores, podendo o Poder Executivo regulamentar a presente Lei no que lhe couber.\nArt. 4º As associações de moradores que atendam às condições descritas na presente Lei, poderão receber do Poder Executivo, uma versão digital do Selo \"Programa Associação Legal\" e utilizá-lo em suas redes sociais, canais de comunicação e divulgação interna e externa da associação.\"\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de junho de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.771, de 15 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08770",
+   "short": "Lei 8770/2024",
+   "title": "Lei nº 8.770, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11507",
+   "first_law": "lei-2024-08770",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11507/lei_8770-2024.pdf",
+     "sha256": "99ced73e33b3aa3310418dc0f7bceb2df0fefce65f150dbabca0a9b07a1fd58f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.770, DE 15/05/2024 INSTITUI A CAMPANHA MUNICIPAL DE DEBATE AOS DIREITOS DA PESSOA IDOSA EM CONFORMIDADE COM A LEI Nº 10.741/2003.\nPublicada em 15 de maio de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no Município de Petrópolis a campanha municipal de debate aos direitos da pessoa idosa em conformidade com a Lei nº 10.741/2003, a ser realizado anualmente no mês de Junho.\nParagrafo único. O mês a que faz referência no caput se dá em função da existência de campanhas de conscientização sobre a violência contra a pessoa idosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A programação dos eventos relacionados a campanha passará a constar no calendário oficial do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Durante o mês de junho o conselho municipal da pessoa idosa e demais órgãos da repartição pública terão o objetivo de alertar a sociedade a importância dos direitos da pessoa idosa conforme dispõe a Lei nº 10.741/2003.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 15 de maio de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.770, de 15 de maio de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08768",
+   "short": "Lei 8768/2024",
+   "title": "Lei nº 8.768, de 26 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11505",
+   "first_law": "lei-2024-08768",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11505/lei_8768-2024.pdf",
+     "sha256": "0967cd6be920fb8a748272e5074c728653ac09b73d5110c0976ca92cd87ea1ec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.768, DE 26/04/2024 DENOMINA SERVIDÃO JOÃO DE FREITAS O LOGRADOURO PÚBLICO LOCALIZADO NA RUA BATAILLARD, NA ALTURA DO Nº 905, NO BAIRRO MOSELA.\nPublicada em 26 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Servidão João de Freitas, o logradouro público localizado na Rua Bataillard, na altura do nº 905, no bairro Mosela, com aproximadamente 50 (cinquenta) metros de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 26 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.768, de 26 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08767",
+   "short": "Lei 8767/2024",
+   "title": "Lei nº 8.767, de 26 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11504",
+   "first_law": "lei-2024-08767",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11504/lei_8767-2024.pdf",
+     "sha256": "902561977f6afea80850eeb390df1dfd74bab0c1c4f1d1549ffa87a6f1efba09",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.767, DE 26/04/2024 DENOMINA \"RUA ODYR CARNEIRO\" O LOGRADOURO PÚBLICO COM APROXIMADAMENTE 270 METROS DE EXTENSÃO, QUE SE INICIA NO Nº 2333, DA ESTRADA DA SAUDADE, ATÉ O ENTRONCAMENTO DA RUA MACHADO FAGUNDES COM A RUA PAULO RUDGE, NO BAIRRO ESTRADA DA SAUDADE, 2º DISTRITO DE PETRÓPOLIS/RJ.\nPublicada em 26 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada RUA ODYR CARNEIRO, o logradouro público com aproximadamente 270 metros de extensão, que se inicia no Nº 2333 da Estrada da Saudade, (em frente a entrada da Rua Luiz Paulistano) até o entroncamento da Rua Machado Fagundes com a Rua Paulo Rudge, no bairro Estrada da Saudade, 2º Distrito de Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Deverá comunicar o Núcleo Gestor de Dados Georreferenciados para identificação e lançamento do logradouro no sistema SIGWEB.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 26 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.767, de 26 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08766",
+   "short": "Lei 8766/2024",
+   "title": "Lei nº 8.766, de 26 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11503",
+   "first_law": "lei-2024-08766",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11503/lei_8766-2024.pdf",
+     "sha256": "db5c8cf2c9bc6ba9406173eb47d3c2af5812f7c2e13d51b3f2165671e0ac93b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.766, DE 26/04/2024 INSTITUI A SEMANA DE DIVULGAÇÃO E VALORIZAÇÃO DO ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA) NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 26 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no âmbito do município de Petrópolis, a Semana de Divulgação e Valorização do Estatuto da Criança e do Adolescente (ECA), a realizar-se, anualmente, na segunda semana de julho, mês no qual se comemora o aniversário do ECA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana de Divulgação e Valorização do Estatuto da Criança e do Adolescente (ECA) terá por finalidade:\nI - divulgar o conteúdo do ECA, esclarecendo aos alunos, profissionais e a comunidade como um todo sobre sua finalidade, alcance e aspectos legais;\nII - promover a valorização do ECA, afirmando-o como instrumento essencial na promoção de direitos fundamentais através de palestras na câmara municipal e nas escolas;\nIII - discutir a adoção de políticas e atividades permanentes que objetivem ampliar o conhecimento e o respeito disposto no ECA;\nIV - aproximar a comunidade dos Conselhos Tutelares, divulgando informações sobre o seu trabalho e a sua competência.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação Mando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 26 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.766, de 26 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08765",
+   "short": "Lei 8765/2024",
+   "title": "Lei nº 8.765, de 24 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11502",
+   "first_law": "lei-2024-08765",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11502/lei_8765-2024.pdf",
+     "sha256": "090e4498050d892f780e0f0cb09719b4b7ba9b498fc19ecdcc98423510c22706",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.765, DE 24/04/2024 INSTITUI O MOVIMENTO \"CABELO SOLIDÁRIO AMOR EM CADA FIO\" DEDICADO À REALIZAÇÃO DE CAMPANHA DE INCENTIVO À DOAÇÃO DE CABELOS PARA PESSOAS E INSTITUIÇÕES SOCIAIS QUE AUXILIEM NO TRATAMENTO DO CÂNCER, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS, A SER REALIZADO, ANUALMENTE, NO DIA 27 DE NOVEMBRO, E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 24 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de Petrópolis, o movimento CABELO SOLIDÁRIO - AMOR EM CADA FIO, dedicado à realização de campanha de incentivo à doação de cabelos para pessoas e instituições sociais que auxiliem no tratamento do câncer, a ser realizado, anualmente, no dia 27 de novembro, priorizando:\nI - A conscientização da população sobre a importância da doação de cabelos para viabilizar a produção gratuita de perucas;\nII - O estímulo à realização da doação de cabelos;\nIII - O incentivo aos órgãos da Administração Pública Municipal, empresas, entidades de classe, associações, federações e à sociedade civil organizada para se engajarem na referida campanha de incentivo;\nIV - Divulgação das leis federais, estaduais e municipais acerca dessa temática.\nParágrafo único. Dentre as ações previstas poderão, os prédios públicos a cor ROSA em alusão à referida campanha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O movimento Cabelo Solidário - Amor em Cada Fio terá por objetivo conscientizar a população através de procedimentos informativos, educativos, organizativos, palestras, workshops, rodas de conversa, a fim de que sociedade possa conhecer melhor o assunto e debater sobre iniciativas de apoio à doação de cabelos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O dia instituído para o Movimento Cabelo Solidário - Amor em Cada Fio passa a integrar o Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal poderá firmar parcerias com a iniciativa pública ou privada, pessoas físicas ou jurídicas, entidades religiosas e universidades, para a realização e organização do movimento Cabelo Solidário - Amor em Cada Fio.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 24 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.765, de 24 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08764",
+   "short": "Lei 8764/2024",
+   "title": "Lei nº 8.764, de 24 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11501",
+   "first_law": "lei-2024-08764",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11501/lei_8764-2024.pdf",
+     "sha256": "ea7f830b2f13ae39fc31c260be8e0b189652653f834c7b1849c66d980ffabbfc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.764, DE 24/04/2024 DENOMINA RUA HÉLIO GRACIE O LOGRADOURO PÚBLICO LOCALIZADO NO PARQUE RESIDENCIAL SÃO Publicada em 24 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado como Rua Hélio Gracie o logradouro público anteriormente denominado como Rua Guilherme Noel, localizado no Parque Residencial São José, no Bairro do Bingen.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 24 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.764, de 24 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08763",
+   "short": "Lei 8763/2024",
+   "title": "Lei nº 8.763, de 24 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11500",
+   "first_law": "lei-2024-08763",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11500/lei_8763-2024.pdf",
+     "sha256": "6c9aaab368c6dcffddef62bb1d428c6011e14af7ab6ad3226894c2d43f0c417c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.763, DE 24/04/2024 DENOMINA SERVIDÃO JOFFRE FONTAINE, O LOGRADOURO PÚBLICO, COM EXTENSÃO DE 150 METROS, CUJO ACESSO SE DÁ PELA RUA QUISSAMÃ 1227, PETRÓPOLIS/RJ.\nPublicada em 24 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Servidão Joffre Fontaine, o logradouro público que se inicia na Rua Quissamã próximo ao número 1227, em trecho com aproximadamente 150 metros de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 24 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.763, de 24 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08762",
+   "short": "Lei 8762/2024",
+   "title": "Lei nº 8.762, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11499",
+   "first_law": "lei-2024-08762",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11499/lei_8762-2024.pdf",
+     "sha256": "ff2b984f9e336fdb86d2015fe5a2345bafa540cc5d5e9fd0c52d0208f7c33386",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.762, DE 15/04/2024 DISPÕE SOBRE A OBRIGATORIEDADE E SUBSTITUIÇÃO DE SINAIS SONOROS ESTRIDENTES POR SINAIS MUSICAIS OU VISUAIS ADEQUADOS A ESTUDANTES COM TRANSTORNO DO ESPECTRO AUTISTA -TEA NOS ESTABELECIMENTOS DE ENSINO LOCALIZADOS NO MUNICÍPIO.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.762 DE 15 DE ABRIL DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam os estabelecimentos de ensino localizados no Município de Petrópolis obrigados a substituir sinais sonoros estridentes por sinais musicais ou visuais adequados a estudantes com Transtorno do Espectro Autista - TEA.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os estabelecimentos de ensino terão o prazo de cento e oitenta dias, contados da data de publicação desta Lei, para a adequação às suas determinações.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará esta Lei, no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias, podendo ser suplementadas, se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 15 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.762, de 15 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08761",
+   "short": "Lei 8761/2024",
+   "title": "Lei nº 8.761, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11498",
+   "first_law": "lei-2024-08761",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11498/lei_8761-2024.pdf",
+     "sha256": "2e67ffde9bc5633b488359bc3cc6c90df1cbb803ce603aea4c64641d3e0b28f8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.761, DE 15/04/2024 INSTITUI O PROGRAMA INCLUSÃO SOBRE RODAS NAS ESCOLAS DA REDE MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.761 DE 15 DE ABRIL DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Executivo poderá promover a criação do programa Inclusão sobre Rodas nas escolas da rede municipal, visando ampliar o acesso dos alunos com deficiência e/ou transtorno do espectro autista às oficinas pedagógicas e terapias ocupacionais, por meio de um veículo itinerante.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa Inclusão sobre Rodas contará com o apoio de uma equipe multidisciplinar, percorrendo unidades escolares, com o objetivo de ampliar o atendimento aos alunos no suporte do desenvolvimento das atividades.\n§ 1º O programa poderá ser integrado às salas de recursos existentes na rede de educação, bem como complementar as unidades escolares que não possuam ambiente específico para o desenvolvimento das atividades complementares.\n§ 2º O Programa Inclusão sobre Rodas deverá ser instituído em consonância com a Lei nº 13.146, de 6 de julho de 2015 e a Lei nº 12.764 de 27 de dezembro de 2012, visando garantir o acesso à educação, com materiais e atividades adaptados ao desenvolvimento de cada aluno.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá celebrar convênios, parcerias e contar com a integração de pessoas jurídicas de direito público e privado para executar os objetivos deste programa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação Mando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 15 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.761, de 15 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08759",
+   "short": "Lei 8759/2024",
+   "title": "Lei nº 8.759, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11496",
+   "first_law": "lei-2024-08759",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11496/lei_8759-2024.pdf",
+     "sha256": "e138a7fb8dda3aaf266e2d93adc6d692131e0b110a1019dd9cc7d36f3f28c9a5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.759, DE 15/04/2024 INSTITUI AÇÕES DE CONSCIENTIZAÇÃO, PREVENÇÃO E COMBATE A DESNUTRIÇÃO A SEREM REALIZADAS NA REDE PÚBLICA DE SAÚDE E DE EDUCAÇÃO.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.759 DE 15 DE ABRIL DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Poder Executivo promoverá ações de conscientização, prevenção e combate a desnutrição a serem realizadas na rede pública de saúde e de educação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá firmar parcerias público-privado com os órgãos competentes, por meio de convênio ou outras formas legais, com atividades cujos objetivos serão:\nI - promover campanha educativa visando à prevenção e à conscientização quanto à problemática da desnutrição, por meio digital ou material impresso;\nII - realizar reuniões com os responsáveis e a comunidade escolar sobre a desnutrição e suas consequência, sobretudo no impacto da aprendizagem e no desenvolvimento cognitivo;\nIII - intensificar as medidas de combate à desnutrição, prevenção e cuidados nas unidades de atenção primária em saúde;\nIV - promover campanha educativa visando à prevenção e à conscientização quanto à problemática da desnutrição para toda a população;\nV - elaborar relatórios estatísticos e periódicos sobre a desnutrição, visando fortalecer as políticas públicas por área de planejamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo promoverá programas de acompanhamento para os casos de Transtorno Alimentar Restritivo Evitativo - TARE para os alunos da rede municipal de educação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 15 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.759, de 15 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08758",
+   "short": "Lei 8758/2024",
+   "title": "Lei nº 8.758, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11495",
+   "first_law": "lei-2024-08758",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11495/lei_8758-2024.pdf",
+     "sha256": "48495229e5a655e0e880da8fca65d3644ae8701a6b07ce0871e7eb9bae1eb770",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.758, DE 15/04/2024 INSTITUI A CAMPANHA DENOMINADA ABRIL AZUL SOBRE CONSUMO CONSCIENTE DE ÁGUA NO PERÍODO DA SECA NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.758 DE 15 DE ABRIL DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no Município de Petrópolis a Campanha denominada abril azul sobre consumo consciente de água no período da seca a ser realizada anualmente durante o mês de abril.\n§ 1º O objetivo que trata o caput deste artigo é a sensibilização da população quanto à importância da conscientização do uso da água no período de seca do município, que se estende de abril à outubro.\n§ 2º O Símbolo da Campanha aludida no caput deste artigo será uma gota na cor azul.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento instituído nesta Lei constará no Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos elencados nesta Lei, o Poder Executivo poderá realizar palestras, seminários, workshops, rodas de conversas, campanhas educativas e mobilizações em locais estratégicos e de fácil acesso à comunidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal poderá firmar convênios e parcerias com outros órgãos públicos, bem como com instituições e entidades privadas, visando à efetiva realização da Campanha denominada abril azul sobre consumo consciente de água no período da seca no Âmbito do Município de Petrópolis.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 15 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.758, de 15 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08757",
+   "short": "Lei 8757/2024",
+   "title": "Lei nº 8.757, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11494",
+   "first_law": "lei-2024-08757",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11494/lei_8757-2024.pdf",
+     "sha256": "817abd59141df6d031b7ffde0015bb6a50f0806ab68f6e27a60fbd1b7114904b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.757, DE 15/04/2024 DISPÕE SOBRE A ISENÇÃO DO PAGAMENTO DE TAXAS DE INSCRIÇÃO EM CONCURSOS PÚBLICOS MUNICIPAIS PARA AS MULHERES VÍTIMAS DE VIOLÊNCIA DOMÉSTICA E FAMILIAR DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.757 DE 15 DE ABRIL DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam as mulheres vítimas de violência doméstica e familiar, no âmbito do Município de Petrópolis, isentas do pagamento de taxas de inscrição em concursos públicos municipais realizados pela Administração Pública Direta, Indireta e Fundações Públicas.\n§ 1º Para fins de aplicação desta Lei, o conceito de violência doméstica e familiar é disposto no artigo 7º da Lei Federal 11.340/2006, Lei Maria da Penha.\n§ 2º Os casos supramencionados deverão ser comprovados através de boletins de ocorrência e exame de corpo de delito, quando constituir a prova material do crime.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 15 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.757, de 15 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08756",
+   "short": "Lei 8756/2024",
+   "title": "Lei nº 8.756, de 12 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11493",
+   "first_law": "lei-2024-08756",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11493/lei_8756-2024.pdf",
+     "sha256": "8bd6f9454e3f5550231d38f10fd70af3c93bdd81564dc37aa186db6f21b89dca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.756, DE 12/04/2024 INSTITUI NO CALENDÁRIO OFICIAL DE PETRÓPOLIS, O \"DIA MUNICIPAL DO ORGULHO NERD\" A SER COMEMORADO NO DIA 25 DE MAIO DE CADA ANO E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 12 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituido no calendário oficial de Petrópolis, o Dia Municipal do Orgulho Nerd a ser comemorado no dia 25 de maio de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para fins desta Lei, Nerd significa a pessoa que se interessa por quadrinhos, filmes e séries de TV, jogos eletrônicos, jogos de tabuleiro e RPG de mesa, tecnologia e gadgets, literatura e ficção científica, cosplay, ciência e conhecimento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A instituição do Dia Municipal do Orgulho Nerd tem como objetivo divulgar a cultura nerd e seus seguimentos, como uma nova modalidade em arte, contribuindo para o desenvolvimento artístico e econômico do município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data da sua publicação revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 12 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.756, de 12 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08755",
+   "short": "Lei 8755/2024",
+   "title": "Lei nº 8.755, de 12 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11492",
+   "first_law": "lei-2024-08755",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11492/lei_8755-2024.pdf",
+     "sha256": "bc4e407df5bd7485814eda633b86a00a6aebde594b95cbb6aa94224d66963e96",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.755, DE 12/04/2024 INSTITUI A SEMANA MUNICIPAL DE PREVENÇÃO DE ACIDENTES COM MOTOCICLISTAS E DA OUTRAS PROVIDÊNCIAS.\nPublicada em 12 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criada a semana municipal de prevenção de acidentes com motociclistas, a ser celebrada na primeira semana do mês de junho de cada ano, passando a mesma integrar o calendário oficial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No período designado no artigo antecedente, o Poder Público Municipal, diretamente ou com apoio de entidades representativas de interesses de motociclistas, promoverá atividades visando conscientizar a população em geral,e especialmente os condutores de motocicletas, sobre a necessidade de se prevenirem acidentes com motocicletas, pregando respeito á condição peculiar do motociclista no sistema de tráfego urbano.\nParágrafo único. Para a formalização do apoio previsto o caput, será admitida a celebração de convênios ou termos de parceria.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As atividades a que alude o artigo antecedente devem envolver, preferencialmente:\nI - Palestras sobre a direção defensiva, equipamentos de uso obrigatório pelo mnotociclista, manutenção preventiva da motocicleta e noções básicas de primeiros socorros;\nII - Campanhas educativas para redução do número de acidentes;\nIII - Campanha educativa voltada para a direção responsável, incluindo demonstrações práticas com cones ou outros instrumentos pertinentes, noções sobre equilíbrio e postura correta;\nIV - Palestras educativas sobre o consumo de álcool, drogas e demais substâncias prejudiciais;\nV - Passeios de motocicletas;\nVI - Blitz educativas para realização de ações relativas á Semana Municipal de Prevenção de Acidentes com Motociclistas, com a distribuição de folders, cartazes ou semelhantes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para a consecução dos objetivos visados nesta Lei, poderão Poder Executivo realizar dotações orçamentárias específicas, bem como utilizar de outros meios jurídicos para fomentar a participação popular nas atividades nela previstas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 12 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.755, de 12 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08754",
+   "short": "Lei 8754/2024",
+   "title": "Lei nº 8.754, de 5 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11491",
+   "first_law": "lei-2024-08754",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11491/lei_8754-2024.pdf",
+     "sha256": "43a0c71e5c7c3bc81d8d25338ca5389579163967ccc2f676cca95bf582a2a8ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.754, DE 05/04/2024 DENOMINA \"SERVIDÃO DO AÇUDE\" O LOGRADOURO PÚBLICO LOCALIZADO NA ESTRADA VELHA DA ESTRELA, ALTURA DO NÚMERO 1.505, PRÓXIMO AO CACHOEIRAS BAR, ALTO DA SERRA, PETRÓPOLIS;\nPublicada em 05 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado SERVIDÃO DO AÇUDE o logradouro público localizado na Estrada Velha da Estrela, altura do número 1.505, próximo ao Cachoeiras Bar, bairro Alto da Serra, lado esquerdo da rodovia, sentido Petrópolis X Magé, com aproximadamente 400 metros de extensão, por três metros de largura.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 05 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.754, de 5 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08753",
+   "short": "Lei 8753/2024",
+   "title": "Lei nº 8.753, de 3 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11490",
+   "first_law": "lei-2024-08753",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11490/lei_8753-2024.pdf",
+     "sha256": "a78e96ec1a0f3c1d966bd2fcc54d8b1cafc6a38d09f2bec80f835b676225726c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.753, DE 03/04/2024 INSTITUI A POLÍTICA MUNICIPAL DE ATENÇÃO À SAÚDE MENTAL.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.753 DE 03 DE ABRIL DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei institui a Política Municipal de Atenção à Saúde Mental.\nParágrafo único. A política de que trata o caput constitui estratégia para a integração e articulação das áreas de educação e saúde no desenvolvimento de ações de promoção, prevenção e atenção à saúde mental no âmbito do Município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da Política Municipal de Atenção à Saúde Mental:\nI - promover a saúde mental da população;\nII - garantir às pessoas o acesso à atenção psicossocial;\nIII - promover a intersetorialidade entre os serviços educacionais, de saúde e de assistência social para a garantia da atenção psicossocial;\nIV - informar e sensibilizar a sociedade sobre a importância de cuidados com a saúde mental;\nV - promover a educação permanente de gestores e profissionais das áreas de educação, saúde e assistência social;\nVI - promover atendimento, ações e palestras relacionados ao tema nas escolas e unidades de saúde do município.\nVII - construir protocolos intersetoriais de atendimento a casos de atenção à saúde mental identificados a partir do ambiente escolar;\nVIII - difundir informações e produzir esclarecimentos sobre o tema prevenindo comportamentos de risco;\nIX - a detecção precoce de sinais que demandam atenção à saúde mental das crianças, adolescentes e jovens com o respectivo acompanhamento especializado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes para a implementação da Política Municipal de Atenção à Saúde Mental:\nI - a participação da comunidade;\nII - a interdisciplinaridade e a intersetorialidade das ações;\nIII - a ampla integração da comunidade com as equipes de atenção primária à saúde;\nIV - a promoção de espaços de reflexão e comunicação sobre as características e necessidades do indivíduo e da comunidade, livres de preconceito e discriminação;\nV - a promoção da escola como espaço para a veiculação de informações cientificamente verificadas e de esclarecimento sobre informações incorretas;\nVI - o exercício da cidadania e o respeito aos direitos humanos;\nVII - a articulação com as diretrizes da Política Nacional de Saúde Mental, por meio da rede de atenção psicossocial e da Política Nacional de Atenção Básica.\nParágrafo único. Será assegurada assistência psicológica as pessoas vítimas de violência doméstica e familiar, abuso sexual e qualquer tipo de discriminação, independentemente da fase processual de apuração do ilícito.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As ações que compõem a Política Municipal de Atenção à Saúde Mental poderão contar com as seguintes iniciativas, sem prejuízo de outras que venham a ser desenvolvidas:\nI - realização de palestras, discussões, rodas e eventos com especialistas que abordem o tema;\nII - exposição de cartazes e fomento de publicidade informativa sobre os equipamentos de atenção voltados à saúde mental do município e o seus respectivos números telefônicos de atendimento;\nIII - informação, por meio de folhetos e cartazes, de serviços para atendimento psicológico e psiquiátrico na rede pública de saúde;\nIV - montagem, temporária ou permanente, em articulação com as Unidades Básicas de Saúde, e com os Centros de Atenção Psicossocial (CAPS), de centros de atendimento para diagnóstico primário e orientação de tratamento aos que apresentem sintomas de tentativa de suicídio;\nV - monitoramento de grupos em situação de vulnerabilidade para o desenvolvimento de ações interdisciplinares de promoção da saúde mental.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º São deveres das escolas no tocante à saúde mental de crianças, adolescentes e jovens:\nI - informar aos pais e/ou responsáveis legais imediatamente quanto os profissionais pedagógicos e/ou funcionários da escola observarem mudanças bruscas e/ou significativas no comportamento da criança, do adolescente e do jovem;\nII - quando os profissionais pedagógicos e/ou funcionários da escola identificarem sinais de agressão física, a exemplo de marcas e hematomas, estes deverão comunicar à direção da escola a qual tem o dever de comunicar formalmente o fato ao Ministério Público e ao Conselho Tutelar local para averiguação;\nIII - aplicar medidas disciplinares contra qualquer pessoa que no ambiente escolar praticar qualquer ação que possa vir a prejudicar a saúde mental de crianças, adolescentes e jovens, a exemplo de práticas preconceituosas e discriminatórias, de negligência, de bullying, de incentivo a automutilação e ao suicídio, ou de qualquer tipo de violência física, sexual, institucional ou psicológica, entre outras.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Política Municipal de Atenção à Saúde Mental deverá ser estruturada de forma constante ao longo do calendário anual, sendo permitidas ações especiais durante o chamado Setembro Amarelo, desde que não representem uma limitação das atividades a apenas este mês.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de abril de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.753, de 3 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08750",
+   "short": "Lei 8750/2024",
+   "title": "Lei nº 8.750, de 2 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11487",
+   "first_law": "lei-2024-08750",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11487/lei_8750-2024.pdf",
+     "sha256": "e631eaffe88bb09baa011fe65460bef885cc2570bf1899cfca7d2ec0d3dc0761",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.750, DE 03/05/2024 DISPÕE SOBRE A OBRIGATORIEDADE DE SUPERMERCADOS, HIPERMERCADOS E ESTABELECIMENTOS CONGÊNERES DO MUNICÍPIO DEPETRÓPOLIS DISPONIBILIZAREM CARRINHOS DE COMPRAS ADAPTADOS ÀS PESSOAS COM DEFICIÊNCIA OU COM MOBILIDADE REDUZIDA.\nPublicada em 02 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam obrigados os supermercados, hipermercados e estabelecimentos congêneres, do Município de Petrópolis, a disponibilizarem carrinhos de compras adaptados às pessoas com deficiência ou com mobilidade reduzida.\n§ 1º Os estabelecimentos referidos no caput deste artigo, com área igual ou superior a 1.000 m² (mil metros quadrados), deverão disponibilizar, no mínimo, 02% (dois por cento) dos carrinhos de compras com adaptação para utilização por pessoas com deficiência ou com mobilidade reduzida.\n§ 2º Os carrinhos de que trata o caput deste artigo deverão ser identificados para facilitar sua utilização.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento do disposto nesta Lei sujeita o infrator às seguintes sanções: (Nota) (Originalmente este artigo havia sido vetado pelo Prefeito Municipal. Posteriormente, o veto foi rejeitado pela Câmara Municipal de Vereadores, conforme se pode observar do adendo a esta Lei)\nI - notificação para regularização no prazo de 60 (sessenta) dias;\nII - multa diária de 05 (cinco) UFPE's, enquanto perdurar a irregularidade após o prazo do inciso anterior;\nIII - suspensão de alvará de funcionamento por 60 (sessenta) dias;\nIV - cassação definitiva do alvará de funcionamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os estabelecimentos mencionados no artigo 1º terão o prazo de 120 (cento e vinte) dias da data de publicação desta Lei para se adequarem ao nela disposto.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará esta Lei no prazo de 30 (trinta) dias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 02 de abril de 2024 Rubens José França Bomtempo Prefeito Projeto de Lei - Proc.: 0401/2022 Autor: DOMINGOS PROTETOR LEI MUNICIPAL Nº 8.750, DE 03/05/2024 DISPÕE SOBRE A OBRIGATORIEDADE DE SUPERMERCADOS, HIPERMERCADOS E ESTABELECIMENTOS CONGÊNERES DO MUNICÍPIO DE PETRÓPOLIS DISPONIBILIZAREM CARRINHOS DE COMPRAS ADAPTADOS ÀS PESSOAS COM DEFICIÊNCIA OU COM MOBILIDADE REDUZIDA.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS MANTEVE E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO OS SEGUINTES DISPOSITIVOS DA LEI Nº 8.750 DE 02 DE ABRIL DE 2024:\nArt. 2º O descumprimento do disposto nesta Lei sujeita o infrator às seguintes sanções:\nI - notificação para regularização no prazo de 60 (sessenta) dias;\nII - multa diária de 05 (cinco) UFPE's, enquanto perdurar a irregularidade após o prazo do inciso anterior;\nIII - suspensão de alvará de funcionamento por 60 (sessenta) dias;\nIV - cassação definitiva do alvará de funcionamento.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de maio de 2024.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.750, de 2 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08749",
+   "short": "Lei 8749/2024",
+   "title": "Lei nº 8.749, de 2 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11486",
+   "first_law": "lei-2024-08749",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11486/lei_8749-2024.pdf",
+     "sha256": "48dc540c22b06ce690e4efaf33ee0c3fc51340d2e792a2166fe607a4f76fb48a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.749, DE 02/04/2024 DISPÕE SOBRE A OBRIGATORIEDADE DE AFIXAÇÃO DE CARTAZES COM FINALIDADE DE INIBIR A VIOLÊNCIA CONTRA A MULHER COM INFORMATIVOS DE CONTATOS E APOIO EM TRANSPORTE PÚBLICO, BARES, RESTAURANTE, CASAS NOTURNAS E ESTABELECIMENTOS SIMILARES.\nPublicada em 02 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica estabelecido a obrigatoriedade na fixação de cartazes com informativos de contatos e apoio em transporte público, bares, restaurantes, casas noturnas e ambientes similares visando a proteção da mulher em situação de risco e vulnerabilidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O cartaz deve ter o tamanho de 30cm x 40cm e deve ser fixado em locais visíveis do estabelecimento, prioridade de fixação em banheiros femininos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O descumprimento desta Lei implicará em sanção a ser estabelecida pelo Poder Executivo em regulamentação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 02 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.749, de 2 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08748",
+   "short": "Lei 8748/2024",
+   "title": "Lei nº 8.748, de 2 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11485",
+   "first_law": "lei-2024-08748",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11485/lei_8748-2024.pdf",
+     "sha256": "503fc5cde74a77d48f3c421ed2e2f6ad85e7f4291f7703420bff9c2e0c38dfbc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.748, DE 02/04/2024 CRIA A \"SEMANA MUNICIPAL DO ASSISTENTE SOCIAL\" NO MUNICÍPIO DE PETRÓPOLIS.\nPublicada em 02 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica desde já fica instituída a Semana Municipal do Assistente Social, no Município de Petrópolis a ser comemorada, anualmente, no mês de Maio, na semana que compreende o dia 15, data em que se comemora o Dia do Assistente Social que é nacionalmente comemorado no dia 15 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A semana ora instituída passa a integrar o calendário oficial de eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Na Semana Municipal do Assistente Social serão realizados estudos, seminários, fórum, simpósios, workshops, intercâmbios, palestras, oficinas, e demais eventos relacionados ao exercício profissional do Assistente Social.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A realização dos eventos poderá ocorrer através de ações em conjunto do Poder Executivo, Poder Legislativo, universidades/faculdades, empresas privadas, entidades, conselhos municipais, associações de bairro, órgãos interessados e pessoas físicas, podendo inclusive as atividades desta semana se dar em espaços públicos e/ou privados do município que apresentarem disponibilidade para tal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 02 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.748, de 2 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08747",
+   "short": "Lei 8747/2024",
+   "title": "Lei nº 8.747, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11484",
+   "first_law": "lei-2024-08747",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11484/lei_8747-2024.pdf",
+     "sha256": "617df387fa123c941f729e5821c6821c272aad6406be6ecf63eedb3a1b27dad2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.747, DE 01/04/2024 DISPÕE SOBRE A GARANTIA DO DIREITO DE PRIORIDADE DE MATRÍCULA DE IRMÃOS NA MESMA UNIDADE ESCOLAR DA REDE MUNICIPAL DE EDUCAÇÃO DO MUNICÍPIO DE PETRÓPOLIS / RJ.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica garantido o direito de prioridade de matrícula de irmãos na mesma unidade escolar da Rede de Educação do Município de Petrópolis.\n§ 1º O direito de que trata o caput desde artigo fica condicionado à existência, na instituição, de turmas nos níveis educacionais pretendidos.\n§ 2º A garantia à prioridade de matrícula aplica-se, também, aos estudantes que possuam os mesmos representantes legais, em razão de guarda, tutela ou processo de adoção em andamento.\n§ 3º A prioridade de que trata o caput deste artigo se aplica aos irmãos que frequentem a mesma etapa ou ciclo de ensino da educação pública.\n§ 4º Na hipótese de os irmãos frequentarem etapas ou ciclos de ensino diversos, terão preferência de matrícula em unidades escolares próximas\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É assegurado aos irmãos a preferência de matrícula na unidade escolar mais próxima de sua residência.\nParágrafo único. Caso a unidade escolar mais próxima de sua residência não disponha de turmas no mesmo nível educacional pretendido para os irmãos, fica-lhes assegurada a preferência de matrícula em unidades escolares com a menor distância possível entre elas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a fruição do direito assegurado nesta Lei, deverá ser observado o cumprimento dos procedimentos e prazos estabelecidos pelo órgão responsável pela educação no Município, para os processos de matrícula e de rematrícula.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará esta Lei em todos os aspectos necessários para a sua efetiva aplicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, restando revogadas as disposições contrárias.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.747, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08745",
+   "short": "Lei 8745/2024",
+   "title": "Lei nº 8.745, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11482",
+   "first_law": "lei-2024-08745",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11482/lei_8745-2024.pdf",
+     "sha256": "bd7c7b65b4ac6843612c170531818ac158aae813662d5f5465a7f0d0f6e23ac2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.745, DE 01/04/2024 DISPÕE SOBRE A OBRIGATORIEDADE DE DIVULGAÇÃO DOS TERMOS DA LEI FEDERAL Nº 12.845 DE 1 DE AGOSTO DE 2013 NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS-RJ.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º No âmbito do Município de Petrópolis, deverão ser afixados cartazes de divulgação da Lei Federal nº 12.845, de 1ª de agosto de 2013, que dispõe sobre o atendimento obrigatório às vítimas de violência sexual (Lei do Minuto Seguinte), nos seguintes locais:\nI - hospitais e unidades básicas de saúde;\nIl - estabelecimentos de ensino médio, técnico e superior;\nIII - órgãos da administração direta e indireta que prestam atendimento presencial à população;\nIV - terminais de transporte coletivo;\nParágrafo único. O cartaz conterá a seguinte mensagem: A 'Lei do Minuto Seguinte (Lei Federal nº 12.845/2013) garante a vítima de estupro o atendimento completo, gratuito e imediato em todos os hospitais integrantes da rede do SUS, sem a necessidade de elaboração prévia de registro de ocorrência.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.745, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08744",
+   "short": "Lei 8744/2024",
+   "title": "Lei nº 8.744, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11481",
+   "first_law": "lei-2024-08744",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11481/lei_8744-2024.pdf",
+     "sha256": "ea6249935b9c9729a5e5cd3283eb47f9ea585825190ab5517f45c725d0862459",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.744, DE 01/04/2024 DISPÕE SOBRE A OBRIGATORIEDADE DE DIVULGAÇÃO DOS TERMOS DA LEI MUNICIPAL Nº 6.628 DE 23/12/2008 NOS LOCAIS DE RECOLHIMENTO DE PILHAS, BATERIAS E LÂMPADAS USADAS.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica estabelecida a obrigatoriedade da divulgação da Lei Municipal nº 6.628 de 23/12/2008 nos locais de recolhimento de pilhas, baterias e lâmpadas usadas no âmbito do município de Petrópolis.\n§ 1º A finalidade da referida lei é levar ao conhecimento da população o disposto na Lei Municipal nº 6.628 de 23/12/2008, cujo objeto é a obrigatoriedade da divulgação nos locais de recolhimento de pilhas, baterias e lâmpadas usadas.\n§ 2º Para cumprimento do que dispõe o caput do presente artigo, serão afixadas cópias do inteiro teor da referida Lei em locais visíveis nos estabelecimentos de recolhimento de pilhas, baterias e lâmpadas usadas no âmbito do município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão por conta dos estabelecimentos comerciais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá regulamentar a presente Lei no que couber, inclusive quanto às formas de sanção e fiscalização.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.744, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08743",
+   "short": "Lei 8743/2024",
+   "title": "Lei nº 8.743, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11480",
+   "first_law": "lei-2024-08743",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11480/lei_8743-2024.pdf",
+     "sha256": "37a92692da827243f5511385889f7d188ee7d8063c58dd7f42ba89ba4c1833ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.743, DE 01/04/2024 INSTITUI NO CALENDÁRIO OFICIAL DE DATAS E EVENTOS O DIA MUNICIPAL DOS MOTORISTAS E OPERADORES DE MAQUINA E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de Petrópolis o DIA MUNICIPAL DOS MOTORISTAS E OPERADORES DE MÁQUINA, que será comemorado anualmente no dia 25 de junho.\nParágrafo único. O referido dia será incluído no Calendário Oficial do Município, sendo uma data marcada para a realização de eventos para valorizar e divulgar a importância dos motoristas e operadores de máquina para o município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.743, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08742",
+   "short": "Lei 8742/2024",
+   "title": "Lei nº 8.742, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11479",
+   "first_law": "lei-2024-08742",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11479/lei_8742-2024.pdf",
+     "sha256": "d5dd5f80b3a1b12892004c86182a11d4306239c3f938e70c0a4a437b42c53811",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.742, DE 01/04/2024 DISPÕE SOBRE A INSTITUIÇÃO DA \"SERRA SERATA\" NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a SERRA SERATA no Calendário Oficial do Município de Petrópolis a ser realizado, anualmente, durante o mês de setembro.\nParágrafo único. As datas específicas do início e fim da SERRA SERATA serão definidas pelo Chefe do Poder Executivo e a Comissão Organizadora da representante da colônia italiana, a Casa D'Italia Anita Garibaldi, que é detentora legítima da patente SERRA SERATA, devidamente registrada no INPI, sob ********* .\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica proibida a alteração do nome SERRA SERATA como forma de descaracterizar a sua finalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica o Poder Executivo autorizado a firmar parcerias a fim de possibilitar a realização da SERRA SERATA.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo poderá regulamentar essa Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.742, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08741",
+   "short": "Lei 8741/2024",
+   "title": "Lei nº 8.741, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11478",
+   "first_law": "lei-2024-08741",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11478/lei_8741-2024.pdf",
+     "sha256": "b7fe4dcf825f95cbb4b7a849a35c4808bb9437ed3347f33906dfe7fe5e5c0447",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.741, DE 01/04/2024 INSTITUI NO CALENDÁRIO OFICIAL O DIA MUNICIPAL DO TURISMÓLOGO E DOS PROFISSIONAIS EM TURISMO, HOSPEGAGEM, GASTRONOMIA, ENTRETENIMENTO, DIVERSÃO E LAZER DO MUNICÍPIO DE PETRÓPOLIS.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Município de Petrópolis, o Dia Municipal do Turismólogo e dos Profissionais de Turismo, Hospedagem, Gastronomia, Entretenimento, Diversão e Lazer, a ser celebrado no dia 27 do mês de setembro.\nParágrafo único. A comemoração referida no caput passa a integrar o Calendário Oficial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O evento de que trata o artigo anterior integrará a programação da Semana de Conscientização do Turismo no Município de Petrópolis, instituída pela Lei Municipal nº 5.974, de 28 de maio de 2003.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica revogada a Lei Municipal nº 7.877, de 29 de outubro de 2019.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.741, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08740",
+   "short": "Lei 8740/2024",
+   "title": "Lei nº 8.740, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11477",
+   "first_law": "lei-2024-08740",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11477/lei_8740-2024.pdf",
+     "sha256": "77e830c95adbcb1fd0db84a7fb0edbb1f09d78b80daaea4baf63e73a88bf18b6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.740, DE 01/04/2024 INSTITUI O DIA MUNICIPAL DAS UNIDADES DE CONSERVAÇÃO NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Municipal das Unidades de Conservação a ser comemorado anualmente no dia 18 de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Municipal de que trata esta Lei passa a integrar o Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.740, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08739",
+   "short": "Lei 8739/2024",
+   "title": "Lei nº 8.739, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11476",
+   "first_law": "lei-2024-08739",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11476/lei_8739-2024.pdf",
+     "sha256": "3bebb8f60a91f7d3cbab3ad82db30e72da930c799339cf63a70a5e90fd288c1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.739, DE 01/04/2024 DENOMINA SERVIDÃO ALMIRO ADELINO DE OLIVEIRA O LOGRADOURO PÚBLICO QUE ESTÁ LOCALIZADO NO ENTROCAMENTO COM A RUA JOSÉ TIMÓTEO CALDARA, NO BAIRRO ITAMARATI.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Servidão Almiro Adelino de Oliveira o logradouro público que está localizado no entroncamento com a Rua José Timóteo Caldara, no Bairro Itamarati, possuindo aproximadamente 60 metros de comprimento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.739, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08738",
+   "short": "Lei 8738/2024",
+   "title": "Lei nº 8.738, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11475",
+   "first_law": "lei-2024-08738",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11475/lei_8738-2024.pdf",
+     "sha256": "85f7564216396fafa4f470bef990567a5ab2245234705ec1ad23fbea36bb45fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.738, DE 01/04/2024 INSTITUI O DIA DO FISIOTERAPEUTA E DO TERAPEUTA OCUPACIONAL NO CALENDÁRIO OFICIAL NO MUNICÍPIO DE PETRÓPOLIS.\nPublicada em 01 de abril de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o dia do fisioterapeuta e do terapeuta ocupacional no calendário oficial no Município de Petrópolis, a ser comemorado anualmente no dia 13 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 01 de abril de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.738, de 1 de abril de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08737",
+   "short": "Lei 8737/2024",
+   "title": "Lei nº 8.737, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11474",
+   "first_law": "lei-2024-08737",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11474/lei_8737-2024.pdf",
+     "sha256": "9f9f841fa37adc4a471360fb4298f5ad21f3a1aee584e783611a3b0ca6525835",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.737, DE 18/03/2024 INSTITUI, NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS, A SEMANA DA MATERNIDADE ATÍPICA.\nPublicada em 18 de março de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no Calendário Oficial de Eventos do Município de Petrópolis, a Semana da Maternidade Atípica, a ser realizada anualmente, no mês de maio.\nParágrafo único. Para os fins desta Lei, consideram-se mães atípicas aquelas que possuem filhos com alguma deficiência ou síndrome rara.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Na semana de que trata esta Lei, poderão ser adotadas ações destinadas à promoção e valorização das mães atípicas na sociedade, com os seguintes objetivos:\nI - incentivar a realização de debates, encontros, rodas de conversa, oficinas temáticas, cursos e afins que promovam as mães atípicas;\nII - estimular a criação de políticas públicas de proteção às mães atípicas, sobretudo aquelas em saúde mental;\nIII - estimular a capacitação de servidores públicos municipais da área de saúde e assistência social para o acolhimento, diagnóstico e tratamento de doenças emocionais que podem surgir decorrentes da maternidade atípica;\nIV - propiciar espaços para informar e sensibilizar a sociedade sobre as dificuldades enfrentadas na maternidade atípica;\nV - divulgar as doenças emocionais que podem surgir em decorrência da maternidade atípica, conscientizando e estimulando as mães atípicas ao autocuidado;\nVI - apoiar as atividades organizadas e desenvolvidas pela sociedade civil em favor das mulheres que experimentam a maternidade atípica;\nVII - outras iniciativas que visem à promoção e valorização da mãe atípica na sociedade.\nParágrafo único. As atividades de que trata o caput poderão ser planejadas e desenvolvidas em conjunto com as competentes secretarias municipais, compreendendo, entre outras, palestras, apresentações, distribuição de panfletos ou cartilhas informativas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas resultantes da aplicação desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.737, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08736",
+   "short": "Lei 8736/2024",
+   "title": "Lei nº 8.736, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11473",
+   "first_law": "lei-2024-08736",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11473/lei_8736-2024.pdf",
+     "sha256": "ff4d7ab4591f0a4052ae39714569ff76a72919dbf5dfb132f80fb546228429f0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.736, DE 18/03/2024 INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS O MÊS JUNHO ALEMÃO, E DA OUTRAS PROVIDÊNCIAS.\nPublicada em 18 de março de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Calendário Oficial do Município, o Junho Alemão, a ser realizado durante todo o mês de junho de todo ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Junho Alemão tem como objetivo a realização de um conjunto de atividades com o intuito de prestigiar e propiciar o conhecimento da cultura alemã em Petrópolis, através de festividades, palestras, seminários e outras ações vinculadas à comemoração da cultura alemã no Município.\nParágrafo único. Fica o Poder Executivo autorizado a auxiliar, no que lhe for solicitado, na realização das ações com os fins explicitados nesta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.736, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08735",
+   "short": "Lei 8735/2024",
+   "title": "Lei nº 8.735, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11472",
+   "first_law": "lei-2024-08735",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11472/lei_8735-2024.pdf",
+     "sha256": "d5711db0edb74db823c4f8797b6e04e2bbab471ca844b1d0b4ff7f48efba39f7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.735, DE 18/03/2024 INSTITUI A SEMANA MUNICIPAL DE CONSCIENTIZAÇÃO SOBRE SAÚDE MENTAL E MEDICINA VETERINÁRIA.\nPublicada em 18 de março de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Municipal de Conscientização sobre Saúde Mental e Medicina Veterinária, no âmbito do Município de Petrópolis, a ser comemorada, anualmente, na semana que inclui o dia 09 de setembro, Dia Nacional do Médico Veterinário.\nParágrafo único. A semana de que trata o caput terá como objetivos oferecer aos médicos veterinários suporte informacional especializado para desempenharem suas rotinas com mais equilíbrio emocional e confiança.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Municipal de Conscientização sobre Saúde Mental e Medicina Veterinária abordará, sem prejuízo de outros pertinentes, os seguintes temas:\nI - gerenciamento do estresse e ansiedade no trabalho;\nII - prevenção da fadiga de compaixão;\nIII - prevenção da síndrome de burnout;\nIV - gerenciamento de expectativas de clientes sobre resultados clínicos e valores.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos da presente Lei, o Poder Executivo poderá:\nI - realizar debates, palestras, campanhas educativas, atendimentos médicos, sem prejuízo de outras iniciativas pertinentes;\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias e, se necessário, abertura de crédito adicional especial.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.735, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08734",
+   "short": "Lei 8734/2024",
+   "title": "Lei nº 8.734, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11471",
+   "first_law": "lei-2024-08734",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11471/lei_8734-2024.pdf",
+     "sha256": "6973efdc3f3b4dca1e2c5c5bb86c093b61bd0ebdfde048db984a3c133b9fe0dd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.734, DE 18/03/2024 FICA INSTITUÍDO E INCLUÍDO NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS A EXPOSIÇÃO DE AUTOMÓVEIS ANTIGOS NO QUITANDINHA - GARAGEM 407, E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em 18 de março de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído em caráter permanente no calendário oficial de eventos do município de Petrópolis o evento Exposição de automóveis antigos no Quitandinha - Garagem 407.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A exposição será, destinada a exposição de veículos antigos e a venda de peças, manuais de literatura de automóveis, miniaturas e demais coleções de interesse cultural do automobilista.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O evento deverá ser comemorado anualmente, durante o final de semana do feriado de Corpus Christi, no entorno do Hotel quitandinha, integrando obrigatoriamente o calendário de eventos deste Município.\nParágrafo único. A organização do evento arrecadará alimentos não perecíveis, que serão doados para entidades filantrópicas do município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º No interesse do Município a exposição de automóveis antigos no Quitandinha poderá ter sua divulgação inserida em matérias de propaganda turística da Cidade.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.734, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08733",
+   "short": "Lei 8733/2024",
+   "title": "Lei nº 8.733, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11470",
+   "first_law": "lei-2024-08733",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11470/lei_8733-2024.pdf",
+     "sha256": "4af4714cdc04211e3c9b31092a3183fc4d33687ab2eae4a21cc699037ade9ba3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.733, DE 18/03/2024 INSTITUI A SEMANA MUNICIPAL DA \"CULTURA GEEK\" NO MUNICÍPIO DE PETRÓPOLIS.\nPublicada em 18 de março de 2024 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Municipal da Cultura Geek, no âmbito do Município de Petrópolis, a ser comemorada, anualmente, na semana que inclui o dia 04 de maio.\nParágrafo único. Entende-se por Cultura Geek, todas as ações, interações, atividades, tendências e estilo de vida popular diretamente ligada a jogos eletrônicos, jogos de tabuleiro e interpretação (RPG), tecnologias de integração, interação e imersão atuais e suas predecessoras, literatura em todas suas ramificações (mangás, quadrinhos, etc.), produções cinematográficas, animações, séries e moda (cosplay e caracterização).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana da Cultura Geek possui como objetivos:\nI - Valorizar e fomentar a Cultura Geek no Município de Petrópolis;\nII - Reconhecer e integrar a importância deste estilo de vida na formação social e intelectual dos munícipes;\nIII - Promover eventos nos quais a população possa interagir com os elementos da Cultura Geek;\nIV - Propiciar ações de entretenimento à comunidade local.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins do art. 2º desta Lei, poderão ser realizadas sobre a temática Geek:\nI - Palestras;\nIl - Feiras de livros, mangás e demais literaturas relacionadas;\nIII - Campeonatos e torneios de jogos eletrônicos e de tabuleiro;\nIV - Concursos de cosplay e desenhos;\nV - Fóruns de discussão, apresentação e disseminação de inovação tecnológica;\nVI - Sessões e maratonas públicas de filmes, animes e séries;\nVII - Exposições;\nVIII - Demais atividades correlatas.\nParágrafo único. o Poder Público poderá firmar parcerias de colaboração com a iniciativa privada, entidades de classe, instituições, fundações, associações e demais grupos interessados no assunto.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.733, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08732",
+   "short": "Lei 8732/2024",
+   "title": "Lei nº 8.732, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11469",
+   "first_law": "lei-2024-08732",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11469/lei_8732-2024.pdf",
+     "sha256": "d27206f8af20880053ae59bb85ccfb9b919c248104816e67a615c82af9182621",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.732, DE 18/03/2024 INSTITUI E INCLUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS A SEMANA DA CRIATIVIDADE E INOVAÇÃO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8732 DE 18 DE MARÇO DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída e incluída no Calendário Oficial de Eventos do Município de Petrópolis a Semana da Criatividade e Inovação de Petrópolis, a ser comemorada anualmente na semana que compreende o dia 21 de abril, dia em que é comemorado o Dia Mundial da Criatividade e Inovação segundo a Resolução 71/284 da Organização das Nações Unidas.\nParágrafo único. O evento de que trata esta Lei poderá ser realizado em qualquer outra data dentro do referido mês, em caso de inviabilidade de aplicação do caput deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A data a que se refere o art. 1º desta Lei poderá ser comemorada anualmente com reuniões, palestras, seminários ou outros eventos relacionados à criatividade e à inovação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Semana da Criatividade e Inovação tem por objetivo valorizar, incentivar e celebrar a criatividade e a inovação para o desenvolvimento econômico e social, sempre de forma sustentável.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo fica autorizado a firmar parcerias e convênios com o obietivo de realizar eventos referentes ao disposto no artigo 1º desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação Mando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.732, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08731",
+   "short": "Lei 8731/2024",
+   "title": "Lei nº 8.731, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11468",
+   "first_law": "lei-2024-08731",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11468/lei_8731-2024.pdf",
+     "sha256": "7af147716bad26c9b4009e7744260b816c9d783a8bd35422cf9fb123b339b8ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.731, DE 18/03/2024 DISPÕE SOBRE A INSTITUIÇÃO DO \"BUNKA-SAI\" NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8731 DE 18 DE MARÇO DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o BUNKA-SAI no Calendário Oficial do Município de Petrópolis a ser realizado, anualmente, durante o mês de outubro.\nParágrafo único. As datas específicas do início e fim do BUNKA-SAI serão definidas pelo Chefe do Poder Executivo e a Comissão Organizadora da entidade representativa dos japoneses e seus descendentes no município.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica proibida a alteração do nome BUNKA-SAI como forma de descaracterizar a sua finalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica o Poder Executivo autorizado a firmar parcerias a fim de possibilidade a realização do BUNKA-SAI.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo poderá regulamentar essa Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.731, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08730",
+   "short": "Lei 8730/2024",
+   "title": "Lei nº 8.730, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11467",
+   "first_law": "lei-2024-08730",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11467/lei_8730-2024.pdf",
+     "sha256": "90b642e27cfbde95501f7f332fd52417ef7f391860e669fdaf3147602de4c85d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.730, DE 18/03/2024 DENOMINA COMO SERVIDÃO MARIA PITZER DE GONÇALVES, TRECHO DELIMITADO, PARTINDO DE LADEIRA SITUADA NA BR 040, SENTIDO TERMINAL RODOVIÁRIO LEONEL BRIZOLA, NAS PROXIMIDADES DO KM 81, CONTORNO - PETRÓPOLIS/RJ, CUJO TÉRMINO SE DARÁ NO FIM DE RUA SEM SAÍDA, TOTALIZANDO APROXIMADAMENTE 250M.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8730 DE 18 DE MARÇO DE 2024\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Denomina como Servidão Maria Pitzer de Gonçalves, trecho delimitado, partindo de ladeira situada na BR 040, sentido Terminal Rodoviário Leonel Brizola, nas proximidades do Km 81, Contorno - Petrópolis/RJ, cujo término se dará no fim de Rua sem saída, totalizando aproximadamente extensão 250m.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogados as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito, em 18 de março de 2024\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.730, de 18 de março de 2024; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
