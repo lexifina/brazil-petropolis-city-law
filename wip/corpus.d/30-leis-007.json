@@ -1,0 +1,1671 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-01",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "30 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2023-08629": {
+   "label": "Lei nº 8.629, de 10 de novembro de 2023",
+   "title": "DENOMINA \" RUA MOISÉS KUPERMAN\" O LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO ARARAS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-11-10",
+   "published": "2023-11-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11366",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08628": {
+   "label": "Lei nº 8.628, de 10 de novembro de 2023",
+   "title": "DENOMINA \"SERVIDÃO ANTONIETA DE SOUZA GOMES\", LOGRADOURO PÚBLICO LOCALIZADO NO ENTRONCAMENTO COM A RUA GOIÁS, LOTE 24, QUADRA 64, RIO DE JANEIRO, QUITANDINHA.",
+   "kind": "law",
+   "enacted": "2023-11-10",
+   "published": "2023-11-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11365",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08627": {
+   "label": "Lei nº 8.627, de 10 de novembro de 2023",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS O DIA MUNICIPAL DO VEGANISMO E A SEMANA MUNICIPAL DA CONSCIÊNCIA VEGANA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-11-10",
+   "published": "2023-11-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11364",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08626": {
+   "label": "Lei nº 8.626, de 10 de novembro de 2023",
+   "title": "ALTERA A LEI MUNICIPAL Nº 7.947, DE 17 DE FEVEREIRO DE 2020.",
+   "kind": "law",
+   "enacted": "2023-11-10",
+   "published": "2023-11-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11363",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08621": {
+   "label": "Lei nº 8.621, de 23 de outubro de 2023",
+   "title": "DENOMINA \"RUA PASSATEMPO\" O LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO ARARAS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-10-23",
+   "published": "2023-10-23",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11358",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08620": {
+   "label": "Lei nº 8.620, de 23 de outubro de 2023",
+   "title": "DENOMINA ESTRADA DAS CANDEIAS, O LOGRADOURO PÚBLICO, LOCALIZADO NO BREJAL, POSSE, 5º DISTRITO DE PETRÓPOLIS, COM APROXIMADAMENTE 1,4KM DE EXTENSÃO.",
+   "kind": "law",
+   "enacted": "2023-10-23",
+   "published": "2023-10-23",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11357",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08619": {
+   "label": "Lei nº 8.619, de 23 de outubro de 2023",
+   "title": "DISPÕE SOBRE O PROGRAMA SAÚDE BUCAL DO IDOSO NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-23",
+   "published": "2023-10-23",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11356",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08618": {
+   "label": "Lei nº 8.618, de 23 de outubro de 2023",
+   "title": "DENOMINA \"SERVIDÃO RAFAELA STRAUB DOS SANTOS\" O LOGRADOURO PÚBLICO QUE SE INICIA AO LADO DO Nº 552 DA RUA VINTE E NOVE DE JUNHO, COM APROXIMADAMENTE 120 METROS DE EXTENSÃO, NO BAIRRO VALPARAISO, PETRÓPOLIS - RJ.",
+   "kind": "law",
+   "enacted": "2023-10-23",
+   "published": "2023-10-23",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11355",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08617": {
+   "label": "Lei nº 8.617, de 23 de outubro de 2023",
+   "title": "DISPÕE SOBRE A PRIORIDADE DE ATENDIMENTO PARA PESSOAS QUE REALIZAM TRATAMENTO DE QUIMIOTERAPIA, RADIOTERAPIA, HEMODIÁLISE OU UTILIZEM BOLSA DE COLOSTOMIA NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-23",
+   "published": "2023-10-23",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11354",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08615": {
+   "label": "Lei nº 8.615, de 9 de outubro de 2023",
+   "title": "INSTITUI A POLÍTICA MUNICIPAL DE COMBATE À OBESIDADE INFANTIL NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-09",
+   "published": "2023-10-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11352",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08614": {
+   "label": "Lei nº 8.614, de 9 de outubro de 2023",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS A SEMANA DE CONSCIENTIZAÇÃO, PREVENÇÃO E ORIENTAÇÃO SOBRE A ARTRITE REUMATOIDE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-09",
+   "published": "2023-10-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11351",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08613": {
+   "label": "Lei nº 8.613, de 6 de outubro de 2023",
+   "title": "INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS A SEMANA DE CONSCIENTIZAÇÃO SOBRE A ESPOROTRICOSE E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-10-06",
+   "published": "2023-10-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11350",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08612": {
+   "label": "Lei nº 8.612, de 3 de outubro de 2023",
+   "title": "DENOMINA RUA GUILHERME LEVANDEIRA VALÉRIO O LOGRADOURO PÚBLICO SITUADO PRÓXIMO A ESTRADA DE CASCATINHA COM INÍCIO NA RUA LOIO GALLUCI NÚMERO 1390 ATÉ O LIMITE ONDE SE INICIA A RUA DA CHÁCARA LOCALIZADA NO ALTO BOA VISTA.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11349",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08611": {
+   "label": "Lei nº 8.611, de 3 de outubro de 2023",
+   "title": "DISPÕE SOBRE A INSTITUIÇÃO DA CAMPANHA PERMANENTE DE PREVENÇÃO E COMBATE À PRÁTICA DE MAUS-TRATOS A ANIMAIS NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11348",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08610": {
+   "label": "Lei nº 8.610, de 3 de outubro de 2023",
+   "title": "DENOMINA \"POSTO DE SAÚDE MANOEL FRANCISCO ASSUMPÇÃO\" A SER INSTALADO NA RUA VICENZO RIVETTI, NO BAIRRO CARANGOLA.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11347",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08609": {
+   "label": "Lei nº 8.609, de 3 de outubro de 2023",
+   "title": "TORNA OBRIGATÓRIA A APLICAÇÃO DO QUESTIONÁRIO M-CHAT PARA REALIZAÇÃO DO RASTREAMENTO DE SINAIS PRECOCES DO AUTISMO DURANTE ATENDIMENTOS EM UNIDADES DE SAÚDE PÚBLICAS E PRIVADAS DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11346",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08608": {
+   "label": "Lei nº 8.608, de 3 de outubro de 2023",
+   "title": "ALTERA A LEI MUNICIPAL Nº 8.318 DE 03 DE MAIO DE 2022.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11345",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08607": {
+   "label": "Lei nº 8.607, de 3 de outubro de 2023",
+   "title": "DECLARA PATRIMÔNIO CULTURAL DE NATUREZA IMATERIAL O FORRÓ NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11344",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08606": {
+   "label": "Lei nº 8.606, de 3 de outubro de 2023",
+   "title": "INSTITUI O DIA MUNICIPAL DO FORRÓ NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11343",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08605": {
+   "label": "Lei nº 8.605, de 3 de outubro de 2023",
+   "title": "DISPÕE SOBRE O PRAZO DE VALIDADE DE LAUDO MÉDICO-PERICIAL QUE ATESTA TRANSTORNO DO ESPECTRO AUTISTA - TEA E OUTRAS DEFICIÊNCIAS DE CARÁTER PERMANENTE, PARA OS FINS QUE ESPECIFICA, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-10-03",
+   "published": "2023-10-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11342",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08604": {
+   "label": "Lei nº 8.604, de 29 de setembro de 2023",
+   "title": "DISPÕE SOBRE A IMPLANTAÇÃO DE COLETA DE LIXO ELETRÔNICO DE PEQUENO PORTE EM TODAS AS ESCOLAS PÚBLICAS E PARTICULARES DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-09-29",
+   "published": "2023-09-29",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11341",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08603": {
+   "label": "Lei nº 8.603, de 18 de setembro de 2023",
+   "title": "DISPÕE SOBRE A CRIAÇÃO DE ESTACIONAMENTO DE BICICLETAS EM LOCAIS ABERTOS À FREQUÊNCIA DE PÚBLICO NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-09-18",
+   "published": "2023-09-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11340",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08602": {
+   "label": "Lei nº 8.602, de 18 de setembro de 2023",
+   "title": "DECLARA-SE COMO PATRIMÔNIO CULTURAL IMATERIAL, NO MUNICÍPIO DE PETRÓPOLIS - RJ, A BAUERNFEST - FESTA DO COLONO ALEMÃO.",
+   "kind": "law",
+   "enacted": "2023-09-18",
+   "published": "2023-09-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11339",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08601": {
+   "label": "Lei nº 8.601, de 18 de setembro de 2023",
+   "title": "DISPÕE SOBRE O \"CONGELAMENTO\" DA TARIFA DAS EMPRESAS CONCESSIONÁRIAS DE TRANSPORTE PÚBLICO RESULTANTE DA PRECARIEDADE DAS FROTAS E MÁ PRESTAÇÃO DO SERVIÇO NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-09-18",
+   "published": "2023-09-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11338",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08600": {
+   "label": "Lei nº 8.600, de 18 de setembro de 2023",
+   "title": "DISPÕE SOBRE A INSTITUIÇÃO DO \"FESTIVAL DE INVERNO DE ITAIPAVA\" NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-09-18",
+   "published": "2023-09-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11337",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08599": {
+   "label": "Lei nº 8.599, de 18 de setembro de 2023",
+   "title": "DESTINA 5% (CINCO POR CENTO) DO TOTAL DE MORADIAS POPULARES DE PROGRAMAS HABITACIONAIS PÚBLICOS ÀS VÍTIMAS DE VIOLÊNCIA CONTRA A MULHER, CONFORME PREVISÃO NA LEI Nº 11.340, DE 07 DE AGOSTO DE 2006, LEI MARIA DA PENHA, E ÀS OFENDIDAS POR TENTATIVA DE CRIME DE FEMINICÍDIO, CONSTRUÍDAS OU VIA CONVÊNIOS CELEBRADOS PELA PREFEITURA MUNICIPAL DE PETRÓPOLIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-09-18",
+   "published": "2023-09-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11336",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08598": {
+   "label": "Lei nº 8.598, de 18 de setembro de 2023",
+   "title": "INSTITUI O \"PROJETO MEUS AVÓS SABEM TUDO\", QUE VISA A VALORIZAÇÃO DE IDOSOS PARA FINS EDUCACIONAIS CULTURAIS E SOCIAIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-09-18",
+   "published": "2023-09-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11335",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08597": {
+   "label": "Lei nº 8.597, de 4 de setembro de 2023",
+   "title": "ALTERA A LEI MUNICIPAL Nº4.037, DE 29/08/1980 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2023-09-04",
+   "published": "2023-09-04",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11334",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08596": {
+   "label": "Lei nº 8.596, de 1 de setembro de 2023",
+   "title": "DISPÕE SOBRE A POSSIBILIDADE DE APRESENTAÇÃO DE ATESTADO EMITIDO POR MÉDICO PARTICULAR PARA FINS DE COMPROVAÇÃO DE DIAGNÓSTICO DE SAÚDE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2023-09-01",
+   "published": "2023-09-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11333",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-08595": {
+   "label": "Lei nº 8.595, de 1 de setembro de 2023",
+   "title": "ALTERA A LEI MUNICIPAL Nº 4.835 DE 11 DE JUNHO DE 1991, ACRESCENTANDO PARÁGARFO ÚNICO AO SEU ARTIGO 1º.",
+   "kind": "law",
+   "enacted": "2023-09-01",
+   "published": "2023-09-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11332",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2023-08629",
+   "short": "Lei 8629/2023",
+   "title": "Lei nº 8.629, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11366",
+   "first_law": "lei-2023-08629",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11366/lei_8629-2023.pdf",
+     "sha256": "d1fdd63fcb9506a222704c1a7859763aba96d95397a098448c1a49dce7cfe16c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.629, DE 10/11/2023 DENOMINA RUA MOISÉS KUPERMAN O LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO ARARAS, E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.629 DE 10 DE NOVEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Moisés Kuperman o logradouro público, no Bairro de Araras, com início na bifurcação com a Rua Jaderico Machado, situada cerca de 890m (oitocentos e noventa metros) do início desta, com término na Rua Passatempo, com aproximadamente 450m (quatrocentos e cinquenta metros) de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 10 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.629, de 10 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08628",
+   "short": "Lei 8628/2023",
+   "title": "Lei nº 8.628, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11365",
+   "first_law": "lei-2023-08628",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11365/lei_8628-2023.pdf",
+     "sha256": "6902aa799538c86a3ad6a668b0b248fc918152d5d8998a1968813cc59fd3c24d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.628, DE 10/11/2023 DENOMINA SERVIDÃO ANTONIETA DE SOUZA GOMES, LOGRADOURO PÚBLICO LOCALIZADO NO ENTRONCAMENTO COM A RUA GOIÁS, LOTE 24, QUADRA 64, RIO DE JANEIRO, QUITANDINHA.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.628 DE 10 DE NOVEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Servidão Antonieta de Souza Gomes, logradouro público localizado no entroncamento com a Rua Goiás, lote 24, quadra 64, Rio de Janeiro, Quitandinha, possuindo aproximadamente 44 metros de comprimento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 10 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.628, de 10 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08627",
+   "short": "Lei 8627/2023",
+   "title": "Lei nº 8.627, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11364",
+   "first_law": "lei-2023-08627",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11364/lei_8627-2023.pdf",
+     "sha256": "4ffb9b87fccdcf6b3a3c3f4a81940d048172e8df9c181b86cdb9b2c5063db3d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.627, DE 10/11/2023 INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS O DIA MUNICIPAL DO VEGANISMO E A SEMANA MUNICIPAL DA CONSCIÊNCIA VEGANA E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.627 DE 10 DE NOVEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam instituídos no Calendário Oficial de Eventos do Município Petrópolis:\nI - o Dia Municipal do Veganismo, a ser comemorado anualmente no dia 1º de novembro;\nII - a Semana Municipal da Consciência Vegana, a ser comemorada na semana que inclui o dia 1º de novembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Municipal da Consciência Vegana terá como objetivos:\nI - propiciar o debate junto ao Poder Público para o avanço de políticas públicas que visem a conscientizar e informar a sociedade sobre o veganismo;\nII - estimular a sociedade a adotar, de forma consciente e orientada por profissionais de saúde e nutrição, alternativas saudáveis de alimentação e de vida que não envolvam o sacrifício e a exploração animal;\nIII - promover orientação qualificada à população sobre as vantagens da alimentação vegana na prevenção de doenças e promoção da qualidade de vida;\nIV - reforçar a vedação da crueldade e da exploração de todas as espécies animais, bem como a importância do respeito aos seus direitos e à sua dignidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos da presente Lei, o Poder Executivo poderá:\nI - realizar, nas comunidades, universidades, escolas e demais espaços públicos, debates, palestras, campanhas educativas e seminários com profissionais da área de saúde e nutrição, sem prejuízo de outras ações pertinentes;\nII - celebrar convênios e parcerias público-privadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 10 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.627, de 10 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08626",
+   "short": "Lei 8626/2023",
+   "title": "Lei nº 8.626, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11363",
+   "first_law": "lei-2023-08626",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11363/lei_8626-2023.pdf",
+     "sha256": "676b176383ca3dbe14d3b442246829d57260e6b68e1bf8629fc2128867713d0a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.626, DE 10/11/2023 ALTERA A LEI MUNICIPAL Nº 7.947, DE 17 DE FEVEREIRO DE 2020.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.626 DE 10 DE NOVEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a redação da Lei Municipal nº 7.947 de 17 de fevereiro de 2020, incluindo-se aos seus termos o parágrafo único ao art. 3º, passando a vigorar com a seguinte redação:\n\"Art. 3º (...)\nParágrafo único. A Carteira de Identiﬁcação das Pessoas com Fibromialgia deverá ser expedida pelo Poder Público no prazo de 30 (trinta) dias corridos, prorrogáveis por mais 15 (quinze) dias corridos, em caso de justiﬁcada necessidade, a serem contados a partir da data de protocolo do requerimento junto ao órgão competente por sua emissão no Município de Petrópolis.\"\n(...)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As demais disposições seguem inalteradas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 10 de novembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.626, de 10 de novembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08621",
+   "short": "Lei 8621/2023",
+   "title": "Lei nº 8.621, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11358",
+   "first_law": "lei-2023-08621",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11358/lei_8621-2023.pdf",
+     "sha256": "614283164a1f73e5bcd406f1029b5a7c27599d0f6f6ee71cd98d9a76d1a4bffe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.621, DE 23/10/2023 DENOMINA RUA PASSATEMPO O LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO DE ARARAS E DÁ OUTRAS PROVIDÊNCIAS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8621 DE 23 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Passatempo o logradouro público no Bairro de Araras, com início na bifurcação com a Rua Jaderico Machado, situada cerca de 600 (seiscentos) metros do início desta, com término no largo sem saída, inicialmente conhecido como Caminho A, com aproximadamente 750 (setecentos e cinqüenta) metros de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 23 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.621, de 23 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08620",
+   "short": "Lei 8620/2023",
+   "title": "Lei nº 8.620, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11357",
+   "first_law": "lei-2023-08620",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11357/lei_8620-2023.pdf",
+     "sha256": "ca7e31af00105970e3f9587a3d6038cde184b3c4f51d15e086bc071a7c99314b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.620, DE 23/10/2023 DENOMINA ESTRADA DAS CANDEIAS, O LOGRADOURO PÚBLICO, LOCALIZADO NO BREJAL, POSSE, 5º DISTRITO DE PETRÓPOLIS, COM APROXIMADAMENTE 1,4KM DE EXTENSÃO.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8620 DE 23 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Estrada das Candeias, o Logradouro Público localizado no Brejal, Posse, 5º Distrito de Petrópolis com aproximadamente 1,4km de extensão, que se inicia as margens direita do km 05 da Estrada do Brejal, conhecido como Gleba das Araraucárias. Logradouro sem sáida.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 23 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.620, de 23 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08619",
+   "short": "Lei 8619/2023",
+   "title": "Lei nº 8.619, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11356",
+   "first_law": "lei-2023-08619",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11356/lei_8619-2023.pdf",
+     "sha256": "8cac1f334e8fae8b29b3df4ae7efe438a9641bb01a229b6ece2fabd98a66b186",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.619, DE 23/10/2023 DISPÕE SOBRE O PROGRAMA SAÚDE BUCAL DO IDOSO NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8619 DE 23 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Dispõe sobre o programa saúde bucal do idoso no âmbito do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei tem como objetivo fomentar o direito de acesso às ações e serviços de saúde bucal para pessoas com idade igual ou superior a 60 (sessenta) anos, nos termos do Estatuto do Idoso, Lei Federal nº 10.741, de 01 de outubro de 2003.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Programa Saúde Bucal do Idoso poderá ter como objetivo o diagnóstico bucal preventivo, tratamento clínico odontológico e prótese.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo, poderá, no uso de suas competências constitucionais, estabelecer a estrutura e as diretrizes do Programa de Saúde Bucal do Idoso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo Municipal poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 23 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.619, de 23 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08618",
+   "short": "Lei 8618/2023",
+   "title": "Lei nº 8.618, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11355",
+   "first_law": "lei-2023-08618",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11355/lei_8618-2023.pdf",
+     "sha256": "28c3fdc82db79cf49edae185ad84029c601c944161e3fd6356ae4a5127d521a0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.618, DE 23/10/2023 DENOMINA SERVIDÃO RAFAELA STRAUB DOS SANTOS O LOGRADOURO PÚBLICO QUE SE INICIA AO LADO DO Nº 552 DA RUA VINTE E NOVE DE JUNHO, COM APROXIMADAMENTE 120 METROS DE EXTENSÃO, NO BAIRRO VALPARAISO, PETRÓPOLIS - RJ.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8618 DE 23 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado SERVIDÃO RAFAELA STRAUB DOS SANTOS, o logradouro público que se inicia ao lado do Nº 552 da Rua Vinte e Nove de Junho, com aproximadamente 120 metros de extensão, no bairro Valparaíso, Petrópolis - RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Deverá comunicar o Núcleo Gestor de Dados Georreferenciados para identificação e lançamento do logradouro no sistema SIGWEB.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 23 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.618, de 23 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08617",
+   "short": "Lei 8617/2023",
+   "title": "Lei nº 8.617, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11354",
+   "first_law": "lei-2023-08617",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11354/lei_8617-2023.pdf",
+     "sha256": "10b718167a6444c41c13d5867505a15db26383c27faa533c4cdb29290da2e483",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.617, DE 23/10/2023 DISPÕE SOBRE A PRIORIDADE DE ATENDIMENTO PARA PESSOAS QUE REALIZAM TRATAMENTO DE QUIMIOTERAPIA, RADIOTERAPIA, HEMODIÁLISE OU UTILIZEM BOLSA DE COLOSTOMIA NO MUNICÍPIO DE PETRÓPOLIS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8617 DE 23 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica determinado à prioridade de atendimento, para pessoas que realizam tratamento de quimioterapia, radioterapia, hemodiálise ou utilizem bolsa de colostomia no município de Petrópolis. Parágrafo único. A determinação a que se refere o artigo primeiro garante direito a atendimento prioritário nas filas de Bancos, Casas Lotéricas, Supermercados e/ou congêneres, e em órgãos públicos municipais em que houver atendimento ao público.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As empresas públicas de transporte e as concessionárias de transporte coletivo deverão disponibilizar as pessoas às quais se refere o art. 1º desta Lei, acesso aos assentos de prioridade por estarem equiparadas à condição de deficiência e mobilidade reduzida, devido às condições e às consequências da doença/tratamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica garantido em estacionamentos de estabelecimentos privados ou de uso coletivo, para as pessoas às quais se refere o art. 1º desta Lei, o direito à utilização das vagas de estacionamento destinadas para pessoas com deficiência, com dificuldade de locomoção e idosos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O benefício objeto desta Lei somente será válido no período em que estiver sendo realizado um ou mais dos tratamentos elencados no artigo 1º.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo deverá regulamentar esta Lei estabelecendo normas e critérios para concessão de documento hábil, a fim de comprovação das condições elencadas em seu 1º.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data da sua promulgação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 23 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.617, de 23 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08615",
+   "short": "Lei 8615/2023",
+   "title": "Lei nº 8.615, de 9 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11352",
+   "first_law": "lei-2023-08615",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11352/lei_8615-2023.pdf",
+     "sha256": "24863b82b7cdc7025182a4d6c428ef6339ecedb9618c4ff0e9d0ee511fd17c28",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.615, DE 09/10/2023 INSTITUI A POLÍTICA MUNICIPAL DE COMBATE À OBESIDADE INFANTIL NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8615 DE 09 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do Município de Petrópolis, a Política Municipal de Combate à Obesidade Infantil, que tem como finalidade implementar ações eficazes para a redução de peso, O combate à obesidade infantil e à obesidade mórbida infantil.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Constituem diretrizes da Política Municipal de Combate à Obesidade Infantil em no Município de Petrópolis:\nI - promoção e desenvolvimento de programas, projetos e ações, de forma intersetorial, que efetivem no município O direito humano universal à alimentação e nutrição adequadas;\nII - o combate à obesidade infantil na rede escolar;\nIII - a utilização de locais públicos, tais como parques, escolas e postos de saúde para fins de implementação da Política Municipal de Combate à Obesidade Infantil;\nIV - a promoção de campanhas:\na) de conscientização que ofereçam informações básicas sobre alimentação adequada, através de materiais informativos e institucionais;\nb) de estímulo ao aleitamento materno, como forma de prevenir tanto a obesidade quanto a desnutrição;\nV - a capacitação do Servidor Público municipal que trabalha diretamente com a população, tornando-o um agente multiplicador da segurança alimentar e nutricional em sua plenitude;\nVI - a integração às políticas estadual e nacional de segurança alimentar e de saúde;\nVII - O direcionamento especial da política às comunidades que registrem baixos índices de desenvolvimento econômico e social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Município poderá celebrar convênios e parcerias com a União, Estados e entidades da Sociedade Civil, visando à consecução dos objetivos da Política Municipal de Combate à Obesidade Infantil.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação, revogando as disposições contrárias.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 09 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.615, de 9 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08614",
+   "short": "Lei 8614/2023",
+   "title": "Lei nº 8.614, de 9 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11351",
+   "first_law": "lei-2023-08614",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11351/lei_8614-2023.pdf",
+     "sha256": "c6f5087fee37770d38102db836bda954d190d79abea585ae71804f3fa7a54c29",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.614, DE 09/10/2023 INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS A SEMANA DE CONSCIENTIZAÇÃO, PREVENÇÃO E ORIENTAÇÃO SOBRE A ARTRITE REUMATOIDE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8614 DE 09 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Institui no calendário oficial de eventos a semana de conscientização, prevenção e orientação sobre a artrite reumatóide no âmbito do Município de Petrópolis.\nParágrafo único. A efeméride constante no caput deste artigo será realizada, anualmente, na semana que contiver o dia 12 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os interessados pelo mote desta Lei, promoverão todas as ações pertinentes que viabilizem o fiel cumprimento desta para a conscientização dos sintomas, os tratamentos existentes e demais assuntos referentes a referida semana.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 09 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.614, de 9 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08613",
+   "short": "Lei 8613/2023",
+   "title": "Lei nº 8.613, de 6 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11350",
+   "first_law": "lei-2023-08613",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11350/lei_8613-2023.pdf",
+     "sha256": "de7c2ec1be8c9f7609eb99ae4c52cff5f7afb218687cfb7c3652fafb96fd207d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.613, DE 06/10/2023 INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS A SEMANA DE CONSCIENTIZAÇÃO SOBRE A ESPOROTRICOSE E DÁ OUTRAS PROVIDÊNCIAS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8613 DE 06 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do Município de Petrópolis a Semana de Conscientização sobre Esporotricose, dedicado à prevenção e conscientização da doença.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana de Conscientização sobre Esporotricose passa a integrar o Calendário Oficial de Datas e Eventos do Município de Petrópolis a ser comemorada anualmente na semana em que recair o dia 08 do mês de agosto.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Na Semana de Conscientização sobre a Esporotricose poderão ser desenvolvidas ações, com os seguintes objetivos:\nI - alertar e promover debates sobre o tema;\nII - estabelecer diretrizes para O desenvolvimento de ações integradas, envolvendo a população, órgãos públicos, instituições públicas e privadas;\nIII - estimular, sob o ponto de vista social e educacional, a concretização de ações, programas e projetos na área;\nIV - realizar palestras, campanhas ou outros eventos similares, com O objetivo de apresentar, difundir e dialogar sobre a Esporotricose e seu tratamento em animais e no homem.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 06 de outubro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.613, de 6 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08612",
+   "short": "Lei 8612/2023",
+   "title": "Lei nº 8.612, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11349",
+   "first_law": "lei-2023-08612",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11349/lei_8612-2023.pdf",
+     "sha256": "2a1f15d56022e4d816dd845d994d1d3558bd7cf4675efa8a3f06361f684709fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.612, DE 03/10/2023 DENOMINA RUA GUILHERME LEVANDEIRA VALÉRIO O LOGRADOURO PÚBLICO SITUADO PRÓXIMO A ESTRADA DE CASCATINHA COM INÍCIO NA RUA LOIO GALLUCI NÚMERO 1390 ATÉ O LIMITE ONDE SE INICIA A RUA DA CHÁCARA LOCALIZADA NO ALTO BOA VISTA.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.612 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Guilherme Levandeira Valério, o logradouro público situado próximo a Estrada de Cascatinha, com início na Rua Loio Galluci, número 1390, até o limite onde se inicia a Rua da Chácara, localizada no Alto Boa Vista. A via possuirá extensão de aproximadamente 650m de comprimento por 4m de largura, localizada no bairro Estrada da Saudade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.612, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08611",
+   "short": "Lei 8611/2023",
+   "title": "Lei nº 8.611, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11348",
+   "first_law": "lei-2023-08611",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11348/lei_8611-2023.pdf",
+     "sha256": "c5841ba06f721cc8e6fcf46cb5fefd43175326895a7e8bf52272064cdbdc756e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.611, DE 03/10/2023 DISPÕE SOBRE A INSTITUIÇÃO DA CAMPANHA PERMANENTE DE PREVENÇÃO E COMBATE À PRÁTICA DE MAUS-TRATOS A ANIMAIS NO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.611 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Permanente de Prevenção e Combate à Prática de Maus-tratos a Animais no Município de Petrópolis.\nParágrafo único. A campanha referida no caput poderá ser realizada continuamente, podendo o Poder Público realizar parcerias público-privadas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Campanha Permanente de Prevenção e Combate à Prática de Maus-tratos a Animais tem por diretrizes:\nI - a condição dos animais de seres senscientes, cujos direitos fundamentais estão protegidos pela Constituição Federal;\nII - a dignidade inerente aos animais, o que lhes confere a condição de sujeitos de direitos;\nIII - as cinco liberdades que norteiam as práticas de bem-estar animal.\nParágrafo único. As cinco liberdades dos animais de que trata o inciso anterior consistem na ausência de:\nI - fome e sede;\nII - desconforto;\nIII - doença e injúria;\nIV - medo e estresse;\nV - impedimento para expressar os comportamentos naturais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São objetivos da presente Lei:\nI - conscientizar a população petropolitana:\na) de que o abandono de animais é crime na forma do artigo 32 da Lei Federal nº 9.605, de 12 de fevereiro de 1998;\nb) sobre a capacidade dos animais de experimentar sensações de forma consciente e que, por isso, não podem ser tratados como mercadorias ou objetos descartáveis;\nc) de que o dever de cuidado para com os animais é tanto do Poder Público como de toda a sociedade.\nII - informar à população petropolitana sobre canais públicos de denúncia contra maus-tratos, abandono e crueldades contra animais;\nIII - estimular a população à guarda responsável de animais;\nIV - incentivar práticas humanitárias em relação aos animais;\nV - contribuir para a melhoria dos indicadores relativos à redução de maus-tratos, abandono e crueldade aos animais no Município de Petrópolis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para a consecução dos fins desta Lei o Poder Público poderá desenvolver:\nI - palestras nas comunidades, universidades, escolas e demais espaços públicos;\nII - campanhas educativas nos meios de comunicação oficial e de grande circulação do Município de Petrópolis;\nIII - visitação de agentes comunitários nas residências dos munícipes com distribuição de panfletos informativos;\nIV - campanhas publicitárias nas redes sociais oficiais;\nV - colocação de busdoor e cartazes informativos no transporte coletivo municipal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a presente Lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.611, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08610",
+   "short": "Lei 8610/2023",
+   "title": "Lei nº 8.610, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11347",
+   "first_law": "lei-2023-08610",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11347/lei_8610-2023.pdf",
+     "sha256": "f67618a2ef77e79ae7ac9015019cb4b1ceb2352e51f43dedbe31fe737c8c9c81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.610, DE 03/10/2023 DENOMINA POSTO DE SAÚDE MANOEL FRANCISCO ASSUMPÇÃO A SER INSTALADO NA RUA VICENZO RIVETTI, NO BAIRRO CARANGOLA.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.610 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado POSTO DE SAÚDE MANOEL FRANCISCO ASSUMPÇÃO o posto de saúde a ser instalado na Rua Vicenzo Rivetti (ao lado do condomínio do Programa Minha Casa, Minha Vida), no bairro Carangola.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.610, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08609",
+   "short": "Lei 8609/2023",
+   "title": "Lei nº 8.609, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11346",
+   "first_law": "lei-2023-08609",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11346/lei_8609-2023.pdf",
+     "sha256": "bcff0807e4a0b70ac8edb7ccea5ec8b15fa0659269be1b41ec322990c3fce15c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.609, DE 03/10/2023 TORNA OBRIGATÓRIA A APLICAÇÃO DO QUESTIONÁRIO M-CHAT PARA REALIZAÇÃO DO RASTREAMENTO DE SINAIS PRECOCES DO AUTISMO DURANTE ATENDIMENTOS EM UNIDADES DE SAÚDE PÚBLICA DO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.609 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As unidades de saúde pública do município de Petrópolis deverão utilizar e aplicar o questionário M-CHAT (Modified Checklist for Autism in Toddlers) para prever o rastreamento de sinais precoces do Transtorno do Espectro do Autismo - TEA.\n§ 1º O questionário M-CHAT (Modified Checklist for Autism in Tod- dlers) deverá ser aplicado às crianças entre 16 e 30 meses, com a finalidade de obter um diagnóstico precoce do Transtorno do Espectro Autista - TEA.\n§ 2º A aplicação do questionário M-CHAT prevista nesta Lei não exclui a utilização de teste diverso, mais adequado ao caso, conforme avaliação médica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Com o diagnóstico positivo oriundo do rastreamento de sinais precoces de autismo de que trata a presente Lei, as famílias deverão ser encaminhadas para os serviços especializados para avaliação do diagnóstico utilizando outras metodologias, visando o rastreamento e o devido monitoramento dos casos em investigação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.609, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08608",
+   "short": "Lei 8608/2023",
+   "title": "Lei nº 8.608, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11345",
+   "first_law": "lei-2023-08608",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11345/lei_8608-2023.pdf",
+     "sha256": "f10efd03f8b80020e78662c0bec8d50ba7919f59fbc88732206382eac37eed87",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.608, DE 03/10/2023 ALTERA A LEI MUNICIPAL Nº 8.318 DE 03 DE MAIO DE 2022.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.608 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a redação da Lei Municipal nº 8.318 de 03 de maio de 2022, incluindo-se aos seus termos o parágrafo único do artigo 1º, passando a vigorar com a seguinte redação:\n\"Art. 1º(...) (...)\nParágrafo único. A Carteira de Identiﬁcação da Pessoa com Transtorno do Espectro Autista (CIPTEA) deverá ser expedida pelo Poder Público no prazo máximo de 30 (trinta) dias corridos, prorrogáveis por mais 15 (quinze) dias corridos em caso de justiﬁcada necessidade, a serem contados a partir da data de protocolo do requerimento junto ao órgão competente pela emissão da CIPTEA no Município de Petrópolis.\n(...)\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As demais disposições seguem inalteradas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.608, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08607",
+   "short": "Lei 8607/2023",
+   "title": "Lei nº 8.607, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11344",
+   "first_law": "lei-2023-08607",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11344/lei_8607-2023.pdf",
+     "sha256": "f5143d4b15e6bfc61eab5e20dbf1d20fbf9944e83d5fa0df9b634fc64955f705",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.607, DE 03/10/2023 DECLARA PATRIMÔNIO CULTURAL DE NATUREZA IMATERIAL O FORRÓ NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.607 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado o Forró, gênero musical, dança e manifestações artísticas decorrentes, como Patrimônio Cultural de Natureza Imaterial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os devidos fins, o Poder Executivo procederá aos registros pertinentes nos livros próprios do órgão de tutela do patrimônio petropolitano.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.607, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08606",
+   "short": "Lei 8606/2023",
+   "title": "Lei nº 8.606, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11343",
+   "first_law": "lei-2023-08606",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11343/lei_8606-2023.pdf",
+     "sha256": "94500cfb5434d0c4ac71555f6d24c2a40942910fe0b165057b6d41f331800d8b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.606, DE 03/10/2023 INSTITUI O DIA MUNICIPAL DO FORRÓ NO CALENDÁRIO MUNICIPAL DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.606 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Municipal do Forró a ser comemorado anualmente no primeiro sábado do mês de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Municipal de que trata esta Lei passa a integrar o Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.606, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08605",
+   "short": "Lei 8605/2023",
+   "title": "Lei nº 8.605, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11342",
+   "first_law": "lei-2023-08605",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11342/lei_8605-2023.pdf",
+     "sha256": "2670a9fdad0cea8dbb63e0737be5a4a2297e5c0a3848f6e83a540befe82b8cd0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.605, DE 03/10/2023 DISPÕE SOBRE O PRAZO DE VALIDADE DE LAUDO MÉDICO-PERICIAL QUE ATESTA TRANSTORNO DO ESPECTRO AUTISTA - TEA E OUTRAS DEFICIÊNCIAS DE CARÁTER PERMANENTE, PARA OS FINS QUE ESPECIFICA, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.605 DE 03 DE OUTUBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O laudo médico-pericial que ateste Transtorno do Espectro Autista - TEA - e outras deficiências de caráter permanente - conforme definidas no inciso II, do artigo 3º do Decreto nº 3.298 de 1999 - para fins de obtenção de benefícios destinados às pessoas com deficiência, passa a ter validade por prazo indeterminado no Município de Petrópolis.\n§ 1º O laudo de que trata esta Lei poderá ser emitido por profissional da rede de saúde pública ou privada, observados os demais requisitos para a sua emissão estabelecidos na legislação pertinente.\n§ 2º O laudo de que trata esta Lei poderá ser apresentado às autoridades competentes por meio de cópia simples, desde que acompanhada do seu original, observado o disposto na Lei Federal nº 13.726, de 8 de outubro de 2018.\n§ 3º A apresentação do laudo de que trata esta Lei não exclui o cumprimento dos demais requisitos para a obtenção dos benefícios a que se refere o caput.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O laudo médico-pericial de que trata esta Lei terá efeito extensivo e abrangente a todos os direitos estabelecidos da Lei Federal 12.764/2012 e demais legislações pertinentes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 03 de outubro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.605, de 3 de outubro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08604",
+   "short": "Lei 8604/2023",
+   "title": "Lei nº 8.604, de 29 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11341",
+   "first_law": "lei-2023-08604",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11341/lei_8604-2023.pdf",
+     "sha256": "95592dbe1d88ce485542800069fb0084b105f03e8f860518275d733279e2370f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.604, DE 29/09/2023 DISPÕE SOBRE A IMPLANTAÇÃO DE COLETA DE LIXO ELETRÔNICO DE PEQUENO PORTE EM TODAS AS ESCOLAS PÚBLICAS E PARTICULARES DO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.604 DE 29 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, através do presente Projeto de Lei, a obrigatoriedade da coleta de lixo eletrônico de pequeno porte, nas escolas públicas e particulares do município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Considera-se lixo eletrônico de pequeno porte: pilhas, baterias e aparelhos celulares e outros objetos eletrônicos assemelhados.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica a Prefeitura de Municipal de Petrópolis autorizada a fazer parcerias com as empresas que fornecem os meios apropriados para o armazenamento e destino final da coleta de lixo eletrônico, permitindo que em sua área de armazenamento possa fixar sua logomarca como parceira da cidade de Petrópolis em favor da natureza, dando preferência a parceria que troquem o lixo eletrônico por benefícios para as escolas como: computadores e outros incentivos que adicionem materiais pedagógicos para serem utilizados em tecnologia da educação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A implantação da coleta de lixo eletrônico caberá a Secretaria Municipal de Meio Ambiente juntamente com a Secretaria Municipal de Educação com parceira da comunidade escolar, em defesa do meio ambiente da cidade de Petrópolis.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica facultativo o uso de gincana para incentivar a escola, alunos e a comunidade na conscientização e no recolhimento de lixo eletrônico, ficando as escolas que objetivarem os melhores resultados receberem do Poder Executivo e Legislativo um certificado de escola que cuida do meio ambiente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Público se encarregará da publicidade de conscientização educativa, visando conscientizar e estimular a participação dos alunos e da própria comunidade escolar em prol da conservação do meio ambiente, trabalhando em sala de aula o tema transversal do meio ambiente e quando possível abrir exposição pública para conscientização da comunidade local.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo poderá regulamentar a presente Lei, no que couber, bem como firmar parcerias, convênios ou termos de cooperação para a execução das atividades e objetivos previstos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 29 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.604, de 29 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08603",
+   "short": "Lei 8603/2023",
+   "title": "Lei nº 8.603, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11340",
+   "first_law": "lei-2023-08603",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11340/lei_8603-2023.pdf",
+     "sha256": "ae163350a33382f7f6c01554f18fe4e034e42822cd0ea527113df4d768645c76",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.603, DE 18/09/2023 DISPÕE SOBRE A CRIAÇÃO DE ESTACIONAMENTO DE BICICLETAS EM LOCAIS ABERTOS À FREQUÊNCIA DE PÚBLICO NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.603 DE 18 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O presente Projeto de Lei estabelece a instalação de estacionamentos gratuitos para bicicletas em locais de grande afluxo de pessoas, em todo o Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para fins desta Lei, entendem-se como locais públicos de grande afluxo os seguintes estabelecimentos:\na) órgãos públicos municipais;\nb) estacionamentos rotativos fechados de veículos sob responsabilidade da Prefeitura;\nc) parques;\nd) museus e outros equipamentos de natureza cultural (teatro, cinemas, casas de cultura, etc.);\ne) terminais de transporte público.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A segurança dos ciclistas e dos pedestres deverá ser determinante para a definição do local na implantação do estacionamento de bicicletas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os estacionamentos de bicicletas são locais adaptados e destinados ao estacionamento exclusivo de bicicletas.\nEntende-se por:\nI - Paraciclo - mobiliário urbano utilizado para fixação de bicicletas que pode ser instalado em via pública ou no interior dos estabelecimentos, dispostos individualmente ou em grupo em posição vertical ou horizontal.\nII - Zeladoria: a existência de controle de acesso e segurança patrimonial, sendo desejável a proteção das bicicletas contra as intempéries.\nIII - Bicicletário: espaço destinado ao estacionamento de bicicletas equipado com paraciclos dotados de zeladoria.\n§ 1º Deverão ser estabelecidos por equipe técnica do Município os modelos a serem utilizados, seja por iniciativa privada ou do poder público, seguindo manuais e recomendações amplamente reconhecidos e testados.\n§ 2º Bicicletários e paraciclos deverão ser previstos, sempre que possível, de forma compatibilizada com a infraestrutura cicloviária do Município, nas vias em que já houver previsão ou execução desta.\n§ 3º Os bicicletários e paraciclos deverão seguir preferencialmente as recomendações da Association of Pedestrian and Bicycle Professionals (APBP-USA) para estacionamentos de bicicletas, traduzida pela Associação Transporte Ativo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.603, de 18 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08602",
+   "short": "Lei 8602/2023",
+   "title": "Lei nº 8.602, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11339",
+   "first_law": "lei-2023-08602",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11339/lei_8602-2023.pdf",
+     "sha256": "81356f4b527ad3a788315bd07e5a820cc45213a218c0d661a6fea4a5fbe60f76",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.602, DE 18/09/2023 DECLARA-SE COMO PATRIMÔNIO CULTURAL IMATERIAL, NO MUNICÍPIO DE PETRÓPOLIS - RJ, A BAUERNFEST - FESTA DO COLONO ALEMÃO.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.602 DE 18 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Declara-se como Patrimônio Cultural Imaterial Municipal, em Petrópolis - RJ, a Bauernfest - Festa do Colono Alemão, celebrada anualmente no mês de junho, tendo por norte a data de comemoração sobre a colonização, qual seja, dia 29 de junho, acontecendo no Palácio de Cristal, nesta cidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente Lei tem por objetivo atribuir o título de Patrimônio Cultural Imaterial à Bauernfest - Festa do Colono Alemão, observando-se ser um importante manifesto de domínio social por meio da celebração, devendo ser preservado pelo Poder Público e pela sociedade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Município poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.602, de 18 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08601",
+   "short": "Lei 8601/2023",
+   "title": "Lei nº 8.601, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11338",
+   "first_law": "lei-2023-08601",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11338/lei_8601-2023.pdf",
+     "sha256": "997db151b42b2eb5d6ac8d9b3df32fa7de6d0197ba9c82cf819bb032c384423e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.601, DE 18/09/2023 DISPÕE SOBRE O CONGELAMENTO DA TARIFA DAS EMPRESAS CONCESSIONÁRIAS DE TRANSPORTE PÚBLICO RESULTANTE DA PRECARIEDADE DAS FROTAS E MÁ PRESTAÇÃO DO SERVIÇO NO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.601 DE 18 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o congelamento da tarifa de ônibus no município de Petrópolis quando da inobservância de qualquer das incumbências das concessionárias do serviço de transporte público.\nParágrafo único. Fica condicionado, o reajuste tarifário, a comprovação de que as empresas concessionárias do serviço público de transporte cumpriram todas as obrigações previstas na Lei Federal nº 8.987 de 1995, bem como as contratuais, em especial a renovação de frota.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O serviço público de transporte coletivo de passageiros por ônibus é serviço essencial, devendo ser prestado de forma adequada ao pleno atendimento do usuário e de acordo com a legislação vigente e as condições do contrato de concessão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Incumbe à concessionária, sem exclusão das previsões contratuais:\nI - renovação da frota nas condições estabelecidas em contrato e em Leis específicas;\nII - prestar serviço adequado nas normas técnicas aplicáveis e no contrato;\nIII - manter em dia o inventário e o registro dos bens vinculados à concessão;\nIV - prestar contas da gestão do serviço ao poder concedente e aos usuários, nos termos definidos no contrato;\nV - cumprir e fazer cumprir as normas do serviço e as cláusulas contratuais da concessão;\nVI - permitir aos encarregados da fiscalização livre acesso, em qualquer época, às obras, aos equipamentos e às instalações integrantes do serviço, bem como a seus registros contábeis;\nVII - zelar pela integridade dos bens vinculados à prestação do serviço, bem como segurá-los adequadamente; e\nVIII - captar, aplicar e gerir os recursos financeiros necessários à prestação do serviço.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O princípio constitucional da eficiência estará presente nos contratos de concessão de transporte público, na melhoria e aprimoramento do serviço concedido, de modo que o poder concedente e a concessionária devem respeitar o direito dos usuários de a eles ser oferecido um serviço adequado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica o Executivo autorizado a definir cronograma para o cumprimento das exigências definidas em Lei e contratualmente.\nParágrafo único. Até o 15º dia do mês subsequente ao encerramento do cronograma, deverá ser encaminhado o demonstrativo de seu cumprimento à Secretaria competente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As empresas de transporte coletivo deverão disponibilizar, até a data estabelecida no cronograma, que será elaborado através de Decreto, relatório de cumprimento das incumbências.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo poderá, em caso de omissão, regulamentar a presente Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.601, de 18 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08600",
+   "short": "Lei 8600/2023",
+   "title": "Lei nº 8.600, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11337",
+   "first_law": "lei-2023-08600",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11337/lei_8600-2023.pdf",
+     "sha256": "8673ce666220e3f3c56a6a7ccd559f5b74811911f2035b325e3771bae7867258",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.600, DE 18/09/2023 DISPÕE SOBRE A INSTITUIÇÃO DO FESTIVAL DE INVERNO DE ITAIPAVA NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.600, DE 18 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Festival de Inverno de Itaipava no Calendário Oficial de Eventos do Município de Petrópolis, a ser realizado no mês julho de cada ano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Festival de Inverno de Itaipava consiste no conjunto de atividades festivas a serem realizadas no mês julho, na cidade de Petrópolis, com os seguintes objetivos:\nI - fomentar a economia local;\nII - fomentar o turismo local;\nIII - promover eventos culturais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.600, de 18 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08599",
+   "short": "Lei 8599/2023",
+   "title": "Lei nº 8.599, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11336",
+   "first_law": "lei-2023-08599",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11336/lei_8599-2023.pdf",
+     "sha256": "1ec19f8d7c7ccde6ad39e71cf95acf77c20a6e3c9699d09a1ad70981096d26c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.599, DE 18/09/2023 DESTINA 5% (CINCO POR CENTO) DO TOTAL DE MORADIAS POPULARES DE PROGRAMAS HABITACIONAIS PÚBLICOS ÀS VÍTIMAS DE VIOLÊNCIA CONTRA A MULHER, CONFORME PREVISÃO NA LEI Nº 11.340, DE 07 DE AGOSTO DE 2006, LEI MARIA DA PENHA, E ÀS OFENDIDAS POR TENTATIVA DE CRIME DE FEMINICÍDIO, CONSTRUÍDAS OU VIA CONVÊNIOS CELEBRADOS PELA PREFEITURA MUNICIPAL DE PETRÓPOLIS, E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.599, DE 18 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º No âmbito do Município de Petrópolis, ficam destinados 5% (cinco por cento) do total de moradias populares de programas habitacionais públicos, construídas com recursos próprios do erário da Prefeitura ou adquiridas via convênio com o Poder Público ou com a iniciativa privada, às mulheres vítimas de violência contra a mulher, nos termos da Lei 11.340, de 07 de agosto de 2006, Lei Maria da Penha, e às ofendidas por tentativa de crime de feminicídio, decorrente de violência doméstica ou de relação amorosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A violência contra a mulher tratada no caput do art. 1º deverá ser comprovada por expedientes e procedimentos constantes da ação penal, transitada em julgado ou não, mediante cópia:\nI - do inquérito policial elaborado nas Delegacias Especializada na Defesa e Proteção das Mulheres;\nII - da denúncia criminal;\nIII - da decisão que concedeu a medida protetiva de urgência - MPU;\nIV - da sentença penal condenatória, quando houver;\nV - da certidão ou do laudo social de acompanhamento psicológico, emitido por entidades públicas assistenciais ou organizações não governamentais de notória participação nas causas em defesa e proteção da mulher.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Compete a Secretaria Municipal de Assistência Social, em parceria com outros órgãos da Administração Pública Municipal, atender às mulheres beneficiárias do disposto no art. 1º, e encaminhar para o órgão responsável pela habitação no Município de Petrópolis, para cadastramentos e devidas providências.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Só farão jus ao benefício no disposto no art. 1º, desta Lei, as mulheres que forem, comprovadamente, residentes no Município de Petrópolis há mais de 05 (cinco) anos e comprovadamente sejam dependentes econômico-financeiras de seus cônjuges.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.599, de 18 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08598",
+   "short": "Lei 8598/2023",
+   "title": "Lei nº 8.598, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11335",
+   "first_law": "lei-2023-08598",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11335/lei_8598-2023.pdf",
+     "sha256": "267672e99288ee2e8443c5ab627ea3ef4c1f7f5494450faa5c9d73152113811f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.598, DE 18/09/2023 INSTITUI O PROJETO MEUS AVÔS SABEM TUDO, QUE VISA A VALORIZAÇÃO DE IDOSOS PARA FINS EDUCACIONAIS CULTURAIS E SOCIAIS, E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.598, DE 18 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o PROJETO MEUS AVÔS SABEM TUDO, que visa o desenvolvimento de atividades educacionais, culturais e sociais em atendimento a crianças e adolescentes, com atenção especial aos mais carentes, por meio de transmissão de conhecimentos, habilidades, aptidões e experiências de idosos voluntários.\nParágrafo único. O principal objetivo de projeto é promover, na interação dos idosos com os mais jovens, uma troca afetiva, estimulando a convivência saudável entre as gerações e usando como meio diversas atividades, que ao participar, o idoso também tem sua autoestima valorizada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A transmissão de conhecimentos, habilidades, aptidões e experiências aludidas no caput deste artigo deverão ser exteriorizadas mediante oficinas de aprendizagem e trabalho, já existentes ou criadas pela Administração Pública Municipal, disponibilizadas na rede de ensino ou como atividades extracurriculares para beneficiar aos mais jovens com saberes e vivências trazidas pelos mais velhos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O projeto definido no art. 1º é acessível a homens e mulheres com idade ou superior a 60 (sessenta) anos, desde que inscritos e selecionados no presente Projeto.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A seleção a que se refere o art. 2º deverá considerar, especialmente, a relevância das experiências profissionais e vivencial dos idosos inscritos para a participação, a indicação, sempre quer possível, dos fatos que as comprovem e a demonstração de seu interesse no trabalho junto ás crianças e adolescentes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os idosos que forem selecionados para o projeto poderão receber treinamento específico e diploma de honra em agradecimento aos serviços prestados em prol da comunidade, conferidos pelo Poder Público, desde que tenham participado dos trabalhos por período superior a 06 (seis) meses consecutivos ou não.\nParágrafo único. Na hipótese prevista no caput deste artigo, poderá o idoso participante do projeto bolsa auxílio, para custeio de suas necessidades com manutenção de sua saúde, desde que fique comprovada sua hipossuficiência financeira.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Administração Municipal, por meio do órgão competente ficará responsável pelo processo de seleção dos interessados e poderá convidar representantes do Conselho Municipal de Idoso, para participar do procedimento de escolha dos candidatos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da implantação desta Lei correrão por dotações orçamentárias próprias, suplementadas se necessárias.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Poder Executivo regulamentará a presente Lei, no prazo que lhe couber.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.598, de 18 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08597",
+   "short": "Lei 8597/2023",
+   "title": "Lei nº 8.597, de 4 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11334",
+   "first_law": "lei-2023-08597",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11334/lei_8597-2023.pdf",
+     "sha256": "d1a30385e4016c5a2b3f20a2bb4ebdc78a500a1d770fc33696b11edee4d45e9f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.597, DE 04/09/2023 ALTERA A LEI MUNICIPAL Nº 4.037, DE 29/08/1980 E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, JUNIOR CORUJA, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.597, DE 04 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterado o artigo 1º da Lei Municipal nº 4.037, de 29/08/1980, passando a vigorar a seguinte redação:\n\"Art. 1º Fica denominada RUA CELITA DE OLIVEIRA AMARAL DA SILVA, o logradouro público com extensão aproximada de 600m.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a Lei Municipal nº 6.135, de 01/07/2004.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação ficando revogadas as demais disposições contrárias.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 04 de setembro de 2023.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.597, de 4 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08596",
+   "short": "Lei 8596/2023",
+   "title": "Lei nº 8.596, de 1 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11333",
+   "first_law": "lei-2023-08596",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11333/lei_8596-2023.pdf",
+     "sha256": "d1987b3e2d0a8ac60b20bf527163f8661c88b3672208378f84eba5855045a80d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.596, DE 01/09/2023 DISPÕE SOBRE A POSSIBILIDADE DE APRESENTAÇÃO DE ATESTADO EMITIDO POR MÉDICO PARTICULAR PARA FINS DE COMPROVAÇÃO DE DIAGNÓSTICO DE SAÚDE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8596 DE 01 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O atestado emitido por médico particular devidamente registrado no Conselho Regional de Medicina constitui documentação idônea bastante para fins de comprovação de diagnóstico médico no âmbito do Município de Petrópolis, não sendo necessária confirmação do diagnóstico por atestado emitido por médico do Sistema Único de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os direitos de acesso à educação, ao transporte público, bem como aos demais serviços públicos não poderão ser obstados por exigência de atestado médico emitido exclusivamente por profissional vinculado ao Sistema Único de Saúde\nParágrafo único. O descumprimento da previsão do caput deverá ensejar abertura de procedimento administrativo para apuração de falta administrativa do servidor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogadas disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito do Município de Petrópolis, em 01 de setembro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.596, de 1 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08595",
+   "short": "Lei 8595/2023",
+   "title": "Lei nº 8.595, de 1 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11332",
+   "first_law": "lei-2023-08595",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11332/lei_8595-2023.pdf",
+     "sha256": "da8f6cd6b3167dc0f943cb48553aa936ead85d56453d4481c95c75410c436f20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.595, DE 01/09/2023 ALTERA A LEI MUNICIPAL N° 4.835 DE 11 DE JUNHO DE 1991, ACRESCENTANDO PARÁGRAFO ÚNICO AO SEU ARTIGO 1°.\nA CÂMARA MUNICIPAL DE PETRÓPOLIS DECRE-TOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8595 DE 01 DE SETEMBRO DE 2023\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a Lei Municipal nº 4.835 de 11 de junho de 1991, que dispõe sobre as Concessio¬nárias Prestadoras de Serviço Funerário do Município, acrescentando ao artigo 1º, o parágrafo único com a seguinte redação:\n\"Parágrafo único. As Concessionárias Prestadoras de Serviços Funerário do Município, para ﬁns de sepultamento, deverão dispor o prazo mínimo de 5 (cinco) horas aos familiares para realização adequada de velório.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam inalterados os demais dispositivos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimen-to da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 01 de setembro de 2023\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.595, de 1 de setembro de 2023; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
