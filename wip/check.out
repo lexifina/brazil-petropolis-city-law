@@ -1,0 +1,12 @@
+{
+ "acts": 1,
+ "versions": 16,
+ "mismatches": 0,
+ "trailer_errors": 0,
+ "missing_in_force": 0,
+ "merges": 0,
+ "backwards": 0,
+ "future_dated": 0,
+ "details": [],
+ "corpus_sha256": "6b2d54d434fd907e63e0012135b0c960fe091656d1338e51fddd96e3edec616a"
+}

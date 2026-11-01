@@ -1,0 +1,17 @@
+{
+ "name": "Petrópolis (city)",
+ "full": "the Município de Petrópolis (Rio de Janeiro)",
+ "code": "BR-RJ-PETROPOLIS",
+ "slug": "brazil-petropolis-city",
+ "parent": "br-rj",
+ "official": "Diário Oficial do Município de Petrópolis",
+ "publisher": "Câmara Municipal de Petrópolis",
+ "site": "Câmara Municipal de Petrópolis, SAPL",
+ "site_url": "https://sapl.petropolis.rj.leg.br/norma/64",
+ "holds": "| Folder | Act | Versions |\n| --- | --- | ---: |\n| `lei-organica/` | Lei Orgânica do Município de Petrópolis (2012) and every amendment the Câmara's SAPL records | one per period of vigência (16) |\n\n**The Lei Orgânica with its history.** The Câmara's SAPL keeps the Lei Orgânica as a structured text with a view of the text in force for each period between amendments, so each amendment is a commit on the day its period starts, credited to the Emenda à Lei Orgânica that gave it.\n\nFederal law is in [brazil-law](https://github.com/lexifina/brazil-law).",
+ "dates": "The first version of the Lei Orgânica is the text SAPL gives in force from 2012-12-10. Each later version is dated by the first day of the period of vigência SAPL gives it and credited to the act SAPL names for it (\"Dada por ...\"); a period SAPL starts without naming an act is committed as a publisher commit, not guessed. Commits are at noon in Petrópolis.",
+ "built": "Each SAPL view of the Lei Orgânica becomes one file per Art.; each provision is one line, its label followed by its text; headings stand above the first article under them. The notes SAPL keeps under a provision or links into it (\"Inclusão feita pelo ...\"), provisions it marks as superseded and the amending acts' own blocks it shows inside the text are left out.",
+ "limits": "The record is SAPL's: a version is only as exact as the Câmara's text for it. Ordinary and complementary laws are not in yet. The text is not the official version: only the Diário Oficial do Município is authoritative.",
+ "build": "built: the law of Petrópolis from the Câmara Municipal's SAPL",
+ "terms": "- SAPL (the source): \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\" (CC BY-SA 4.0): source credited above.\n"
+}
