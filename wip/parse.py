@@ -24,6 +24,7 @@ br_lib.ADT = re.compile(r'DISPOSI[ÇC][ÕO]ES\s+(?:ORG[ÂA]NICAS\s+|GERAIS\s+E\s
 
 BASE = 'https://sapl.petropolis.rj.leg.br'
 RAW = HERE / '.cache' / 'sapl' / 'raw'
+EDNOTE = re.compile(r'\(\s*(?:Reda[çc][ãa]o\s+dada|Reda[çc][ãa]o\s+alterada|Inclu[íi]d[oa]s?|Acrescid[oa]s?|Acrescentad[oa]s?|Revogad[oa]s?|Alterad[oa]s?|Suprimid[oa]s?|Renumerad[oa]s?|Vide)\b[^()]*?(?:Emenda|Lei|ELO|Resolu|n\.?\s*[º°o])[^()]*\)', re.I)
 BLOCK = {'p', 'div', 'br', 'tr', 'li', 'table', 'tbody', 'thead', 'ul', 'ol', 'center', 'blockquote', 'h1', 'h2', 'h3',
          'h4', 'h5', 'h6'}
 VOID = {'br', 'img', 'meta', 'link', 'hr', 'input', 'col', 'area', 'base', 'wbr'}
@@ -39,6 +40,7 @@ class TA(HTMLParser):
     def flush(self):
         if self.buf is not None:
             ls = [norm(l).strip(' |').strip() for l in ''.join(self.buf).split('\n')]
+            ls = [norm(EDNOTE.sub(' ', l)).strip() for l in ls]  # the Câmara's typed amendment notes
             ls = [l for l in ls if l and re.search(r'\w', l)]
             label = norm(''.join(self.label))
             # the provision's label ("Art. 1º.", "§ 1º", "TÍTULO I") and its text are one line
@@ -141,7 +143,8 @@ DECISIONS = [
     'act, the units that changed are left uncredited and committed as publisher commits, not guessed.',
     'Each provision is one line: its label ("Art. 1º.", "§ 1º", "XV –") followed by its text; table rows are one line '
     'each, cells separated by " | ". Notes SAPL keeps under a provision or links into it ("Inclusão feita pelo ..."), '
-    'provisions it marks as superseded and the amending acts own blocks it shows inside the text are left out.',
+    'provisions it marks as superseded, the amending acts own blocks it shows inside the text and the amendment '
+    'notes typed into the text ("(Redação dada pela Emenda ...)", "(Incluído pela ...)") are left out.',
     'One file per Art.; headings stand above the first article under them; the "Ato das Disposições Orgânicas '
     'Transitórias", numbered from 1 again, is adt-*. "000-titulo" holds the preamble.',
 ]
