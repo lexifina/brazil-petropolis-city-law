@@ -1,0 +1,3007 @@
+{
+ "country": "BR-RJ-PETROPOLIS",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Petrópolis",
+   "title": "Lei Orgânica do Município de Petrópolis",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/64",
+   "versions": [
+    {
+     "from": "2012-12-10",
+     "units": 207,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/0,2012-12-10,2013-06-09:qNyxtFPq2gADTllsstcsSa5p6cA/",
+     "sha256": "9bea23175b73a365c20308f1a0e30697c10990bbc2f7ca031b3d9f46ca3cdc50"
+    },
+    {
+     "from": "2013-06-10",
+     "units": 207,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/168,2013-06-10,2013-08-29:mSzGIwAJqKOBT2J3-CiAHQKl2N0/",
+     "sha256": "c644eee9e2eca120c9e4fe29ff51acdf2608f7639c2ccc800c3472ec78f21733"
+    },
+    {
+     "from": "2013-08-30",
+     "units": 207,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/162,2013-08-30,2013-10-30:_5YncWjqbI5r5txkoXuWoZatYOM/",
+     "sha256": "c059e4296644caf0c203ba9eae2765883cdb34295ce5e1e7afd03ad6b7bce582"
+    },
+    {
+     "from": "2013-10-31",
+     "units": 207,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/169,2013-10-31,2013-12-10:Em_Cn067-gvlQhY_WBKcQuVT0UA/",
+     "sha256": "37b72af6ad75607341a2eddfb4b01f047d0caa1abacb6f143f5244f1fe4c2dd9"
+    },
+    {
+     "from": "2013-12-11",
+     "units": 207,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/158,2013-12-11,2014-01-14:o4jNmRil1M-kM09eS_c0rDCNWlU/",
+     "sha256": "61993114fe4287ba4fde2feee2bb61fc9feb26f001c3ec40981e147c29eb9c82"
+    },
+    {
+     "from": "2014-01-15",
+     "units": 207,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/167,2014-01-15,2014-01-29:X5r9Svyh2CcJwBhRZ1PFJRoYAUQ/",
+     "sha256": "c6f39d0a84804ab13aa60c39df28b1f3d426fa0d3a9bdaab5ff9e300ee8ca24a"
+    },
+    {
+     "from": "2014-01-30",
+     "units": 209,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/0,2014-01-30,2014-11-03:TTUL1e7tHSed8Wh4eEQFl36Vstw/",
+     "sha256": "5f490968a9a4bf4ad12b5285f9de3b98513bca83bb9bc80d7f03aace3350db92"
+    },
+    {
+     "from": "2014-01-30",
+     "units": 209,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/195,2014-01-30,2014-11-03:ofhwhx5WbU8MCeQo8VakH-Te00E/",
+     "sha256": "dc8aca53853ff0b34e61f6292425a40326930d1a56dd2ee9fe2568436d978aba"
+    },
+    {
+     "from": "2014-11-04",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/0,2014-11-04,2015-09-24:u82yUOlX-BN9h_KZjrh3vROp-x8/",
+     "sha256": "337ebc1dcfd64bfffc38b9d3ee8c96695bd3f6a4e04f76ff160af8e55a0030d8"
+    },
+    {
+     "from": "2014-11-04",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/184,2014-11-04,2015-09-24:vP_uYxbXP9SH7chKRvIlJXQpAys/",
+     "sha256": "77c3edeb1dff319c6220bfff5ac25016fa9f15832c81f73bd1ba8f127a847d23"
+    },
+    {
+     "from": "2015-09-25",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/185,2015-09-25,2018-01-23:150-F56U1ZixJS1Ie191LdK2AP4/",
+     "sha256": "e7a2b1f4da560312829fe5d10dd1f1a35d39599132c321b6027f95383a480e5b"
+    },
+    {
+     "from": "2018-01-24",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/166,2018-01-24,2018-12-11:d0w0pq0F0Ff9LihNjkFBhO91TBw/",
+     "sha256": "87e3a990d4613d4518ed499204bf106e721100f4bf22f1e74b706eb29ede58ba"
+    },
+    {
+     "from": "2018-12-12",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/170,2018-12-12,2020-03-04:EQMZGAcf87_1ZTwTHX1R-6R3ZfE/",
+     "sha256": "6a3003c8123fe56668e2ad4fa6d9959ef5e5fa8081e1de2b0f2a86f025b45260"
+    },
+    {
+     "from": "2020-03-05",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/165,2020-03-05,2020-04-15:V4FzzXIsaZVP5BoxjnO7CBFAUZ0/",
+     "sha256": "621be5da667cc0dc6d2c5a5d175465035f20298378858296d8a55203f2d30f6a"
+    },
+    {
+     "from": "2020-04-16",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/ta/143/text/vigencia/159,2020-04-16,2020-06-01:a8vG3Z_Sjnpl2BIN1zd8qahDVLk/",
+     "sha256": "39abefb386f9eff9293f1702ca87f458da315084932315f9bc6e712ec16124b0"
+    },
+    {
+     "from": "2020-06-02",
+     "units": 210,
+     "source_url": "https://sapl.petropolis.rj.leg.br/norma/64",
+     "sha256": "82cb442d7e46a2dc6ad567f1cd06ecebcf783a0a7b40af9c06cfc64a88a5bd9a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08910",
+   "short": "Lei 8910/2024",
+   "title": "Lei nº 8.910, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11647",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11647/lei_8910-2024.pdf",
+     "sha256": "337975f01c095a9941a2a50fef69af52b04168bc41dab52b44afc1403b4bebdb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08909",
+   "short": "Lei 8909/2024",
+   "title": "Lei nº 8.909, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11646",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11646/lei_8909-2024.pdf",
+     "sha256": "dd0b3f2345d5a099f2330b2e4f2e32941ccbba4371e3ab12d60030f9935e8698"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08908",
+   "short": "Lei 8908/2024",
+   "title": "Lei nº 8.908, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11645",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11645/lei_8908-2024.pdf",
+     "sha256": "3613930b2b7a25847bff2be98d41fa249c1d91de15086832e021bc8cd7126513"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08907",
+   "short": "Lei 8907/2024",
+   "title": "Lei nº 8.907, de 17 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11644",
+   "versions": [
+    {
+     "from": "2024-09-17",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11644/lei_8907-2024.pdf",
+     "sha256": "71d36af6b6dbf3b386c4abbd43c38a923ae89c04092d4bf31b2d2ca61c63235f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08901",
+   "short": "Lei 8901/2024",
+   "title": "Lei nº 8.901, de 6 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11638",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11638/lei_8901-2024.pdf",
+     "sha256": "22763b6d7567dc087ba8ac97457c372451d6f712c643d10bb678ea55eb8dbdf1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08900",
+   "short": "Lei 8900/2024",
+   "title": "Lei nº 8.900, de 6 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11637",
+   "versions": [
+    {
+     "from": "2024-09-06",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11637/lei_8900-2024.pdf",
+     "sha256": "3c9dad53e2faae72d656a14e804c7a3c9dc18417dbd31d0dfbed9367c3bc7d29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08899",
+   "short": "Lei 8899/2024",
+   "title": "Lei nº 8.899, de 2 de setembro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11636",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11636/lei_8899-2024.pdf",
+     "sha256": "6d773d9551a296e3eeec44ad6cfa6433161873a60aaf723580eae0cac79e1d6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08894",
+   "short": "Lei 8894/2024",
+   "title": "Lei nº 8.894, de 26 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11631",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11631/lei_8894-2024.pdf",
+     "sha256": "3e3e3116e606b594f2ab227f34f2b53c7413a7cea6599e87e5c6ad5de24d7e59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08852",
+   "short": "Lei 8852/2024",
+   "title": "Lei nº 8.852, de 26 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11589",
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11589/lei_8852-2024.pdf",
+     "sha256": "b22bfb0e52accd092bde4bda2e0a56d273b3a87eacd3d81735ee7893a42c71e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08882",
+   "short": "Lei 8882/2024",
+   "title": "Lei nº 8.882, de 16 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11619",
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11619/lei_8882-2024.pdf",
+     "sha256": "e3c159ea364350fae425746ff7ec0018c0cd133febaea5d44ef6e4e5e3fd4873"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08881",
+   "short": "Lei 8881/2024",
+   "title": "Lei nº 8.881, de 16 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11618",
+   "versions": [
+    {
+     "from": "2024-08-16",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11618/lei_8881-2024.pdf",
+     "sha256": "cd2f933fe37731d8f23425006149e8a13e322e9e26edd402b00132b3941588fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08880",
+   "short": "Lei 8880/2024",
+   "title": "Lei nº 8.880, de 8 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11617",
+   "versions": [
+    {
+     "from": "2024-08-08",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11617/lei_8880-2024.pdf",
+     "sha256": "217ce57541ebc46b6ce2126a0d55afca5598bc2f5f6f724fcebf92868df36d63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08877",
+   "short": "Lei 8877/2024",
+   "title": "Lei nº 8.877, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11614",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11614/lei_8877-2024.pdf",
+     "sha256": "2829641f141b3dcf9001024ca4b22acd00fca801427c2f483c3820cda4ca9cc2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08876",
+   "short": "Lei 8876/2024",
+   "title": "Lei nº 8.876, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11613",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11613/lei_8876-2024.pdf",
+     "sha256": "8d23737e43b66a53770d85ef41341217742c2370b3bf0793e34aadcbcd3f2d05"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08875",
+   "short": "Lei 8875/2024",
+   "title": "Lei nº 8.875, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11612",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11612/lei_8875-2024.pdf",
+     "sha256": "c58d234d7097f5c65ab0ec51a1f5db2897fec2877e24d943544d65231cc83eb0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08874",
+   "short": "Lei 8874/2024",
+   "title": "Lei nº 8.874, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11611",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11611/lei_8874-2024.pdf",
+     "sha256": "21ff6c7cb41bc70878473036f3a09cfc785839be2689f83f7fe4e44f99d63ab7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08873",
+   "short": "Lei 8873/2024",
+   "title": "Lei nº 8.873, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11610",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11610/lei_8873-2024.pdf",
+     "sha256": "4a8191b495f11f2912830541f9a5bef80a37683658a95dc9f37797b76453902f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08872",
+   "short": "Lei 8872/2024",
+   "title": "Lei nº 8.872, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11609",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11609/lei_8872-2024.pdf",
+     "sha256": "6b62ea7876bd4f67589e38bae61e4d3f989368fa3d2116c4607cdff6c434dc2d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08871",
+   "short": "Lei 8871/2024",
+   "title": "Lei nº 8.871, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11608",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11608/lei_8871-2024.pdf",
+     "sha256": "7a011765c1a985f1e12a6e1212d71f518dbd377e09fda3c0feccfbfd1cefc6eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08870",
+   "short": "Lei 8870/2024",
+   "title": "Lei nº 8.870, de 1 de agosto de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11607",
+   "versions": [
+    {
+     "from": "2024-08-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11607/lei_8870-2024.pdf",
+     "sha256": "1a966c3d1eacad83c72910888b6ac9156db5d1d5fbc18519e2f5085531f79e93"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08851",
+   "short": "Lei 8851/2024",
+   "title": "Lei nº 8.851, de 26 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11588",
+   "versions": [
+    {
+     "from": "2024-07-26",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11588/lei_8851-2024.pdf",
+     "sha256": "10409a8d17ce1f69ba97a881cd3c27eee51a3718f29a97e00be82470efb09310"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08850",
+   "short": "Lei 8850/2024",
+   "title": "Lei nº 8.850, de 19 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11587",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11587/lei_8850-2024.pdf",
+     "sha256": "83acbd2d3f307e0c181057d9d773d82dd6a3ce3eff4003115c02c50d3186e544"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08849",
+   "short": "Lei 8849/2024",
+   "title": "Lei nº 8.849, de 19 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11586",
+   "versions": [
+    {
+     "from": "2024-07-19",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11586/lei_8849-2024.pdf",
+     "sha256": "47a709ae247d22c29aac2954e6650cfe37e65a2dfe8358824a4e02bc2a1be9e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08848",
+   "short": "Lei 8848/2024",
+   "title": "Lei nº 8.848, de 18 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11585",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11585/lei_8848-2024.pdf",
+     "sha256": "e153418849d2037bab07697fa5faf149595e124a6a15207ad6a67b92d7450290"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08847",
+   "short": "Lei 8847/2024",
+   "title": "Lei nº 8.847, de 18 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11584",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11584/lei_8847-2024.pdf",
+     "sha256": "54730de5124096887650f92cb5dbe21b90df0749ebb8b095203e43fc0c3a89db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08846",
+   "short": "Lei 8846/2024",
+   "title": "Lei nº 8.846, de 18 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11583",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11583/lei_8846-2024.pdf",
+     "sha256": "23287daacc5e370d4f9d21cc8f1f2d7803fc4dc9a212eb267115d0a47a9b7f37"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08845",
+   "short": "Lei 8845/2024",
+   "title": "Lei nº 8.845, de 18 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11582",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11582/lei_8845-2024.pdf",
+     "sha256": "323884816e27425b3b49b8d5ea677ab14036bfc9313df8203d765ce7026aba54"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08844",
+   "short": "Lei 8844/2024",
+   "title": "Lei nº 8.844, de 18 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11581",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11581/lei_8844-2024.pdf",
+     "sha256": "8a450ac7f3b9f07e92caa71d6d657d3111a75dfa2d3108a176334e14d745ccc1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08843",
+   "short": "Lei 8843/2024",
+   "title": "Lei nº 8.843, de 18 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11580",
+   "versions": [
+    {
+     "from": "2024-07-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11580/lei_8843-2024.pdf",
+     "sha256": "2927d6db3d6629ea1d9b24350efcc63337bc5cc2702abd6528b7a15b47cd7e78"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08842",
+   "short": "Lei 8842/2024",
+   "title": "Lei nº 8.842, de 12 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11579",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11579/lei_8842-2024.pdf",
+     "sha256": "5b02896393ceff499d5b363608ac809d47ff86e4ba4734268807e2a1debaf96c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08841",
+   "short": "Lei 8841/2024",
+   "title": "Lei nº 8.841, de 12 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11578",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11578/lei_8841-2024.pdf",
+     "sha256": "2f75b1bc5a46ac2d5a2fbfc30b511a701d4ca820cf8cc7124cf16e46f690e081"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08840",
+   "short": "Lei 8840/2024",
+   "title": "Lei nº 8.840, de 12 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11577",
+   "versions": [
+    {
+     "from": "2024-07-12",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11577/lei_8840-2024.pdf",
+     "sha256": "f8da74b33639424e2ef76dfd88d130be33b65aabf04a3a4e34f2d6709316ddc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08824",
+   "short": "Lei 8824/2024",
+   "title": "Lei nº 8.824, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11561",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11561/lei_8824-2024.pdf",
+     "sha256": "99665d67ad55d706acb429c19ede455768a2e0b08997e699bed49b966fc966dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08823",
+   "short": "Lei 8823/2024",
+   "title": "Lei nº 8.823, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11560",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11560/lei_8823-2024.pdf",
+     "sha256": "83d436063a71e2b6b51511564d4a9e677131aeea0630f132b2287955cca1d6b4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08822",
+   "short": "Lei 8822/2024",
+   "title": "Lei nº 8.822, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11559",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11559/lei_8822-2024.pdf",
+     "sha256": "11d691b734fabd0ecca28ff5ac67b04ce06cb7692e2bf2b915aaf5f9b08ce932"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08821",
+   "short": "Lei 8821/2024",
+   "title": "Lei nº 8.821, de 5 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11558",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11558/lei_8821-2024.pdf",
+     "sha256": "1fa86a7849fddf0bb00d7a56afbc56e8d8561d41fd5377addf5c01df3f1843db"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08820",
+   "short": "Lei 8820/2024",
+   "title": "Lei nº 8.820, de 1 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11557",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11557/lei_8820-2024.pdf",
+     "sha256": "6f40480d4caaa8bbd1b4a05f60fa574f3e1a5c32a52afa8e8cfe56fd31c60477"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08819",
+   "short": "Lei 8819/2024",
+   "title": "Lei nº 8.819, de 1 de julho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11556",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11556/lei_8819-2024.pdf",
+     "sha256": "b032ca5d62b7738afc75bb478373b8e34e9a138819cb8d4e2e63b7e9dc00b0d3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08818",
+   "short": "Lei 8818/2024",
+   "title": "Lei nº 8.818, de 27 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11555",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11555/lei_8818-2024.pdf",
+     "sha256": "707f73a5f74ebd3f0c4387278b7f1b5308d879a14d69af8560ea56585ea38db5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08817",
+   "short": "Lei 8817/2024",
+   "title": "Lei nº 8.817, de 27 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11554",
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11554/lei_8817-2024.pdf",
+     "sha256": "16ab6e85172b874115f5a1c8de5d0fd17e2832cc386ce6fe7222decc50231f5d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08816",
+   "short": "Lei 8816/2024",
+   "title": "Lei nº 8.816, de 24 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11553",
+   "versions": [
+    {
+     "from": "2024-06-24",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11553/lei_8816-2024.pdf",
+     "sha256": "0ed1c66542b37f8782d78a617958bd3827fb21527ddf82455b1afa7fda1d9871"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08812",
+   "short": "Lei 8812/2024",
+   "title": "Lei nº 8.812, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11549",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11549/lei_8812-2024.pdf",
+     "sha256": "50d5b7f5d511eae400c0b801cc5989c6c4ea7110380942afe104b81907391b21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08811",
+   "short": "Lei 8811/2024",
+   "title": "Lei nº 8.811, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11548",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11548/lei_8811-2024.pdf",
+     "sha256": "df57bb93ef97b18adae6732f76af0bd9d9bc537bd000f7c5dbfe88ba8b2b4c67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08810",
+   "short": "Lei 8810/2024",
+   "title": "Lei nº 8.810, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11547",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11547/lei_8810-2024.pdf",
+     "sha256": "c10e6385606e2e81fcadb871eb044ddb2bc2cac63d415d6fd66ffab9b6565650"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08809",
+   "short": "Lei 8809/2024",
+   "title": "Lei nº 8.809, de 18 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11546",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11546/lei_8809-2024.pdf",
+     "sha256": "e72d23985a410601798f9b8c059d246397c0ad3d31a8fd059b42e7724c42905b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08802",
+   "short": "Lei 8802/2024",
+   "title": "Lei nº 8.802, de 12 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11539",
+   "versions": [
+    {
+     "from": "2024-06-12",
+     "units": 15,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11539/lei_8802-204.pdf",
+     "sha256": "1984faf6d20848d7f8dcbf553b49a6940b638cbd83042908e012347192abfc67"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08793",
+   "short": "Lei 8793/2024",
+   "title": "Lei nº 8.793, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11530",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11530/lei_8793-2024.pdf",
+     "sha256": "0dd1a9a377779bee87ef2a40128b2db1a6745e7323866d192abaa7f40486a649"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08792",
+   "short": "Lei 8792/2024",
+   "title": "Lei nº 8.792, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11529",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11529/lei_8792-2024.pdf",
+     "sha256": "e7b0bc7a08f1625795026826e53007cc6dc396aeb98c35655cbe7a3ec82802af"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08791",
+   "short": "Lei 8791/2024",
+   "title": "Lei nº 8.791, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11528",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11528/lei_8791-2024.pdf",
+     "sha256": "e744e402724b3a82feaa30d29fa43d282a1fa178f0ae22f469fd8ce3bf40dec8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08790",
+   "short": "Lei 8790/2024",
+   "title": "Lei nº 8.790, de 10 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11527",
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11527/lei_8790-2024.pdf",
+     "sha256": "132c3bef14a1d9d8f739e4c5295227a49f38258a71fcb41ff48ead170c33a298"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08789",
+   "short": "Lei 8789/2024",
+   "title": "Lei nº 8.789, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11526",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11526/lei_8789-2024.pdf",
+     "sha256": "9c0f026494769edd964cd434197c99b82ca1b396552aec548b0eccc1866a8f1b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08788",
+   "short": "Lei 8788/2024",
+   "title": "Lei nº 8.788, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11525",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11525/lei_8788-2024.pdf",
+     "sha256": "01e4b045086626f73e842ab3392be78a237f6dc701110433bda9e20a0ccaf4e7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08787",
+   "short": "Lei 8787/2024",
+   "title": "Lei nº 8.787, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11524",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11524/lei_8787-2024.pdf",
+     "sha256": "ac9bb25e217ca7fb90e4a1b6218fe3618bb6de0b98a8445de992f1bbe0d0c3b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08786",
+   "short": "Lei 8786/2024",
+   "title": "Lei nº 8.786, de 4 de junho de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11523",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11523/lei_8786-2024.pdf",
+     "sha256": "027423b36909d3768cfb611c7dfcc3fe0e217fcf4e39f4929f63e9dc9e265a2b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08785",
+   "short": "Lei 8785/2024",
+   "title": "Lei nº 8.785, de 23 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11522",
+   "versions": [
+    {
+     "from": "2024-05-23",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11522/lei_8785-2024.pdf",
+     "sha256": "0196cbd73efa6599173357cad29b24f61f1962e858cb7c3fccfeb906a6e58a7a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08775",
+   "short": "Lei 8775/2024",
+   "title": "Lei nº 8.775, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11512",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11512/lei_8775-2024.pdf",
+     "sha256": "2df65333841f3730e2ac023cb8bf9831a82aab802ed90da8d9135cb6a5280ea2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08774",
+   "short": "Lei 8774/2024",
+   "title": "Lei nº 8.774, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11511",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11511/lei_8774-2024.pdf",
+     "sha256": "0b38e89caefbf4ac54d637bc8e55b5cc64b6c0e8de70e61d88e4d03ea8389e07"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08773",
+   "short": "Lei 8773/2024",
+   "title": "Lei nº 8.773, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11510",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11510/lei_8773-2024.pdf",
+     "sha256": "3250925af299e3a95bc184bceb701804df9918069b80d6756b0544c208caf734"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08772",
+   "short": "Lei 8772/2024",
+   "title": "Lei nº 8.772, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11509",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11509/lei_8772-2024.pdf",
+     "sha256": "20e32f30256069a48e8ceb4bf6786a0f72abc0249dbd8c0073e32cf415bdcafb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08771",
+   "short": "Lei 8771/2024",
+   "title": "Lei nº 8.771, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11508",
+   "versions": [
+    {
+     "from": "2024-05-15",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11508/lei_8771-2024.pdf",
+     "sha256": "2c8b0d20c17fffed0c22e8edecd58dbd78c93da0e6cfd5ee537154270e7495eb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08770",
+   "short": "Lei 8770/2024",
+   "title": "Lei nº 8.770, de 15 de maio de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11507",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11507/lei_8770-2024.pdf",
+     "sha256": "99ced73e33b3aa3310418dc0f7bceb2df0fefce65f150dbabca0a9b07a1fd58f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08768",
+   "short": "Lei 8768/2024",
+   "title": "Lei nº 8.768, de 26 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11505",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11505/lei_8768-2024.pdf",
+     "sha256": "0967cd6be920fb8a748272e5074c728653ac09b73d5110c0976ca92cd87ea1ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08767",
+   "short": "Lei 8767/2024",
+   "title": "Lei nº 8.767, de 26 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11504",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11504/lei_8767-2024.pdf",
+     "sha256": "902561977f6afea80850eeb390df1dfd74bab0c1c4f1d1549ffa87a6f1efba09"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08766",
+   "short": "Lei 8766/2024",
+   "title": "Lei nº 8.766, de 26 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11503",
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11503/lei_8766-2024.pdf",
+     "sha256": "db5c8cf2c9bc6ba9406173eb47d3c2af5812f7c2e13d51b3f2165671e0ac93b2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08765",
+   "short": "Lei 8765/2024",
+   "title": "Lei nº 8.765, de 24 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11502",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11502/lei_8765-2024.pdf",
+     "sha256": "090e4498050d892f780e0f0cb09719b4b7ba9b498fc19ecdcc98423510c22706"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08764",
+   "short": "Lei 8764/2024",
+   "title": "Lei nº 8.764, de 24 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11501",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11501/lei_8764-2024.pdf",
+     "sha256": "ea7f830b2f13ae39fc31c260be8e0b189652653f834c7b1849c66d980ffabbfc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08763",
+   "short": "Lei 8763/2024",
+   "title": "Lei nº 8.763, de 24 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11500",
+   "versions": [
+    {
+     "from": "2024-04-24",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11500/lei_8763-2024.pdf",
+     "sha256": "6c9aaab368c6dcffddef62bb1d428c6011e14af7ab6ad3226894c2d43f0c417c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08762",
+   "short": "Lei 8762/2024",
+   "title": "Lei nº 8.762, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11499",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11499/lei_8762-2024.pdf",
+     "sha256": "ff2b984f9e336fdb86d2015fe5a2345bafa540cc5d5e9fd0c52d0208f7c33386"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08761",
+   "short": "Lei 8761/2024",
+   "title": "Lei nº 8.761, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11498",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11498/lei_8761-2024.pdf",
+     "sha256": "2e67ffde9bc5633b488359bc3cc6c90df1cbb803ce603aea4c64641d3e0b28f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08759",
+   "short": "Lei 8759/2024",
+   "title": "Lei nº 8.759, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11496",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11496/lei_8759-2024.pdf",
+     "sha256": "e138a7fb8dda3aaf266e2d93adc6d692131e0b110a1019dd9cc7d36f3f28c9a5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08758",
+   "short": "Lei 8758/2024",
+   "title": "Lei nº 8.758, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11495",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11495/lei_8758-2024.pdf",
+     "sha256": "48495229e5a655e0e880da8fca65d3644ae8701a6b07ce0871e7eb9bae1eb770"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08757",
+   "short": "Lei 8757/2024",
+   "title": "Lei nº 8.757, de 15 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11494",
+   "versions": [
+    {
+     "from": "2024-04-15",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11494/lei_8757-2024.pdf",
+     "sha256": "817abd59141df6d031b7ffde0015bb6a50f0806ab68f6e27a60fbd1b7114904b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08756",
+   "short": "Lei 8756/2024",
+   "title": "Lei nº 8.756, de 12 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11493",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11493/lei_8756-2024.pdf",
+     "sha256": "8bd6f9454e3f5550231d38f10fd70af3c93bdd81564dc37aa186db6f21b89dca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08755",
+   "short": "Lei 8755/2024",
+   "title": "Lei nº 8.755, de 12 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11492",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11492/lei_8755-2024.pdf",
+     "sha256": "bc4e407df5bd7485814eda633b86a00a6aebde594b95cbb6aa94224d66963e96"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08754",
+   "short": "Lei 8754/2024",
+   "title": "Lei nº 8.754, de 5 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11491",
+   "versions": [
+    {
+     "from": "2024-04-05",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11491/lei_8754-2024.pdf",
+     "sha256": "43a0c71e5c7c3bc81d8d25338ca5389579163967ccc2f676cca95bf582a2a8ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08753",
+   "short": "Lei 8753/2024",
+   "title": "Lei nº 8.753, de 3 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11490",
+   "versions": [
+    {
+     "from": "2024-05-03",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11490/lei_8753-2024.pdf",
+     "sha256": "a78e96ec1a0f3c1d966bd2fcc54d8b1cafc6a38d09f2bec80f835b676225726c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08750",
+   "short": "Lei 8750/2024",
+   "title": "Lei nº 8.750, de 2 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11487",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11487/lei_8750-2024.pdf",
+     "sha256": "e631eaffe88bb09baa011fe65460bef885cc2570bf1899cfca7d2ec0d3dc0761"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08749",
+   "short": "Lei 8749/2024",
+   "title": "Lei nº 8.749, de 2 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11486",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11486/lei_8749-2024.pdf",
+     "sha256": "48dc540c22b06ce690e4efaf33ee0c3fc51340d2e792a2166fe607a4f76fb48a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08748",
+   "short": "Lei 8748/2024",
+   "title": "Lei nº 8.748, de 2 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11485",
+   "versions": [
+    {
+     "from": "2024-04-02",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11485/lei_8748-2024.pdf",
+     "sha256": "503fc5cde74a77d48f3c421ed2e2f6ad85e7f4291f7703420bff9c2e0c38dfbc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08747",
+   "short": "Lei 8747/2024",
+   "title": "Lei nº 8.747, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11484",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11484/lei_8747-2024.pdf",
+     "sha256": "617df387fa123c941f729e5821c6821c272aad6406be6ecf63eedb3a1b27dad2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08745",
+   "short": "Lei 8745/2024",
+   "title": "Lei nº 8.745, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11482",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11482/lei_8745-2024.pdf",
+     "sha256": "bd7c7b65b4ac6843612c170531818ac158aae813662d5f5465a7f0d0f6e23ac2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08744",
+   "short": "Lei 8744/2024",
+   "title": "Lei nº 8.744, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11481",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11481/lei_8744-2024.pdf",
+     "sha256": "ea6249935b9c9729a5e5cd3283eb47f9ea585825190ab5517f45c725d0862459"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08743",
+   "short": "Lei 8743/2024",
+   "title": "Lei nº 8.743, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11480",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11480/lei_8743-2024.pdf",
+     "sha256": "37a92692da827243f5511385889f7d188ee7d8063c58dd7f42ba89ba4c1833ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08742",
+   "short": "Lei 8742/2024",
+   "title": "Lei nº 8.742, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11479",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11479/lei_8742-2024.pdf",
+     "sha256": "d5dd5f80b3a1b12892004c86182a11d4306239c3f938e70c0a4a437b42c53811"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08741",
+   "short": "Lei 8741/2024",
+   "title": "Lei nº 8.741, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11478",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11478/lei_8741-2024.pdf",
+     "sha256": "b7fe4dcf825f95cbb4b7a849a35c4808bb9437ed3347f33906dfe7fe5e5c0447"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08740",
+   "short": "Lei 8740/2024",
+   "title": "Lei nº 8.740, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11477",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11477/lei_8740-2024.pdf",
+     "sha256": "77e830c95adbcb1fd0db84a7fb0edbb1f09d78b80daaea4baf63e73a88bf18b6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08739",
+   "short": "Lei 8739/2024",
+   "title": "Lei nº 8.739, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11476",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11476/lei_8739-2024.pdf",
+     "sha256": "3bebb8f60a91f7d3cbab3ad82db30e72da930c799339cf63a70a5e90fd288c1c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08738",
+   "short": "Lei 8738/2024",
+   "title": "Lei nº 8.738, de 1 de abril de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11475",
+   "versions": [
+    {
+     "from": "2024-04-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11475/lei_8738-2024.pdf",
+     "sha256": "85f7564216396fafa4f470bef990567a5ab2245234705ec1ad23fbea36bb45fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08737",
+   "short": "Lei 8737/2024",
+   "title": "Lei nº 8.737, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11474",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11474/lei_8737-2024.pdf",
+     "sha256": "9f9f841fa37adc4a471360fb4298f5ad21f3a1aee584e783611a3b0ca6525835"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08736",
+   "short": "Lei 8736/2024",
+   "title": "Lei nº 8.736, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11473",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11473/lei_8736-2024.pdf",
+     "sha256": "ff4d7ab4591f0a4052ae39714569ff76a72919dbf5dfb132f80fb546228429f0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08735",
+   "short": "Lei 8735/2024",
+   "title": "Lei nº 8.735, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11472",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11472/lei_8735-2024.pdf",
+     "sha256": "d5711db0edb74db823c4f8797b6e04e2bbab471ca844b1d0b4ff7f48efba39f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08734",
+   "short": "Lei 8734/2024",
+   "title": "Lei nº 8.734, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11471",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11471/lei_8734-2024.pdf",
+     "sha256": "6973efdc3f3b4dca1e2c5c5bb86c093b61bd0ebdfde048db984a3c133b9fe0dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08733",
+   "short": "Lei 8733/2024",
+   "title": "Lei nº 8.733, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11470",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11470/lei_8733-2024.pdf",
+     "sha256": "4af4714cdc04211e3c9b31092a3183fc4d33687ab2eae4a21cc699037ade9ba3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08732",
+   "short": "Lei 8732/2024",
+   "title": "Lei nº 8.732, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11469",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11469/lei_8732-2024.pdf",
+     "sha256": "d27206f8af20880053ae59bb85ccfb9b919c248104816e67a615c82af9182621"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08731",
+   "short": "Lei 8731/2024",
+   "title": "Lei nº 8.731, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11468",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11468/lei_8731-2024.pdf",
+     "sha256": "7af147716bad26c9b4009e7744260b816c9d783a8bd35422cf9fb123b339b8ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08730",
+   "short": "Lei 8730/2024",
+   "title": "Lei nº 8.730, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11467",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11467/lei_8730-2024.pdf",
+     "sha256": "90b642e27cfbde95501f7f332fd52417ef7f391860e669fdaf3147602de4c85d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08729",
+   "short": "Lei 8729/2024",
+   "title": "Lei nº 8.729, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11466",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11466/lei_8729-2024.pdf",
+     "sha256": "14a5f8f4aa525c5735ef5a2db423d12376fdcad0afc6ed903e323241385900a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08728",
+   "short": "Lei 8728/2024",
+   "title": "Lei nº 8.728, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11465",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11465/lei_8728-2024.pdf",
+     "sha256": "bedc3ff2f2df7a0bda89c8a540df7c849cb0dfc3b1c8c59a4ef38bcd1a8f6887"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08727",
+   "short": "Lei 8727/2024",
+   "title": "Lei nº 8.727, de 18 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11464",
+   "versions": [
+    {
+     "from": "2024-03-18",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11464/lei_8727-2024.pdf",
+     "sha256": "e13a8b4b7b7605a9b6ed20c3a40c332725a2c99c4f3a41cf8e660ef1cad8f800"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08725",
+   "short": "Lei 8725/2024",
+   "title": "Lei nº 8.725, de 8 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11462",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11462/lei_8725-2024.pdf",
+     "sha256": "3060334a03479ad2ec8311f17753e86010bfd3982cbe0a41dbff2f8f0e129454"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08724",
+   "short": "Lei 8724/2024",
+   "title": "Lei nº 8.724, de 8 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11461",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11461/lei_8724-2024.pdf",
+     "sha256": "0b55602a271a0821ae5bfd68c226e87e5f4a90c8b5ea66718773ec33075d220f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08723",
+   "short": "Lei 8723/2024",
+   "title": "Lei nº 8.723, de 8 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11460",
+   "versions": [
+    {
+     "from": "2024-03-08",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11460/lei_8723-2024.pdf",
+     "sha256": "7944e152382c9e3bdd8df448528cdc3e3a96b166b21eb2908a9760c7d3731189"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08722",
+   "short": "Lei 8722/2024",
+   "title": "Lei nº 8.722, de 1 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11459",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11459/lei_8722-2024.pdf",
+     "sha256": "b948fbbd78499b4a6db0c7f90a9e6bfafc55721438b52b4373e5f9d935dff0c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08721",
+   "short": "Lei 8721/2024",
+   "title": "Lei nº 8.721, de 1 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11458",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11458/lei_8721-2024.pdf",
+     "sha256": "e950d1fbc5f5bb7268130d83fa945fbd45f288d5301ec39ba124588a94786d62"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08720",
+   "short": "Lei 8720/2024",
+   "title": "Lei nº 8.720, de 1 de março de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11457",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11457/lei_8720-2024.pdf",
+     "sha256": "10fc1409feaaf80e161094eda2e29a4ef5217c15e21fa202a9413ad718790b5a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08719",
+   "short": "Lei 8719/2024",
+   "title": "Lei nº 8.719, de 22 de fevereiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11456",
+   "versions": [
+    {
+     "from": "2024-02-22",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11456/lei_8719-2024.pdf",
+     "sha256": "2d5335ee4378c546585f4b88e6ea9ae7043fbc6ee80ee84c26d831a33616a606"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08715",
+   "short": "Lei 8715/2024",
+   "title": "Lei nº 8.715, de 5 de fevereiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11452",
+   "versions": [
+    {
+     "from": "2024-02-05",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11452/lei_8715-2024.pdf",
+     "sha256": "5df08a0000a9c5521d4560b20e443ff9c226ee3c785cc34ad8fddcc8ae3fd26b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08714",
+   "short": "Lei 8714/2024",
+   "title": "Lei nº 8.714, de 23 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11451",
+   "versions": [
+    {
+     "from": "2024-01-23",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11451/lei_8714-2024.pdf",
+     "sha256": "829b5f570bf4f8a0224b6a3aff6c7867221e4fa52a0fb7677fa73c41b0f90cd7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08712",
+   "short": "Lei 8712/2024",
+   "title": "Lei nº 8.712, de 16 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11449",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11449/lei_8712-2024.pdf",
+     "sha256": "df6678767375aaf2f66b724d784e790872a945742f6c99d4c64ed410f7e3c86d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08711",
+   "short": "Lei 8711/2024",
+   "title": "Lei nº 8.711, de 16 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11448",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11448/lei_8711-2024.pdf",
+     "sha256": "8ba447c6967243a935e431e57cc8b31b16f929bc5181e196da4ca3e6e3aae00d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08710",
+   "short": "Lei 8710/2024",
+   "title": "Lei nº 8.710, de 16 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11447",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11447/lei_8710-2024.pdf",
+     "sha256": "00630f0c7d2d40864f28bcbecb6cd0883d11680d376d0d14b8649aa0ff7eae31"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08709",
+   "short": "Lei 8709/2024",
+   "title": "Lei nº 8.709, de 16 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11446",
+   "versions": [
+    {
+     "from": "2024-01-16",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11446/lei_8709-2024.pdf",
+     "sha256": "5a3c3f150b7dd49cec86d3351f8eefbadd308d7623ebea0f3b1bbb0cbada184f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08708",
+   "short": "Lei 8708/2024",
+   "title": "Lei nº 8.708, de 4 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11445",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11445/lei_8708-2024.pdf",
+     "sha256": "26344983dc49c05e67e7cea93616681652cc648b02c44e81cb122e128f8ae086"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08707",
+   "short": "Lei 8707/2024",
+   "title": "Lei nº 8.707, de 4 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11444",
+   "versions": [
+    {
+     "from": "2024-01-04",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11444/lei_8707-2024.pdf",
+     "sha256": "93a6f066fb26fe088280e71bf28939962ced0a71d077aaeea8287d0677caf196"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08705",
+   "short": "Lei 8705/2024",
+   "title": "Lei nº 8.705, de 2 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11442",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11442/lei_8705-2024.pdf",
+     "sha256": "49ba18b9f7555e0afee6ac173e4daedfca595a013c179619e467834a7f5fb91d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08704",
+   "short": "Lei 8704/2024",
+   "title": "Lei nº 8.704, de 2 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11441",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11441/lei8704-2024.pdf",
+     "sha256": "54c8897c127f022d70901502c5ce71c173c54e95cbe791b7ad912ac7cced16fa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08703",
+   "short": "Lei 8703/2024",
+   "title": "Lei nº 8.703, de 2 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11440",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11440/lei_8703-2024.pdf",
+     "sha256": "935d0483e1526f8eae72e350132f8a46f0b444802729a5d5c4085520acf0da3b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08702",
+   "short": "Lei 8702/2024",
+   "title": "Lei nº 8.702, de 2 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11439",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11439/lei_8702-2024.pdf",
+     "sha256": "dbf08b713e0fe4576bb475337ec1d9ad7a658d6f2fc88938c2ebae1c30772878"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-08701",
+   "short": "Lei 8701/2024",
+   "title": "Lei nº 8.701, de 2 de janeiro de 2024",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11438",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2024/11438/lei_8701-2024.pdf",
+     "sha256": "efe59df24d2a81bde64a101929ec87da74c49665e014da122d6e7297117c24f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08694",
+   "short": "Lei 8694/2023",
+   "title": "Lei nº 8.694, de 28 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11426",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11426/lei_8694-2023.pdf",
+     "sha256": "0d96ffdd8921b714490a2159f0afecadbef9ee9057162854822c5c8c68dcc528"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08693",
+   "short": "Lei 8693/2023",
+   "title": "Lei nº 8.693, de 28 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11425",
+   "versions": [
+    {
+     "from": "2023-12-28",
+     "units": 12,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11425/lei_8693-2023.pdf",
+     "sha256": "dce9131e1b09ae4d9d631c43b31578e4bbd83db21407d855f94f452962c837f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08692",
+   "short": "Lei 8692/2023",
+   "title": "Lei nº 8.692, de 27 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11424",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11424/lei_8692-2023.pdf",
+     "sha256": "bf4b437b0a917d8c25ee345a385a6dab8e513b0ac78788bd519528cd50c20eb4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08691",
+   "short": "Lei 8691/2023",
+   "title": "Lei nº 8.691, de 27 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11423",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11423/lei_8691-2023.pdf",
+     "sha256": "4b32d5223d44c931cb014da3dfa276159cfac7724ecfeacee8926c6fb9fb2307"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08687",
+   "short": "Lei 8687/2023",
+   "title": "Lei nº 8.687, de 27 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11419",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11419/lei_8687-2023.pdf",
+     "sha256": "926bdefb1485296188ca2d8ac45a10e36f69760971e0264c0bfe955e8445f004"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08686",
+   "short": "Lei 8686/2023",
+   "title": "Lei nº 8.686, de 27 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11418",
+   "versions": [
+    {
+     "from": "2023-12-27",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11418/lei_8686-2023.pdf",
+     "sha256": "dffd01fb105e6cd0a414cbb8465d152bc288386fad7e74421485ee462af0f2df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08684",
+   "short": "Lei 8684/2023",
+   "title": "Lei nº 8.684, de 26 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11416",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11416/lei_8684-2023.pdf",
+     "sha256": "28d2538f101164645211f593352bc01e83ef91047e94e081151d6178df69ecdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08683",
+   "short": "Lei 8683/2023",
+   "title": "Lei nº 8.683, de 26 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11415",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 13,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11415/lei_8683-2023.pdf",
+     "sha256": "4a1d7ebeb93aca73e6b3ad74088e421509edaa7dd2f842f3fb9c9a6872a7e5a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08682",
+   "short": "Lei 8682/2023",
+   "title": "Lei nº 8.682, de 26 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11436",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11436/lei_8682-2023.pdf",
+     "sha256": "4d15260834017cbbf8198b5679714c7d2e25347390e79a18986a06a23a7724cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08680",
+   "short": "Lei 8680/2023",
+   "title": "Lei nº 8.680, de 26 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11434",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11434/lei_8680-2023.pdf",
+     "sha256": "a0879be5530c4821163a3604b2e2aeb9c7fbe770ddb9daa6f19fd79fd05f6bc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08679",
+   "short": "Lei 8679/2023",
+   "title": "Lei nº 8.679, de 26 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11433",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11433/lei_8679-2023.pdf",
+     "sha256": "a5a647bd056e88636c583f95ca8e95f5ac30ae5b9fe7719a770dd5804c5b3dc3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08678",
+   "short": "Lei 8678/2023",
+   "title": "Lei nº 8.678, de 26 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11432",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11432/lei_8678-2023.pdf",
+     "sha256": "3511e6e9b88c66bba6f63e8921bb861008ff6df4780cc51c55ff116cfac077e6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08677",
+   "short": "Lei 8677/2023",
+   "title": "Lei nº 8.677, de 15 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11414",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11414/lei_8677-2023.pdf",
+     "sha256": "808a98edea14e6613bb9aac42548cd124d9713d1cfbb556d3aef0201675fbb97"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08676",
+   "short": "Lei 8676/2023",
+   "title": "Lei nº 8.676, de 15 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11413",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11413/lei_8676-2023.pdf",
+     "sha256": "562013a3ca69d64eb6f2959ae3c36e6f96613404ef9d998fc6680c81986e556a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08675",
+   "short": "Lei 8675/2023",
+   "title": "Lei nº 8.675, de 15 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11412",
+   "versions": [
+    {
+     "from": "2023-12-15",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11412/lei_8675-2023.pdf",
+     "sha256": "03bc05618d60ab8de08bab3a4ea9bea53b50b4ee228daa389b690502df021df7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08673",
+   "short": "Lei 8673/2023",
+   "title": "Lei nº 8.673, de 12 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11410",
+   "versions": [
+    {
+     "from": "2023-12-12",
+     "units": 17,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11410/lei_8673-2023.pdf",
+     "sha256": "4a3efd52a9c5ec8aa57af559fb7c22e3f8449b5558485b825e241eb921c5a6df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08672",
+   "short": "Lei 8672/2023",
+   "title": "Lei nº 8.672, de 11 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11409",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11409/lei_8672-2023.pdf",
+     "sha256": "d82b071ab64218fd4f848d3f0df756c2a964addafb198c28c2a6691df1ab02ec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08671",
+   "short": "Lei 8671/2023",
+   "title": "Lei nº 8.671, de 11 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11408",
+   "versions": [
+    {
+     "from": "2023-12-11",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11408/lei_8671-2023.pdf",
+     "sha256": "8835092a12343fc73cfaca33a74ede29df71bf7b6f99ed2b4e71818c39042cd8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08670",
+   "short": "Lei 8670/2023",
+   "title": "Lei nº 8.670, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11407",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11407/lei_8670-2023.pdf",
+     "sha256": "22eca1a4eacf2d717b25677fb5c27747647908a82fdf4dd9b6a413e56ce772b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08669",
+   "short": "Lei 8669/2023",
+   "title": "Lei nº 8.669, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11406",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11406/lei_8669-2023.pdf",
+     "sha256": "5cd59b32377b62446d5408d6191b2432a33220a70882dd88d9e49627d6da9e02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08668",
+   "short": "Lei 8668/2023",
+   "title": "Lei nº 8.668, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11405",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11405/lei_8668-2023.pdf",
+     "sha256": "a2a3413759c4e3b8a71100fb0e4369f28d619096112ce53dec64800a6c4fb11d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08667",
+   "short": "Lei 8667/2023",
+   "title": "Lei nº 8.667, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11404",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11404/lei_8667-2023.pdf",
+     "sha256": "579f7e6250248f104d250d82c9927a104ddcfcbf1faff6ad3bcdcc2720d84bed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08666",
+   "short": "Lei 8666/2023",
+   "title": "Lei nº 8.666, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11403",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11403/lei_8666-2023.pdf",
+     "sha256": "d559e637ec3d887ed6727e9f754ea4bc5aaabdf0030bc47a41e61c50b3a228f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08665",
+   "short": "Lei 8665/2023",
+   "title": "Lei nº 8.665, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11402",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11402/lei_8665-2023.pdf",
+     "sha256": "8a199fb0a723d9297731d1b5c31be152a3302efd500ea3e137442955727a617f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08664",
+   "short": "Lei 8664/2023",
+   "title": "Lei nº 8.664, de 7 de dezembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11401",
+   "versions": [
+    {
+     "from": "2023-12-07",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11401/lei_8664-2023.pdf",
+     "sha256": "461505ca45e923c96333c8e0ce6509a898b37ee17ba9f48cf795e3e5acf4224a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08663",
+   "short": "Lei 8663/2023",
+   "title": "Lei nº 8.663, de 30 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11400",
+   "versions": [
+    {
+     "from": "2023-11-30",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11400/lei_8663-2023.pdf",
+     "sha256": "8375470e54a737731a4ff11b6fb20c0717d1a1132af1b16dc7052fcc83344878"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08661",
+   "short": "Lei 8661/2023",
+   "title": "Lei nº 8.661, de 30 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11398",
+   "versions": [
+    {
+     "from": "2023-11-30",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11398/lei_8661-2023.pdf",
+     "sha256": "4fb2dd7b4d9e1a5b1b8651156d96e65463e82cfca7dce4342c8f6eac9dc9fac0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08660",
+   "short": "Lei 8660/2023",
+   "title": "Lei nº 8.660, de 30 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11397",
+   "versions": [
+    {
+     "from": "2023-11-30",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11397/lei_8660-2023.pdf",
+     "sha256": "ce773e512664894ff98d1d874e0bcf1fc0619a22b927a5c52377c4265c6ff2e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08659",
+   "short": "Lei 8659/2023",
+   "title": "Lei nº 8.659, de 30 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11396",
+   "versions": [
+    {
+     "from": "2023-11-30",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11396/lei_8659-2023.pdf",
+     "sha256": "31b76c7b4e3b43ba7046df51dd6153bfa35bd7a67012ce589c6e260bb2212462"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08658",
+   "short": "Lei 8658/2023",
+   "title": "Lei nº 8.658, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11395",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11395/lei_8658-2023.pdf",
+     "sha256": "e73b2d6f639375fa9ecc0aa56e1411df5de1b30e253ae9eb958014b2ca60db13"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08657",
+   "short": "Lei 8657/2023",
+   "title": "Lei nº 8.657, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11394",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11394/lei_8657-2023.pdf",
+     "sha256": "1c705cef267e261f3eb760ad5b3617cf308c0a048be72d60a0b40eb67c4c3176"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08656",
+   "short": "Lei 8656/2023",
+   "title": "Lei nº 8.656, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11393",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11393/lei_8656-2023.pdf",
+     "sha256": "e87614b19f17b9d991516f4694ec692290be95012b846bfe0ec5c5898b2e8f7f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08655",
+   "short": "Lei 8655/2023",
+   "title": "Lei nº 8.655, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11392",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11392/lei_8655-2023.pdf",
+     "sha256": "5b1aa17354c56315ea21eb2420418717f8b178ededdc3165dbeed13d0acc05e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08654",
+   "short": "Lei 8654/2023",
+   "title": "Lei nº 8.654, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11391",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11391/lei_8654-2023.pdf",
+     "sha256": "bb85c14fa36715d1f5cea001a9d9cb172de8035aa37b4109c6f33ccdf43b3a42"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08653",
+   "short": "Lei 8653/2023",
+   "title": "Lei nº 8.653, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11390",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11390/lei_8653-2023.pdf",
+     "sha256": "369047ad631f3d70c389166fa449244edfe9e487b1b7e27f781f376eae7aa109"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08652",
+   "short": "Lei 8652/2023",
+   "title": "Lei nº 8.652, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11389",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11389/lei_8652-2023.pdf",
+     "sha256": "cd1d2458f549a7d6430362e2b4a913bf49b226b88532932c8e64623c4010612b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08651",
+   "short": "Lei 8651/2023",
+   "title": "Lei nº 8.651, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11388",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11388/lei_8651-2023.pdf",
+     "sha256": "03da11110af3ba5a056fe0fc803d5951f6509e59c0a2ce44f54c00256d5d4eec"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08650",
+   "short": "Lei 8650/2023",
+   "title": "Lei nº 8.650, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11387",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11387/lei_8650-2023.pdf",
+     "sha256": "df54a1a0e587a270d01cecafb14b32bd10bd1779e9d2e9ed7a55da5090982db4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08649",
+   "short": "Lei 8649/2023",
+   "title": "Lei nº 8.649, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11386",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11386/lei_8649-2023.pdf",
+     "sha256": "0b6cabe6a6dd4478d08cf359fe4a057d92eb2a8c0fc82a94449c0f1bd3f38f79"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08648",
+   "short": "Lei 8648/2023",
+   "title": "Lei nº 8.648, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11385",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11385/lei_8648-2023.pdf",
+     "sha256": "833f7d856e19ded8743c065fa749e8204be2632798e26e2a4f1e2055062345d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08647",
+   "short": "Lei 8647/2023",
+   "title": "Lei nº 8.647, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11384",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11384/lei_8647-2023.pdf",
+     "sha256": "3ee4a431f96caccb833123b58ec59691c61bc161bbdca9a17d99ccb1ae8df822"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08646",
+   "short": "Lei 8646/2023",
+   "title": "Lei nº 8.646, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11383",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11383/lei_8646-2023.pdf",
+     "sha256": "c984f0031de808ffb2adc2a0b8402350cf47ee5efae18e6d6781625c3bac4852"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08645",
+   "short": "Lei 8645/2023",
+   "title": "Lei nº 8.645, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11382",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11382/lei_8645-2023.pdf",
+     "sha256": "fd5d92a8ced1e95e93364474d38d37d2985791622e3ad918f930fc8fff78eb1d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08644",
+   "short": "Lei 8644/2023",
+   "title": "Lei nº 8.644, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11381",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11381/lei_8644-2023.pdf",
+     "sha256": "5b90ad4cb55c25230c5db82954b2c35754a3274717c9ef60f7a25c834abb4326"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08643",
+   "short": "Lei 8643/2023",
+   "title": "Lei nº 8.643, de 22 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11380",
+   "versions": [
+    {
+     "from": "2023-11-22",
+     "units": 12,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11380/lei_8643-2023.pdf",
+     "sha256": "08290f6df0276274d543b9d4796414df218f9ef6a249555f97a368ea8d8e9bff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08642",
+   "short": "Lei 8642/2023",
+   "title": "Lei nº 8.642, de 16 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11379",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11379/lei_8642-2023.pdf",
+     "sha256": "fa66af9bc3f1dee5255e2585899c6d1c713f950408dd8d413161f92d24c50ab5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08641",
+   "short": "Lei 8641/2023",
+   "title": "Lei nº 8.641, de 16 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11378",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11378/lei_8641-2023.pdf",
+     "sha256": "7af093c8c6d0cb95a8945b60107009d0271dc8fa2c711f42d6097ca1711abc63"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08640",
+   "short": "Lei 8640/2023",
+   "title": "Lei nº 8.640, de 16 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11377",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11377/lei_8640-2023.pdf",
+     "sha256": "1e30636abb57a870112d59de2b85923db8c6a4e96bb79c7326f77563c6562201"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08639",
+   "short": "Lei 8639/2023",
+   "title": "Lei nº 8.639, de 16 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11376",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11376/lei_8639-2023.pdf",
+     "sha256": "69575764731f13c6afee164f5cf67e4247d47aa9ee46346f9c864f50974eaabc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08638",
+   "short": "Lei 8638/2023",
+   "title": "Lei nº 8.638, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11375",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11375/lei_8638-2023.pdf",
+     "sha256": "449b6f9c884199b1042d2707504f960307936ddd70b4521b4e041175c86611b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08637",
+   "short": "Lei 8637/2023",
+   "title": "Lei nº 8.637, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11374",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11374/lei_8637-2023.pdf",
+     "sha256": "8cd980dcf3ac34ffecedb9bcb211032466973d186dbfb9586c991458c67f16e4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08636",
+   "short": "Lei 8636/2023",
+   "title": "Lei nº 8.636, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11373",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11373/lei_8636-2023.pdf",
+     "sha256": "849b82327448dbddc3d06c74ccd4e65f112c9062607b42d1ef58e7772a10ec61"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08635",
+   "short": "Lei 8635/2023",
+   "title": "Lei nº 8.635, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11372",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11372/lei_8635-2023.pdf",
+     "sha256": "83a4ad75d2878812e6eaca2ac0932f7a4f58e2a5e4e8335ed0c158f273ad7cb9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08634",
+   "short": "Lei 8634/2023",
+   "title": "Lei nº 8.634, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11371",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11371/lei_8634-2023.pdf",
+     "sha256": "98aa6c5a56c4764a286d2d1ab21006cbd230df99c4364567e0ec0aa9c26bf9a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08633",
+   "short": "Lei 8633/2023",
+   "title": "Lei nº 8.633, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11370",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11370/lei_8633-2023.pdf",
+     "sha256": "c237af02b81e9a1d1f33c47b1815d30762ce1f8a4129835cb91a313d44981312"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08632",
+   "short": "Lei 8632/2023",
+   "title": "Lei nº 8.632, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11369",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11369/lei_8632-2023.pdf",
+     "sha256": "b4a433d171dda2445b98f2fcb2d4e365d3c18e4b5514c292728dd706ad5f9158"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08631",
+   "short": "Lei 8631/2023",
+   "title": "Lei nº 8.631, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11368",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 14,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11368/lei_8631-2023.pdf",
+     "sha256": "03ff6a6ff21a8eb7e6c10b600b12f7a2445f2eb0dff2336f5d2c154c800355dd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08630",
+   "short": "Lei 8630/2023",
+   "title": "Lei nº 8.630, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11367",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11367/lei_8630-2023.pdf",
+     "sha256": "de1095c9f9989d25bf7f203fb7a28628aa9130860050960cb4dadf105c636321"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08629",
+   "short": "Lei 8629/2023",
+   "title": "Lei nº 8.629, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11366",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11366/lei_8629-2023.pdf",
+     "sha256": "d1fdd63fcb9506a222704c1a7859763aba96d95397a098448c1a49dce7cfe16c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08628",
+   "short": "Lei 8628/2023",
+   "title": "Lei nº 8.628, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11365",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11365/lei_8628-2023.pdf",
+     "sha256": "6902aa799538c86a3ad6a668b0b248fc918152d5d8998a1968813cc59fd3c24d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08627",
+   "short": "Lei 8627/2023",
+   "title": "Lei nº 8.627, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11364",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11364/lei_8627-2023.pdf",
+     "sha256": "4ffb9b87fccdcf6b3a3c3f4a81940d048172e8df9c181b86cdb9b2c5063db3d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08626",
+   "short": "Lei 8626/2023",
+   "title": "Lei nº 8.626, de 10 de novembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11363",
+   "versions": [
+    {
+     "from": "2023-11-10",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11363/lei_8626-2023.pdf",
+     "sha256": "676b176383ca3dbe14d3b442246829d57260e6b68e1bf8629fc2128867713d0a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08621",
+   "short": "Lei 8621/2023",
+   "title": "Lei nº 8.621, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11358",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11358/lei_8621-2023.pdf",
+     "sha256": "614283164a1f73e5bcd406f1029b5a7c27599d0f6f6ee71cd98d9a76d1a4bffe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08620",
+   "short": "Lei 8620/2023",
+   "title": "Lei nº 8.620, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11357",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11357/lei_8620-2023.pdf",
+     "sha256": "ca7e31af00105970e3f9587a3d6038cde184b3c4f51d15e086bc071a7c99314b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08619",
+   "short": "Lei 8619/2023",
+   "title": "Lei nº 8.619, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11356",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11356/lei_8619-2023.pdf",
+     "sha256": "8cac1f334e8fae8b29b3df4ae7efe438a9641bb01a229b6ece2fabd98a66b186"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08618",
+   "short": "Lei 8618/2023",
+   "title": "Lei nº 8.618, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11355",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11355/lei_8618-2023.pdf",
+     "sha256": "28c3fdc82db79cf49edae185ad84029c601c944161e3fd6356ae4a5127d521a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08617",
+   "short": "Lei 8617/2023",
+   "title": "Lei nº 8.617, de 23 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11354",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11354/lei_8617-2023.pdf",
+     "sha256": "10b718167a6444c41c13d5867505a15db26383c27faa533c4cdb29290da2e483"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08615",
+   "short": "Lei 8615/2023",
+   "title": "Lei nº 8.615, de 9 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11352",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11352/lei_8615-2023.pdf",
+     "sha256": "24863b82b7cdc7025182a4d6c428ef6339ecedb9618c4ff0e9d0ee511fd17c28"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08614",
+   "short": "Lei 8614/2023",
+   "title": "Lei nº 8.614, de 9 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11351",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11351/lei_8614-2023.pdf",
+     "sha256": "c6f5087fee37770d38102db836bda954d190d79abea585ae71804f3fa7a54c29"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08613",
+   "short": "Lei 8613/2023",
+   "title": "Lei nº 8.613, de 6 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11350",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11350/lei_8613-2023.pdf",
+     "sha256": "de7c2ec1be8c9f7609eb99ae4c52cff5f7afb218687cfb7c3652fafb96fd207d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08612",
+   "short": "Lei 8612/2023",
+   "title": "Lei nº 8.612, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11349",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11349/lei_8612-2023.pdf",
+     "sha256": "2a1f15d56022e4d816dd845d994d1d3558bd7cf4675efa8a3f06361f684709fb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08611",
+   "short": "Lei 8611/2023",
+   "title": "Lei nº 8.611, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11348",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11348/lei_8611-2023.pdf",
+     "sha256": "c5841ba06f721cc8e6fcf46cb5fefd43175326895a7e8bf52272064cdbdc756e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08610",
+   "short": "Lei 8610/2023",
+   "title": "Lei nº 8.610, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11347",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11347/lei_8610-2023.pdf",
+     "sha256": "f67618a2ef77e79ae7ac9015019cb4b1ceb2352e51f43dedbe31fe737c8c9c81"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08609",
+   "short": "Lei 8609/2023",
+   "title": "Lei nº 8.609, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11346",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11346/lei_8609-2023.pdf",
+     "sha256": "bcff0807e4a0b70ac8edb7ccea5ec8b15fa0659269be1b41ec322990c3fce15c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08608",
+   "short": "Lei 8608/2023",
+   "title": "Lei nº 8.608, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11345",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11345/lei_8608-2023.pdf",
+     "sha256": "f10efd03f8b80020e78662c0bec8d50ba7919f59fbc88732206382eac37eed87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08607",
+   "short": "Lei 8607/2023",
+   "title": "Lei nº 8.607, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11344",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11344/lei_8607-2023.pdf",
+     "sha256": "f5143d4b15e6bfc61eab5e20dbf1d20fbf9944e83d5fa0df9b634fc64955f705"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08606",
+   "short": "Lei 8606/2023",
+   "title": "Lei nº 8.606, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11343",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11343/lei_8606-2023.pdf",
+     "sha256": "94500cfb5434d0c4ac71555f6d24c2a40942910fe0b165057b6d41f331800d8b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08605",
+   "short": "Lei 8605/2023",
+   "title": "Lei nº 8.605, de 3 de outubro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11342",
+   "versions": [
+    {
+     "from": "2023-10-03",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11342/lei_8605-2023.pdf",
+     "sha256": "2670a9fdad0cea8dbb63e0737be5a4a2297e5c0a3848f6e83a540befe82b8cd0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08604",
+   "short": "Lei 8604/2023",
+   "title": "Lei nº 8.604, de 29 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11341",
+   "versions": [
+    {
+     "from": "2023-09-29",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11341/lei_8604-2023.pdf",
+     "sha256": "95592dbe1d88ce485542800069fb0084b105f03e8f860518275d733279e2370f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08603",
+   "short": "Lei 8603/2023",
+   "title": "Lei nº 8.603, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11340",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11340/lei_8603-2023.pdf",
+     "sha256": "ae163350a33382f7f6c01554f18fe4e034e42822cd0ea527113df4d768645c76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08602",
+   "short": "Lei 8602/2023",
+   "title": "Lei nº 8.602, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11339",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11339/lei_8602-2023.pdf",
+     "sha256": "81356f4b527ad3a788315bd07e5a820cc45213a218c0d661a6fea4a5fbe60f76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08601",
+   "short": "Lei 8601/2023",
+   "title": "Lei nº 8.601, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11338",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11338/lei_8601-2023.pdf",
+     "sha256": "997db151b42b2eb5d6ac8d9b3df32fa7de6d0197ba9c82cf819bb032c384423e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08600",
+   "short": "Lei 8600/2023",
+   "title": "Lei nº 8.600, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11337",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11337/lei_8600-2023.pdf",
+     "sha256": "8673ce666220e3f3c56a6a7ccd559f5b74811911f2035b325e3771bae7867258"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08599",
+   "short": "Lei 8599/2023",
+   "title": "Lei nº 8.599, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11336",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11336/lei_8599-2023.pdf",
+     "sha256": "1ec19f8d7c7ccde6ad39e71cf95acf77c20a6e3c9699d09a1ad70981096d26c6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08598",
+   "short": "Lei 8598/2023",
+   "title": "Lei nº 8.598, de 18 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11335",
+   "versions": [
+    {
+     "from": "2023-09-18",
+     "units": 10,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11335/lei_8598-2023.pdf",
+     "sha256": "267672e99288ee2e8443c5ab627ea3ef4c1f7f5494450faa5c9d73152113811f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08597",
+   "short": "Lei 8597/2023",
+   "title": "Lei nº 8.597, de 4 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11334",
+   "versions": [
+    {
+     "from": "2023-09-04",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11334/lei_8597-2023.pdf",
+     "sha256": "d1a30385e4016c5a2b3f20a2bb4ebdc78a500a1d770fc33696b11edee4d45e9f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08596",
+   "short": "Lei 8596/2023",
+   "title": "Lei nº 8.596, de 1 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11333",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11333/lei_8596-2023.pdf",
+     "sha256": "d1987b3e2d0a8ac60b20bf527163f8661c88b3672208378f84eba5855045a80d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-08595",
+   "short": "Lei 8595/2023",
+   "title": "Lei nº 8.595, de 1 de setembro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11332",
+   "versions": [
+    {
+     "from": "2023-09-01",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11332/lei_8595-2023.pdf",
+     "sha256": "da8f6cd6b3167dc0f943cb48553aa936ead85d56453d4481c95c75410c436f20"
+    }
+   ]
+  }
+ ]
+}

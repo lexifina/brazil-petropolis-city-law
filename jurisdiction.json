@@ -1,0 +1,9 @@
+{
+  "path": "br-rj-petropolis",
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis (city)",
+  "level": "municipality",
+  "parent": "br-rj",
+  "repo": "https://github.com/lexifina/brazil-petropolis-city-law",
+  "build": "built: the law of Petrópolis from the Câmara Municipal's SAPL"
+}
