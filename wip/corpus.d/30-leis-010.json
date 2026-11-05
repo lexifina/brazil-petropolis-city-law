@@ -1,0 +1,1301 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-05",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "20 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2022-08465": {
+   "label": "Lei nº 8.465, de 10 de dezembro de 2022",
+   "title": "DISPÕE SOBRE A INSTALAÇÃO DE BRINQUEDOS ADAPTADOS PARA CRIANÇAS COM DEFICIÊNCIA EM ÁREAS DE LAZER NOS LOCAIS QUE MENCIONA.",
+   "kind": "law",
+   "enacted": "2022-12-10",
+   "published": "2022-12-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11201",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08464": {
+   "label": "Lei nº 8.464, de 10 de dezembro de 2022",
+   "title": "INSTITUI O PLANO MUNICIPAL PARA ARRECADAÇÕES DE DONATIVOS EM SITUAÇÕES DE CALAMIDADE PÚBLICA POR MOTIVO DE DESASTRES NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-12-10",
+   "published": "2022-12-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11200",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08463": {
+   "label": "Lei nº 8.463, de 9 de dezembro de 2022",
+   "title": "REGULAMENTA O TRATAMENTO JURÍDICO DIFERENCIADO A MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE, MICROEMPREENDEDORES INDIVIDUAIS - MEI's, PRODUTORES DE CERVEJAS ARTESANAIS DO MUNICÍPIO DE PETRÓPOLIS EM CERTAMES LICITATÓRIOS.",
+   "kind": "law",
+   "enacted": "2022-12-09",
+   "published": "2022-12-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11199",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08462": {
+   "label": "Lei nº 8.462, de 9 de dezembro de 2022",
+   "title": "DISPÕE SOBRE MECANISMO DE FOMENTO À MINIGERAÇÃO E MICROGERAÇÃO DE ENERGIA FOTOVOLTAICA NAS ÁREAS CLASSIFICADAS COMO ZONA DE PRESERVAÇÃO ESPECIAL (ZPE), NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-12-09",
+   "published": "2022-12-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11198",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08461": {
+   "label": "Lei nº 8.461, de 9 de dezembro de 2022",
+   "title": "CRIA O BANCO DE MATERIAIS ORTOPÉDICOS NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-12-09",
+   "published": "2022-12-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11197",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08454": {
+   "label": "Lei nº 8.454, de 16 de novembro de 2022",
+   "title": "INSTITUI A POLITICA PÚBLICA DE MEDIAÇÃO ESCOLAR NA REDE MUNICIPAL DE ENSINO NO MUNICÍPIO DE PETRÓPOLIS E DÁ PROVIDÊNCIAS CORRELATAS.",
+   "kind": "law",
+   "enacted": "2022-11-16",
+   "published": "2022-11-19",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11190",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08453": {
+   "label": "Lei nº 8.453, de 9 de novembro de 2022",
+   "title": "DENOMINA SERVIDÃO PAULA PEREIRA DOS SANTOS, O LOGRADOURO PÚBLICO LOCALIZADO EM BARRA MANSA, 4º DISTRITO DE PETRÓPOLIS, COM APROXIMADAMENTE 96M DE EXTENSÃO.",
+   "kind": "law",
+   "enacted": "2022-11-09",
+   "published": "2022-11-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11189",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08451": {
+   "label": "Lei nº 8.451, de 9 de novembro de 2022",
+   "title": "DISPÕE SOBRE A DENOMINAÇÃO DA PRAÇA PÚBLICA LOCALIZADA NA ESTRADA DAS ARCAS, SANTA MONICA, ITAIPAVA - PETRÓPOLIS/RJ.",
+   "kind": "law",
+   "enacted": "2022-11-09",
+   "published": "2022-11-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11187",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08446": {
+   "label": "Lei nº 8.446, de 27 de outubro de 2022",
+   "title": "DENOMINA \"SERVIDÃO ANTÔNIO FEIJÓ\" O LOGRADOURO PÚBLICO QUE ESTÁ LOCALIZADO NO ENTROCAMENTO ENTRE A RUA LUVERCI FIORINI COM A RUA HERCIDES JOSÉ ESTRELA, NO BAIRRO LOTEAMENTO SAMAMBAIA.",
+   "kind": "law",
+   "enacted": "2022-10-27",
+   "published": "2022-10-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11182",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08445": {
+   "label": "Lei nº 8.445, de 27 de outubro de 2022",
+   "title": "INSTITUI NO MUNICÍPIO DE PETRÓPOLIS A CAMPANHA DE CONSCIENTIZAÇÃO DA POPULAÇÃO SOBRE O CÂNCER ÓSSEO, DENOMINADA \"JULHO AMARELO\" E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-10-27",
+   "published": "2022-10-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11181",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08443": {
+   "label": "Lei nº 8.443, de 24 de outubro de 2022",
+   "title": "DENOMINA RUA HÉLCIO FERNANDES DOS SANTOS, COMO LOGRADOURO PÚBLICO LOCALIZADO NA RODOVIA BR 040 KM 59, ITAIPAVA - PETRÓPOLIS/RJ, CEP 25740-340.",
+   "kind": "law",
+   "enacted": "2022-10-24",
+   "published": "2022-10-24",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11179",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08441": {
+   "label": "Lei nº 8.441, de 21 de outubro de 2022",
+   "title": "DENOMINA \"ESTRADA DA TAPERA\" O LOGRADOURO PÚBLICO LOCALIZADO NO VALE DA BOA ESPERANÇA - ITAIPAVA.",
+   "kind": "law",
+   "enacted": "2022-10-21",
+   "published": "2022-10-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11177",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08439": {
+   "label": "Lei nº 8.439, de 21 de outubro de 2022",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS \"O DIA MUNICIPAL DA FAMÍLIA NA ESCOLA\" E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-10-21",
+   "published": "2022-10-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11175",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08438": {
+   "label": "Lei nº 8.438, de 21 de outubro de 2022",
+   "title": "DENOMINA \"SERVIDÃO FERNANDA FRANÇA DA CONCEIÇÃO\", O LOGRADOURO PÚBLICO LOCALIZADO NA RUA MANOEL LUIZ FERREIRA, BAIRRO CASCATINHA.",
+   "kind": "law",
+   "enacted": "2022-10-21",
+   "published": "2022-10-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11174",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08436": {
+   "label": "Lei nº 8.436, de 21 de outubro de 2022",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS A SEMANA MUNICIPAL PARA PREVENÇÃO E TRATAMENTO DA INCONTINÊNCIA URINÁRIA NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-10-21",
+   "published": "2022-10-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11172",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08435": {
+   "label": "Lei nº 8.435, de 21 de outubro de 2022",
+   "title": "DECLARA PATRIMÔNIO CULTURAL IMATERIAL DO MUNICÍPIO DE PETRÓPOLIS AS MANIFESTAÇÕES RELATIVAS À FOLIA DE REIS E INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS O \"DIA MUNICIPAL DA FOLIA DE REIS\".",
+   "kind": "law",
+   "enacted": "2022-10-21",
+   "published": "2022-10-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11171",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08434": {
+   "label": "Lei nº 8.434, de 14 de outubro de 2022",
+   "title": "DISPÕE SOBRE A CIRCULAÇÃO E PERMANÊNCIA DE ANIMAIS COMUNITÁRIOS NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-10-14",
+   "published": "2022-10-14",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11170",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08433": {
+   "label": "Lei nº 8.433, de 13 de outubro de 2022",
+   "title": "DISPÕE SOBRE A CAMPANHA \"DOADORES DO FUTURO\" NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-10-13",
+   "published": "2022-10-13",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11169",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08432": {
+   "label": "Lei nº 8.432, de 11 de outubro de 2022",
+   "title": "DENOMINA \"SERVIDÃO JOSÉ DOS REIS\", O LOGRADOURO PÚBLICO QUE ESTÁ LOCALIZADO NA RUA LUVERCI FIORINI, NO BAIRRO LOTEAMENTO SAMAMBAIA.",
+   "kind": "law",
+   "enacted": "2022-10-11",
+   "published": "2022-10-11",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11168",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08431": {
+   "label": "Lei nº 8.431, de 10 de outubro de 2022",
+   "title": "REGULAMENTA O FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL- FUMPDEC- NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-10-10",
+   "published": "2022-10-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11167",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2022-08465",
+   "short": "Lei 8465/2022",
+   "title": "Lei nº 8.465, de 10 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11201",
+   "first_law": "lei-2022-08465",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11201/lei_8465-2022.pdf",
+     "sha256": "763b2ae5e3db2347615e1d4d1a774f71488d91c9a3676dcc7085afed0f35833a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.465, DE 07/10/2022 DISPÕE SOBRE A INSTALAÇÃO DE BRINQUEDOS ADAPTADOS PARA CRIANÇAS COM DEFICIÊNCIA EM ÁREAS DE LAZER NOS LOCAIS QUE MENCIONA.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os playgrounds instalados em jardins, parques, clubes, áreas de lazer e áreas abertas ao público em geral, localizados em propriedade privada de uso coletivo ou em locais de empreendimentos e empresas privadas, abertas ao público, com ou sem cobrança de ingresso, deverão conter brinquedos adaptados para crianças com deficiência.\nParágrafo único. Além dos equipamentos a que se refere o parágrafo anterior, os locais mencionados deverão, quando for o caso, ter brinquedos adaptados para atender as crianças com deficiência visual, tais como jogos de tabuleiros e baralhos táteis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os locais que trata o art. 1º desta Lei devem se adequar os padrões de acessibilidade da Associação Brasileira de Normas Técnicas - ABNT.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O descumprimento desta Lei implicará em sanção a ser estabelecida pelo Poder Executivo, em regulamento, no prazo de 90 (noventa) dias a partir da publicação da presente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os locais descritos no caput do art. 1º terão o prazo de 120 (cento e vinte) dias a partir da publicação desta Lei para se adequarem.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 07 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.465, de 10 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08464",
+   "short": "Lei 8464/2022",
+   "title": "Lei nº 8.464, de 10 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11200",
+   "first_law": "lei-2022-08464",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11200/lei_8464-2022.pdf",
+     "sha256": "08f6aefde486ae5bad66b7bff6897feadfb0ab303d81b306d911e06d1a9eec7c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.464, DE 07/10/2022 INSTITUI O PLANO MUNICIPAL PARA ARRECADAÇÕES DE DONATIVOS EM SITUAÇÕES DE CALAMIDADE PÚBLICA POR MOTIVO DE DESASTRES NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam criados o Plano Municipal e o Fluxograma para Arrecadações de Donativos em situações de Calamidade Pública por motivo de desastres no Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As situações de Calamidade Pública amparadas pela presente Lei são aquelas que envolvam doações diretas aos munícipes e que estejam amparadas por normativa legal expedida pelo Chefe do Poder Executivo Municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Chefe do Poder Executivo deverá indicar, por normativa legal, a quem competirá à gestão dos donativos recebidos por motivo de Calamidade Pública em função de desastres.\nParágrafo único. A competência acima poderá ser delegada a um órgão do Poder Público Municipal, a uma Organização da Sociedade Civil sem fins lucrativos ou a uma Associação de Moradores, estas duas últimas devem estar com seus registros cartoriais em dia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Consideram-se pessoas afetadas aquelas que estejam em situação de desabrigamento, desalojamento e ainda que sejam afetados de forma simples.\nParágrafo único. Consideram-se desabrigados as pessoas cujas habitações tenham sido afetadas por algum desastre e que necessitam de abrigo temporário ou que tenham sido encaminhadas para ponto de apoio; desalojados são pessoas que estão em casas de amigos ou parentes e que, não necessariamente, necessitem de abrigo; os afetados de forma simples são os moradores que não deixaram suas moradias em circunstância do desastre, apesar de serem afetados por situação de vulnerabilidade social ou financeira.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As arrecadações de donativos devem ser mobilizadas em situação de desastre que acometa um grande número de pessoas afetadas, que estejam desabrigadas ou desalojadas, e que o Município necessite de apoio para prestar assistência às estas pessoas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Compete ao Poder Executivo e a quem por ele for delegado para acompanhar e organizar a arrecadação de donativos:\nI - Mapear o quantitativo de pessoas a serem beneficiadas pelos donativos e referenciá-las na Secretaria de Assistência Social.\nII - Acompanhar os donativos recebidos para que não excedam mais que o necessário.\nIII - Acompanhar para que não sejam recebidos donativos indevidos.\nIV - Manter o recebimento de donativos em locais autorizados.\nV - Acompanhar para que não ocorra desvio de donativos.\nVI - Acompanhar ações de arrecadação de donativos que, porventura, estejam ocorrendo de forma isolada.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Compete ao (a) Coordenador (a) responsável pela gestão de donativos a elaboração de um Plano de Ação que deverá conter:\nI - Os tipos de donativos a serem recebidos (material e/ou em espécie);\nII - Divulgação da Campanha de Recebimento de Doações para a população e para possíveis doadores;\nIII - Orientações unificadas para os pontos de arrecadação;\nIV - Logística de transporte - recebimento e entrega nos abrigos temporários, pontos de apoio e à população em geral;\nV - Formas de acondicionamento e armazenamento dos donativos recebidos no ponto central e nos abrigos temporários, pontos de apoio e à população em geral;\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os resíduos das doações devem ser encaminhados às organizações da sociedade civil, sem fins lucrativos, devidamente registradas no Conselho Municipal dos Direitos da Criança e do Adolescente.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Ao final da situação de Calamidade Pública, com a consequente finalização da arrecadação de donativos, o (a) Coordenador (a) deverá emitir Relatório Final dos donativos, devendo o mesmo ser encaminhado, por via oficial ao Poder Legislativo e ao Ministério Público do Estado do Rio de Janeiro.\nParágrafo único. Não se faz necessário o envio de Relatório Final ao Poder Excecutivo, uma vez que o mesmo deve acompanhar as ações no curso do recebimento de donativos.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. - Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 07 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.464, de 10 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08463",
+   "short": "Lei 8463/2022",
+   "title": "Lei nº 8.463, de 9 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11199",
+   "first_law": "lei-2022-08463",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11199/lei_8463-2022.pdf",
+     "sha256": "45776bd4ab1350f638d3133ad83b78c3d4b789e3cb5c7b1613fca6319099c688",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.463, DE 07/10/2022 REGULAMENTA O TRATAMENTO JURÍDICO DIFERENCIADO A MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE, MICROEMPREENDEDORES INDIVIDUAIS - MEIS, PRODUTORES DE CERVEJAS ARTESANAIS DO MUNICÍPIO DE PETRÓPOLIS EM CERTAMES LICITATÓRIOS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei regulamenta o tratamento jurídico diferenciado das microempresas e empresas de pequeno porte, microempreendedores individuais - MEIs, produtores de Cervejas Artesanais do Município de Petrópolis em certames licitatórios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Nas contratações públicas de bens, serviços e obras, no âmbito da Administração Pública Municipal, deve ser concedido tratamento favorecido, diferenciado e simplificado para microempresas e empresas de pequeno porte, microempreendedores individuais - MEIs, nos termos do disposto nesta Lei, com objetivo de:\nI - promover o desenvolvimento econômico e social no âmbito local;\nII - ampliar a efetividade das políticas públicas; e\nIII - incentivar a inovação tecnológica.\nParágrafo único. Para efeitos desta Lei, considera-se:\nI - âmbito local - limites geográficos do Município onde deve ser executado o objeto da contratação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os efeitos desta Lei considera-se microempresas e empresas de pequeno porte, microempreendedores individuais - MEIs, o regulamentado pela Lei Complementar nº 123, artigo 3º, incisos I e II, de 14/12/2006.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Nas licitações para eventos culturais locais será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte, microempreendedores individuais.\nParágrafo único. Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10% (dez por cento) superiores à proposta mais bem classificada.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Nas contratações públicas da administração direta e indireta, autárquica e fundacional, municipal, deverá ser concedido tratamento diferenciado e simplificado para as empresas de pequeno porte objetivando a promoção do desenvolvimento econômico e social no âmbito municipal, a ampliação da eficiência das políticas públicas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo poderá regulamentar a presente Lei, no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os editais publicados após a data de entrada em vigor desta Lei devem ser ajustados a seus termos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 07 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.463, de 9 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08462",
+   "short": "Lei 8462/2022",
+   "title": "Lei nº 8.462, de 9 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11198",
+   "first_law": "lei-2022-08462",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11198/lei_8462-2022.pdf",
+     "sha256": "4d8463f362680d8825e5d04d964263d3bff78835f98b10bba6425fd344da1ac5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.462, DE 07/10/2022 DISPÕE SOBRE MECANISMO DE FOMENTO À MINIGERAÇÃO E MICROGERAÇÃO DE ENERGIA FOTOVOLTAICA NAS ÁREAS CLASSIFICADAS COMO ZONA DE PRESERVAÇÃO ESPECIAL (ZPE), NO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A presente lei tem por propósito e fundamento criar mecanismos de fomento à minigeração e microgeração de energia fotovoltaica nas áreas classificadas como Zona de Proteção Especial (ZPE), no Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos específicos da presente lei:\nI - incentivar a adoção da matriz fotovoltaica como alternativa ecologicamente correta de geração de energia;\nII - tornar totalmente autossuficiente o município de Petrópolis;\nIII - criar uma cultura de sustentabilidade, essencial para a manutenção de um meio ambiente saudável;\nIV - gerar emprego, renda e arrecadação no âmbito do município de Petrópolis.\nV - tornar o município um referencial no emprego de ações positivas de cunho ecologicamente sustentável, bem como desenvolver a indústria, comércio e prestação de serviços relativos a essas tecnologias, no âmbito local.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica autorizada a implantação da energia fotovoltaica nas áreas classificadas como Zona de Proteção Especial (ZPE) do zoneamento urbano.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Nos casos de geração de energia Fotovoltaica igual ou inferior a 100 (cem) megawatts será inexigível o licenciamento ambiental.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Nos casos de inexigibilidade de licenciamento ambiental de que trata o artigo anterior será exigida a autorização ambiental específica quando houver necessidade de:\nI - intervenção em Área de Preservação Permanente;\nII - supressão de vegetação;\nIII - manejo de fauna silvestre;\nIV - intervenção em sítios históricos ou arqueológicos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a obtenção de licença ambiental e alvará de obras fica instituído o sistema de auto licenciamento, sendo exigidos os seguintes documentos:\nI - Formulário padrão de requerimento preenchido e assinado pelo requerente, a ser obtido no sítio eletrônico da Prefeitura Municipal de Petrópolis;\nII - Cópia dos documentos de identidade e CPF do requerente e de seu representante legal;\nIII - Cópia atualizada da matrícula do imóvel (RGI) onde conste sua descrição;\nIV - Planta de localização, em papel tamanho A4 indicando o perímetro do terreno sobre o mapa aerofotogramétrico do Município na escala 1:10.000, o número da folha de articulação, o nome da rua de testada, o número da edificação, quando houver, a área do terreno e dois pontos de coordenadas geográficas, os quais devem coincidis com dois vértices da testada do terreno;\nV - Projeto completo em 03 (três) vias, dobrado no formato A-4, com margem e carimbo padrão contendo as informações gerais do projeto e específicas de cada prancha, assinadas pelo proprietário, pelo autor do projeto, e pelo responsável técnico pela obra, constando seus nomes por extenso, a habilitação dos profissionais com suas inscrições nos respectivos conselhos;\nVI - Cópia das ART/RRT de projeto e/ou responsabilidade técnica e de quitação.\n§ 1º A planta de localização deverá ser georreferenciada pelo padrão geodésico vigente no país utilizado pelo IBGE.\n§ 2º O projeto descrito no inciso V deste artigo deverá ser composto de:\nI - Prancha 01 contendo: planta de situação e cobertura, quadro comparativo;\nII - Prancha 02: plantas baixas na escala mínima de 1/100;\nIII - Prancha 03: plantas de cortes e fachadas na escala mínima de 1/100;\nIV - Caso necessário, prancha 04: planta de perfil longituginal e transversal, da área de implantação da obra, mostrando os projetos de contenção e drenagens quando necessário, demonstrando ainda o movimento de terras com tabelas de corte, aterro e bota-fora quando for o caso, na escala mínima de 1/250.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica dispensada a apresentação de DPA (declaração de possibilidade de abastecimento de água), de DPE (declaração de possibilidade de coleta de esgoto) e de possibilidade de coleta de lixo.\nParágrafo único. Fica dispensada ainda a aprovação dos projetos de água e esgoto.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Tendo a presente lei por intuito incentivar a expansão de uma cultura de sustentabilidade ambiental, poderá o Poder Executivo utilizar-se da extrafiscalidadetributaria como ferramenta de fomento, podendo mediante regulamentação especifica, conceder incentivos fiscais de sua competência.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Poder Executivo regulamentará por decreto os casos omissos desta lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 07 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.462, de 9 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08461",
+   "short": "Lei 8461/2022",
+   "title": "Lei nº 8.461, de 9 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11197",
+   "first_law": "lei-2022-08461",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11197/lei_8461-2022.pdf",
+     "sha256": "85c0c2d2bb4d737c307bc84cf05f495b2ce87f48d412815db17798ee6e9b50e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.461, DE 07/10/2022 CRIA O BANCO DE MATERIAIS ORTOPÉDICOS NO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizada à criação do Banco Municipal de Materiais Ortopédicos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O banco de materiais, instituído por esta Lei, será abastecido por materiais ortopédicos usados ou novos, doados pela comunidade, tais como: cadeira de roda e de banho, muleta, andador, bengala, cama hospitalar, tipóia, prótese, entre outros, destinados exclusivamente ao atendimento dos casos encaminhados através do Sistema Único-SUS.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Este sistema atenderá principalmente pessoas de baixa renda e poder aquisitivo do município, mediante avaliação de uma assistente social.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo, através da secretaria competente, poderá ser responsável pelo recebimento e por todo cadastramento de pessoas que integram a este sistema e posterior cessão gratuita de uso dos materiais àqueles que deles necessitarem.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Após o uso do material, a pessoa deverá devolvê-lo nas condições em que o recebeu.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para viabilizar o funcionamento do Banco, criado pela presente Lei, o Poder Executivo poderá estimular campanhas de voluntariado com as Secretarias Municipais competentes, entidades de classe, associações comunitárias e Organizações não Governamentais -ONGs, incentivando doações por parte de pessoas físicas e jurídicas.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Essa Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 07 de dezembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.461, de 9 de dezembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08454",
+   "short": "Lei 8454/2022",
+   "title": "Lei nº 8.454, de 16 de novembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11190",
+   "first_law": "lei-2022-08454",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-19",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11190/lei_8454-2022.pdf",
+     "sha256": "f26f978d27311debfe340457d2cde652058db5bd1a10357c6d9665aa576a2c94",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.454, DE 18/10/2022 INSTITUI A POLITICA PÚBLICA DE MEDIAÇÃO ESCOLAR NA REDE MUNICIPAL DE ENSINO NO MUNICÍPIO DE PETRÓPOLIS E DÁ PROVIDÊNCIAS CORRELATAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI Nº 8.454 DE 18 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei estabelece que, em conformidade com o Programa Municipal de Pacificação Restaurativa - Petrópolis da Paz, criado pela Lei 7.532/17, fica instituída como Política Pública Municipal a Mediação Escolar, com a finalidade de implementar a Cultura de Paz, formando, cuidando e capacitando os profissionais docentes e não docentes no interior das unidades escolares mediante ações que estimulem, incentivem e promovam as relações interpessoais no tocante à reconstrução de laços, reparação de danos e especialmente o compromisso de comportamentos mais harmônicos, resultando na qualidade do processo de ensino-aprendizagem e no desenvolvimento do ser de forma integral dentro do sistema educacional petropolitano.\nI - Todas as ações públicas de fomento, disseminação e aplicação dos métodos adequados de solução de conflitos, voltados para a Cultura da Paz, deverão necessariamente estar alinhados ao que dispõe esta Lei e submetidos à supervisão do Programa Municipal de Pacificação Restaurativa - Petrópolis da Paz e alinhados com a Secretaria de Educação do Município.\nII - A Política Pública Municipal de Mediação Escolar propiciará diálogo com todos os segmentos integrantes da comunidade escolar em que se encontra inserida, com o objetivo de fortalecer consensos coletivos de convívio social, promotores do desenvolvimento humano e da aprendizagem emocional dos envolvidos.\nIII - Para implementação da Mediação e sua Cultura de Paz, nos termos do Caput deste artigo, serão envolvidos todos os profissionais docentes e não docentes em exercício na Unidade Escolar, que deverão atuar como agentes promotores de desenvolvimento das ações previstas, adotando, em situações de desarmonia, práticas incentivadoras de soluções pacíficas, inclusive quando da atuação docente em salas de aula.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para efeito do que dispõe esta Lei a Coordenação do Programa Municipal de Pacificação Restaurativa - Petrópolis da Paz, promoverá ações formativas, destinadas aos profissionais docentes e não docentes das unidades escolares, das diretorias de ensino que serão assistidos em suas práticas e orientações nas soluções pacíficas, visando à capacitação, cuidado e preparo dos envolvidos nas práticas dialógicas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para o cumprimento dos objetos previstos nesta Lei, especialmente, fomentar a educação para a paz dentro do ambiente escolar, perpassando por todos os segmentos e por todos os atores envolvidos na formação educacional e cidadã dos estudantes, inicialmente se estabelece que todos os profissionais da rede municipal de ensino da cidade de Petrópolis deverão ser formados em mediação escolar pelo Programa Municipal de Pacificação Restaurativa Petrópolis da Paz.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os alunos capacitados em Mediação Escolar atuarão como Mediadores entre pares a partir das demandas apresentadas pela gestão da Unidade Escolar, nas suas respectivas escolas e sob a Supervisão do Programa Petrópolis da Paz.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Será competência do Programa Municipal de Pacificação Restaurativa - Petrópolis da Paz a capacitação e os parâmetros de conduta dos agentes responsáveis pela implementação das ações de mediação escolar, após o processo de formação, tendo em vista à perspectiva transformadora inerente a incorporação dos princípios, ética e modelos dialógicos da Mediação objeto do Programa Petrópolis da Paz em todos âmbitos no sentido de:\nI - Reconhecer-se, em sua atuação profissional, como protagonista e agente transformador;\nII - Colocar-se no lugar do outro, sabendo ouvir e observar as perspectivas, os valores e as formas de pensar e agir;\nIII - Ser articulado e estabelecer diálogos com todos, comunicando-se com objetividade, coerência e coesão;\nIV - Identificar o quanto a relação dos aspectos sociais, culturais e econômicos da comunidade afeta o desenvolvimento do processo educacional;\nV - Aprimorar sua capacidade de aprender, apreender, de criar, de transformar e de inovar;\nVI - Compreender as características da sociedade, identificando sua composição heterogênica e plural, bem como respeitando as diferenças.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Caberá à Coordenação do Programa Petrópolis da Paz a indicação dos atores responsáveis pela implementação das ações de mediação que deverão:\nI - Atuar de forma proativa, preventiva e mediadora, desenvolvendo, diante de conflitos no cotidiano escolar das práticas colaborativas e restaurativas de cultura de paz;\nII - Promover a inclusão de atitudes fundamentadas por princípios éticos e democráticos;\nIII - Articular-se com a equipe escolar na construção de ações preventivas relativas às normas de convivência que envolvem a comunidade escolar e seu entorno;\nIV - Colaborar com o Conselho Escolar, quando couber, com gestores e comunidade escolar na elaboração, implementação e avaliação da proposta pedagógica;\nV - Assessorar a equipe escolar nas ações pedagógicas relacionadas à cultura de paz;\nVI - Planejar e organizar com a colaboração de todos os envolvidos, espaços específicos determinados para a Mediação com a finalidade de resolução dos conflitos;\nVII - Esclarecer aos pais ou responsáveis sobre o papel da família e sua importância no processo educativo e social;\nVIII - Mapear e estabelecer contato e parceria, em articulação com a equipe escolar com os órgãos integrantes da Rede Municipal de Proteção Social e de Direitos, bem como com instituições culturais, sociais, de saúde, educativas e religiosas, cuja atuação abranja a área territorial da unidade escolar, encaminhando estudantes e/ou pais ou responsáveis, na conformidade da necessidade detectada;\nIX - Empenhar-se em sua formação contínua, já que é da própria essência das práticas dialógicas e do Instituto da Mediação e seu processo de transformação, reconhecendo a importância da auto-avaliação e do aprimoramento profissional.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º No desenvolvimento das ações de mediação, caberá à direção da escola, bem como a todos os profissionais das áreas pedagógica e administrativa desta, e membros atuantes das comunidades, a participação de forma proativa, preventiva e mediadora, deliberando e articulando-se com o Programa Petrópolis da Paz e os demais membros da comunidade escolar, na construção de ações e normas de convivência pacífica, para:\nI - Organizar propostas de integração da comunidade escolar com a comunidade local;\nII - Propiciar, de forma sistemática, a efetiva participação dos gestores, professores, funcionários, estudantes e seus pais ou responsáveis nas tomadas de decisão;\nIII - Promover e estimular as relações entre os membros da comunidade escolar e local, empregando práticas colaborativas e restaurativas diante de conflitos no cotidiano;\nIV - Manter contato com os pais ou responsáveis pelos estudantes, orientando-os quanto ao papel da família no processo educativo e encaminhando-os para atendimento conforme orientações da Coordenação do Programa Petrópolis da Paz.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Programa Municipal de Pacificação Restaurativa - Petrópolis da Paz, organizará e acompanhará sistematicamente as ações de Mediação Escolar e disponibilizará os dados referentes ao desenvolvimento das ações implementadas, para consulta sempre que necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A partir da vigência da presente Lei caberá as unidades escolares, com o apoio da equipe gestora e técnica, a reestruturação do Plano Político Pedagógico bem como demais documentos legais com o objetivo de incluir a perspectiva da Cultura de Paz e Mediação de Conflitos.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Programa Municipal de Pacificação Restaurativa - Petrópolis da Paz deverá acompanhar os servidores em exercício nas unidades escolares que estarão atuando como agentes de práticas incentivadoras de consensos coletivos de convívio social na conformidade do previsto neste documento.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Poder Executivo deverá regulamentar a presente Lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0012": {
+       "label": "Art.12",
+       "kind": "article",
+       "text": "Art.12. Ficam revogadas as demais disposições em contrário.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 18 de novembro de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.454, de 16 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08453",
+   "short": "Lei 8453/2022",
+   "title": "Lei nº 8.453, de 9 de novembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11189",
+   "first_law": "lei-2022-08453",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11189/8453.pdf",
+     "sha256": "15c73a9236d6c01d7afb5b83493ae6cd923ec2ba85d563805567b337c51b3cd0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.453, DE 09/11/2022 DENOMINA SERVIDÃO PAULA PEREIRA DOS SANTOS, O LOGRADOURO PÚBLICO LOCALIZADO EM BARRA MANSA, 4º DISTRITO DE PETRÓPOLIS, COM APROXIMADAMENTE 96M DE EXTENSÃO.\nPublicado: 09/11/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.453 DE 09 DE NOVEMBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado SERVIDÃO PAULA PEREIRA DOS SANTOS, o Logradouro Público, localizado em Barra Mansa, 4º Distrito de Petrópolis, com 96 metros de extensão e aproximadamente 3,5 m de largura, que se inicia à direita da Rua Manoel Pereira Barbosa. Logradouro sem saída.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, ﬁel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 09 de novembro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.453, de 9 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08451",
+   "short": "Lei 8451/2022",
+   "title": "Lei nº 8.451, de 9 de novembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11187",
+   "first_law": "lei-2022-08451",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11187/8451.pdf",
+     "sha256": "ba09ab7cacd141b60446dc403deb726abf81140c088a52162cc3e4d0303bf388",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.451, DE 09/11/2022 DISPÕE SOBRE A DENOMINAÇÃO DA PRAÇA PÚBLICA LOCALIZADA NA ESTRADA DAS ARCAS, SANTA MONICA, ITAIPAVA - PETRÓPOLIS/RJ.\nPublicada: 09/11/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.451 DE 09 DE NOVEMBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Passa a denominar-se \"Praça Jorge Elmor, a praça pública, localizada na Estrada das Arcas, Bairro Santa Monica - Itaipava - Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Prefeitura Municipal, através do setor responsável, deverá providenciar o emplacamento da Praça, conforme acima descrito.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, ﬁel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 09 de novembro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.451, de 9 de novembro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08446",
+   "short": "Lei 8446/2022",
+   "title": "Lei nº 8.446, de 27 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11182",
+   "first_law": "lei-2022-08446",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11182/lei_8446-2022.pdf",
+     "sha256": "5c9fe534d69828d5428450e10ad8d2676e98d493d55781aaf99f70367b171cfa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.446, DE 27/10/2022 DENOMINA SERVIDÃO ANTÔNIO FEIJÓ O LOGRADOURO PÚBLICO QUE ESTÁ LOCALIZADO NO ENTROCAMENTO ENTRE A RUA LUVERCI FIORINI COM A RUA HERCIDES JOSÉ ESTRELA, NO BAIRRO LOTEAMENTO SAMAMBAIA.\nPublicada: 27/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.446 DE 27 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Servidão Antônio Feijó o logradouro público que está localizado no entrocamento entre a Rua Luverci Fiorini com a Rua Hercides José Estrela, no Bairro Loteamento Samambaia, possuindo aproximadamente 40 metros de comprimento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 27 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.446, de 27 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08445",
+   "short": "Lei 8445/2022",
+   "title": "Lei nº 8.445, de 27 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11181",
+   "first_law": "lei-2022-08445",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11181/lei_8445-2022.pdf",
+     "sha256": "0ae3b702a9432534b7e365309f4b163ad79910d0d200835123f3e4c077758840",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.445, DE 27/10/2022 INSTITUI NO MUNICÍPIO DE PETRÓPOLIS A CAMPANHA DE CONSCIENTIZAÇÃO DA POPULAÇÃO SOBRE O CÂNCER ÓSSEO, DENOMINADA JULHO AMARELO E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada: 27/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.445 DE 27 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha de Conscientização da População sobre o Câncer Ósseo, denominada Julho Amarelo, a ser realizada anualmente, no mês de julho, quando serão efetivadas ações que visam a conscientização da população sobre o câncer nos ossos e a importância do diagnóstico precoce para um tratamento eficaz e assertivo.\nParágrafo único. A Campanha Julho Amarelo será realizada, anualmente, no período de 1º a 31 de julho e terá como símbolo um pequeno laço amarelo disposto sobre um fundo branco.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No mês de julho poderão ocorrer discussões e debates nas escolas públicas municipais, nos postos de saúde, clínicas em geral, hospitais, e secretaria de saúde, bem como, a utilização de cartazes e panfletos da campanha, visando alertar e esclarecer a população sobre os sintomas e importância do descobrimento e tratamento precoce.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos elencados nesta Lei, o Poder Executivo poderá realizar palestras, seminários, workshops, rodas de conversas, campanhas educativas e mobilizações em locais estratégicos e de fácil acesso à comunidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal poderá firmar convênios e parcerias com outros órgãos públicos, bem como com instituições e entidades privadas, visando à efetiva realização da Campanha denominada \"Julho Amarelo\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O município regulamentará a presente Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 27 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.445, de 27 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08443",
+   "short": "Lei 8443/2022",
+   "title": "Lei nº 8.443, de 24 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11179",
+   "first_law": "lei-2022-08443",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11179/lei_8443-2022.pdf",
+     "sha256": "e1492378ef2456ec274ebb4e4f36265b51bbebd9152ac8f15d9721041feacd80",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.443, DE 24/10/2022 DENOMINA RUA HÉLCIO FERNANDES DOS SANTOS, COMO LOGRADOURO PÚBLICO LOCALIZADO NA RODOVIA BR 040 KM 59, ITAIPAVA - PETRÓPOLIS/RJ, CEP 25740-340.\nPublicada: 24/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.443 - DE 24 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Rua Hélcio Fernandes dos Santos, o logradouro público, com aproximadamente 900m de extensão, que se inicia na BR 040 Km 59, ao nº 60.200, Itaipava.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 24 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.443, de 24 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08441",
+   "short": "Lei 8441/2022",
+   "title": "Lei nº 8.441, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11177",
+   "first_law": "lei-2022-08441",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11177/lei_8441-2022.pdf",
+     "sha256": "7adddbcbb01bec5a2bd4541ee804526cd00c5b060ac5a36a50c85b6fc37178a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.441, DE 21/10/2022 DENOMINA \"ESTRADA DA TAPERA\" O LOGRADOURO PÚBLICO LOCALIZADO NO VALE DA BOA ESPERANÇA - ITAIPAVA.\nPublicada: 21/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.441 - DE 21 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art.1º",
+       "kind": "article",
+       "text": "Art.1º Fica denominada \"Estrada da Tapera\" o logradouro público com início na Estrada Manoel Paulo de Oliveira Botelho, na altura do número 2001 (Sítio Fazendinha), no Vale da Boa Esperança-Itaipava, com aproximadamente 3 quilômetros de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art.2º",
+       "kind": "article",
+       "text": "Art.2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nGabinete do Prefeito de Petrópolis, em 21 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.441, de 21 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08439",
+   "short": "Lei 8439/2022",
+   "title": "Lei nº 8.439, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11175",
+   "first_law": "lei-2022-08439",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11175/lei_8439-2022.pdf",
+     "sha256": "3a69d1dacf7a673cd8f4f780f75d8cb30dbce008284b0e10d651c30750a3df77",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.439, DE 21/10/2022 INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS \"O DIA MUNICIPAL DA FAMÍLIA NA ESCOLA\" E DÁ OUTRAS PROVIDÊNCIAS Publicado:21/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8439 DE 21 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do Município de Petrópolis, o Dia Municipal da Família na Escola\", a ser comemorado anualmente no dia 24 de Abril, quando também é comemorado o dia Nacional, reconhecendo a importância da integração e do acompanhamento dos pais e familiares nas atividades pedagógicas e socioeducativas desenvolvidas pela escola de seus filhos.\n§ 1º A data comemorativa ora instituída passará a integrar o Calendário Oficial de Eventos do Município de Petrópolis.\n§ 2º O Dia Municipal da Família na Escola, tem como objetivo estimular que as famílias visitem as escolas e realizem tarefas e atividades de interação com os filhos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá realizar atividades relacionadas ao Dia da Família na Escola, considerando os seguintes itens:\nI - as atividades serão realizadas somente nas dependências das escolas;\nII - com a participação dos educandos, de seus familiares, dos gestores, professores e demais funcionários para a mais perfeita integração;\nIII - as atividades serão precedidas de avisos dentro e fora das salas de aula com ampla divulgação na comunidade escolar, com convites por meio de cartazes, os quais poderão ser elaborados pelos próprios alunos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As atividades de que trata o artigo anterior consistirão em:\nI - exposição de trabalhos dos alunos, com incentivos à arte, esporte, ciência, literatura e todos os demais assuntos relacionados e de interesse da comunidade escolar;\nII - promover palestra para estudantes, pais e a comunidade em geral;\nIII - promover concurso de redação;\nIV - confeccionar murais alusivos à importância da família;\nV - promover palestras e debates sobre temas de interesse dos alunos e das famílias;\nVI - palestras sobre a importância da atuação das famílias na vida escolar dos filhos;\nVII - abordar outros assuntos de interesse da comunidade escolar.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal poderá apoiar o Dia da Família na Escola, com as atividades que serão realizadas, divulgando-as também para toda a cidade.\nParágrafo único. Os palestrantes poderão ser tanto familiares quanto do quadro da rede Municipal de Ensino de Petrópolis e demais convidados como voluntários, sob a coordenação da Secretaria Municipal da Educação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O poder Executivo regulamentará esta Lei no que for necessário para sua aplicação\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 21 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.439, de 21 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08438",
+   "short": "Lei 8438/2022",
+   "title": "Lei nº 8.438, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11174",
+   "first_law": "lei-2022-08438",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11174/lei_8438-2022.pdf",
+     "sha256": "87ea9bc424ee28c43fc8f8764b5eb3cd044a754958b1a61f600401826a01ad9c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.438, DE 21/10/2022 DENOMINA SERVIDÃO FERNANDA FRANÇA DA CONCEIÇÃO, O LOGRADOURO PÚBLICO LOCALIZADO NA RUA MANOEL LUIZ FERREIRA, BAIRRO CASCATINHA.\nPublicado:21/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8438 DE 21 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada Servidão Fernanda França da Conceição, o logradouro público com aproximadamente 90 metros de extensão, localizado na Rua Manoel Luiz Ferreira, próximo ao nº 8, fundos, bairro Cascatinha, Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 21 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.438, de 21 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08436",
+   "short": "Lei 8436/2022",
+   "title": "Lei nº 8.436, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11172",
+   "first_law": "lei-2022-08436",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11172/lei_8436-2022.pdf",
+     "sha256": "caf8be87621ad9157f5bf4e66454e69f343febc730450f7cd2eaaf58efc736f1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.436, DE 21/10/2022 INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS A SEMANA MUNICIPAL PARA PREVENÇÃO E TRATAMENTO DA INCONTINÊNCIA URINÁRIA NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nPublicado:21/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8436 DE 21 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída no calendário oficial de eventos a Semana Municipal para Prevenção e Tratamento da Incontinência Urinária no âmbito do Município de Petrópolis.\nParágrafo único. A efeméride constante no caput deste artigo será realizada anualmente nos dias 14 de março a 21 de março.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os interessados pelo assunto desta Lei, promoverão todas as ações pertinentes que viabilizem o fiel cumprimento desta.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação Mando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 21 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.436, de 21 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08435",
+   "short": "Lei 8435/2022",
+   "title": "Lei nº 8.435, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11171",
+   "first_law": "lei-2022-08435",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11171/lei_8435-2022.pdf",
+     "sha256": "d8aea587a1aa9822bb90cb2a5735ebd7263f8f402603c0666d50c76346b3edda",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.435, DE 21/10/2022 DECLARA PATRIMÔNIO CULTURAL IMATERIAL DO MUNICÍPIO DE PETRÓPOLIS AS MANIFESTAÇÕES RELATIVAS À FOLIA DE REIS E INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS O DIA MUNICIPAL DA FOLIA DE REIS.\nPublicado:21/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8435 DE 21 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Considera Patrimônio Cultural Imaterial do Município de Petrópolis as manifestações teológicas, culturais, cênicas, musicais, saberes e festivas relativas à Folia de Reis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Aos eventos coordenados pelo Poder Público Municipal, o Conselho Municipal de Cultura - CMC, será convocado à sua finalidade conforme a Lei nº 6.412 de 19 de dezembro de 2006.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Poderá o Poder Público Municipal promover ações de apoio e divulgação ao grupos de Folia de Reis estabelecidos no Município de Petrópolis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica incluído o dia 6 (seis) de janeiro, Dia de Reis, no Calendário Oficial de Eventos de Petrópolis, como Dia Municipal da Folia de Reis.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data da sua publicação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Revogam-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 21 de Outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.435, de 21 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08434",
+   "short": "Lei 8434/2022",
+   "title": "Lei nº 8.434, de 14 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11170",
+   "first_law": "lei-2022-08434",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11170/lei_8434-2022.pdf",
+     "sha256": "b4e752c7ec76e4e6e8e1b631c9b7b12244db26235da66ee14ce894c3cf227c84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.434, DE 14/10/2022 DISPÕE SOBRE A CIRCULAÇÃO E PERMANÊNCIA DE ANIMAIS COMUNITÁRIOS NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicado:14/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8434 - DE 14 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica permitida a circulação e permanência de animais comunitários no Município de Petrópolis.\nParágrafo único. Para os fins desta Lei, define-se animal comunitário como sendo aquele que não possui proprietário ou tutor determinado, mas que estabeleceu vínculos de afeto e dependência com membros da população local onde vive.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica proibido deslocar animais comunitários de seu meio habitual, bem como impedir membros da comunidade de prover os cuidados necessários para sua manutenção.\nParágrafo único. Para fins do caput, fica permitido aos moradores de condomínios residenciais prover os cuidados necessários aos animais comunitários que ali se estabelecerem.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O membro da comunidade interessado poderá ser considerado como responsável-tratador do animal comunitário, devendo cuidar e zelar por seus direitos.\n§ 1º Os responsáveis-tratadores de que trata o caput deste artigo:\nI - poderão ser cadastrados pela Coordenadoria de Bem Estar Animal (Cobea) ou órgão responsável que vier a sucedê-la, recebendo crachá constando sua qualificação completa;\nII - proverão aos animais comunitários sob sua responsabilidade, voluntariamente e às suas expensas:\na) os cuidados com higiene, saúde e alimentação, devendo zelar também pela limpeza do local em que estes se encontrem;\nb) vacinação periódica, assim como vermifugação e imunização contra pulgas e carrapatos;\nc) banhos periódicos;\nd) esterilização.\nIII - poderão providenciar a identificação dos animais comunitários sob sua responsabilidade, a qual deverá obedecer aos seguintes critérios:\na) cadastro do animal junto à Coordenadoria de Bem Estar Animal (Cobea) ou órgão público competente que vier a sucedê-la;\nb) identificação, prioritariamente, por microchipagem;\nc) uso de coleira com placa, para identificação visual, contendo nome e o número de identificação do animal comunitário, bem como o nome e o contato do responsável-tratador.\n§ 2º A ausência de um responsável-tratador cadastrado não permite qualquer forma de maus-tratos aos animais comunitários.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica permitida a colocação de casinhas para animais comunitários, preferencialmente em praças públicas, em local que não atrapalhe o trânsito dos pedestres e não impeça o acesso aos imóveis, restando proibido retirar, deslocar, danificar ou ocupá-las com outra finalidade.\n§ 1º As casinhas mencionadas no caput deverão:\nI - possuir placa de identificação com os dizeres \"Animais Comunitários\" e referência à presente Lei;\nII - ser mantidas limpas e conservadas pelos responsáveis-tratadores ou membros da comunidade local.\n§ 2º Os responsáveis-tratadores e membros da comunidade local poderão colocar comedouros e bebedouros higienizados ao lado das casinhas mencionadas no caput deste artigo, restando proibido retirar, deslocar, danificar ou ocupá-los com outra finalidade.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam os comerciantes autorizados a colocar comedouros e bebedouros higienizados para animais comunitários em frente aos seus estabelecimentos, desde que não atrapalhem o trânsito de pedestres, restando proibido retirar, deslocar, danificar ou ocupá-los com outra finalidade.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Público poderá implementar as seguintes medidas para a divulgação desta Lei:\nI - incentivar cursos e campanhas de conscientização junto à comunidade sobre o conceito de animal comunitário, bem como sobre o respeito aos seus direitos e os necessários cuidados à sua sobrevivência, qualidade de vida e saúde;\nII - possibilitar estratégias e ações para melhoria do bem estar, respeito e proteção aos animais comunitários;\nIII - incentivar campanhas de conscientização junto à comunidade sobre a necessidade de esterilização, vacinação periódica e de que maus-tratos e abandono configuram, em tese, prática de crime ambiental, nos termos da Lei Federal nº 9.605, de 12 de fevereiro de 1998.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O descumprimento do disposto nesta Lei sujeitará o seu infrator às penalidades relativas às condutas de maus-tratos a animais, previstas na Lei Municipal nº 8.258, de 20 de janeiro de 2022, sem prejuízo daquelas previstas na Lei Federal nº 9.605, de 12 de fevereiro de 1998.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias e, se necessário, abertura de crédito adicional especial.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Poder Executivo regulamentará esta Lei no prazo de 60 (sessenta) dias.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 14 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.434, de 14 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08433",
+   "short": "Lei 8433/2022",
+   "title": "Lei nº 8.433, de 13 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11169",
+   "first_law": "lei-2022-08433",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11169/lei_8433-2022.pdf",
+     "sha256": "a1386c389b1c25bf4e193f0eacc760b2c10c9b8ac9e2d7f750306c41c5099be1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.433, DE 13/10/2022 DISPÕE SOBRE A CAMPANHA DOADORES DO FUTURO NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicado:13/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8433 DE 13 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Dispõe sobre a campanha \"DOADORES DO FUTURO\" no âmbito do Município de Petrópolis.\nParágrafo único. A campanha constante no caput deste artigo poderá ser realizadas nas escolas particulares e públicas no âmbito do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A campanha \"Doadores do Futuro\" tem a finalidade de conscientizar os alunos da rede pública municipal e particular de ensino sobre a importância da doação voluntária de sangue.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A referida campanha consiste, caso sejam possíveis em: promoção de cursos, seminários e campanhas para os alunos, seus familiares e a comunidade do entorno das escolas, durante o período de aulas, visando à orientação e conscientização acerca da importância da doação de sangue e, para sua consecução, ficando facultada a colaboração de profissionais da área de hematologia / saúde.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nGabinete do Prefeito de Petrópolis, em 11 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.433, de 13 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08432",
+   "short": "Lei 8432/2022",
+   "title": "Lei nº 8.432, de 11 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11168",
+   "first_law": "lei-2022-08432",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11168/lei_8432-2022.pdf",
+     "sha256": "574bb7a52da97674655587becb640a0d3baad236a3fa4a54866471942e2ad1ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.432, DE 11/10/2022 DENOMINA SERVIDÃO JOSÉ DOS REIS, O LOGRADOURO PÚBLICO QUE ESTÁ LOCALIZADO NA RUA LUVERCI FIORINI, NO BAIRRO LOTEAMENTO SAMAMBAIA.\nPublicado:11/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.432 DE 11 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado Servidão José dos Reis o logradouro público que está localizado na Rua Luverci Fiorini, no Bairro Loteamento Samambaia, possuindo aproximadamente 30 metros de comprimento.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 11 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.432, de 11 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08431",
+   "short": "Lei 8431/2022",
+   "title": "Lei nº 8.431, de 10 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11167",
+   "first_law": "lei-2022-08431",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11167/lei_8431-2022.pdf",
+     "sha256": "60e6d4cf923868aee6e6ba03e02868a07c47670806d7667d7189389e96770754",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.431, DE 10/10/2022 REGULAMENTA O FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA CIVIL - FUMPDEC - NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicado:10/10/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI Nº 8.431 DE 10 DE OUTUBRO DE 2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Regulamenta o Fundo Municipal de Proteção e Defesa Civil - FUMPDEC, instituído pela Lei Municipal nº 7.056, de 15 de abril de 2013, que tem por finalidade captar, controlar e aplicar recursos financeiros, de modo a desenvolver projetos destinados às ações de defesa civil no Município de Petrópolis, bem como garantir a execução de ações preventivas, de socorro e de assistência emergencial às populações atingidas por desastres.\n§ 1º O FUMPDEC tem duração indeterminada, natureza contábil e gestão autônoma.\n§ 2º Os projetos poderão ser apresentados tanto pelo Poder Público quanto pela Sociedade Civil, perante ao Conselho Municipal de Proteção e Defesa Civil - COMPDEC.\n§ 3º A aprovação dos projetos será realizada pelo COMPDEC, de acordo com quórum a ser estabelecido pelo regimento interno do FUMPDEC.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As receitas do FUMPDEC serão utilizadas para a consecução dos seguintes objetivos:\nI - contratação de serviços, treinamentos e capacitação relacionados a ações de preparação, prevenção, mitigação de resposta e recuperação de desastres;\nII - aquisição de bens voltadas para políticas públicas de Proteção e Defesa Civil;\n§ 1º Fica vedado o uso de recursos do FUMPDEC para despesas correntes da Secretaria, salvo em casos onde seja decretado situação de emergência ou calamidade pública;\n§ 2º Os bens de caráter permanente adquiridos com recursos do FUMPDEC serão incorporados ao patrimônio municipal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Constituem receitas do FUMPDEC:\nI - As dotações orçamentárias consignadas anualmente no Orçamento Geral do Município e os créditos adicionais que lhe forem atribuídos;\nII - Os recursos transferidos da União, Estado ou Município;\nIII - Os auxílios, dotações, subvenções e contribuições de entidades públicas ou privadas, nacional ou estrangeiras, destinados a prevenção de desastres, socorro, assistência e reconstrução;\nIV - Os recursos provenientes de doações e contribuições de pessoas físicas e jurídicas;\nV - O rendimento de juros provenientes de aplicações financeiras dos recursos vinculados ao Fundo, realizadas na forma da Lei;\nVI - Os saldos dos créditos extraordinários e especiais, abertos em decorrência de calamidade pública, não aplicados e ainda disponíveis;\nVII - Valores oriundos de pagamento das multas aplicadas conforme previsão do art. 7º, § 4º da Lei Municipal nº 7.056 de 15 de abril de 2013;\nVIII - O produto de convênios firmados com outras entidades financiadoras;\nIX - Receita proveniente de eventos e promoções;\nX - Recursos, bens ou serviços que lhe forem destinados através de Termos de Ajustamentos de Conduta - TACs;\nXI - 50% (cinquenta por cento) da Taxa de Aprovação do Projeto de Construção Civil e\nXII - Outros recursos que lhe forem atribuídos.\nParágrafo único. O saldo do presente Fundo, apurado mediante balanço financeiro, será transferido ao exercício subsequente, condicionado a apresentação de relatório ao Chefe do Executivo e justificando as razões da não utilização dos recursos, até 30 (trinta) dias antes do final do Exercício.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Fundo Municipal de Proteção e Defesa Civil - FUMPDEC -, será gerido pela Secretaria Municipal de Proteção e Defesa Civil - SEMPDEC ou outra denominação que a pasta supervenientemente venha a receber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Secretário Municipal de Proteção e Defesa Civil ou outra denominação que a pasta supervenientemente venha a receber:\nI - Supervisionar e aprovar a movimentação orçamentária e financeira do FUMPDEC;\nII - Fixar diretrizes e normas para a utilização dos recursos do FUMPDEC;\nIII - Prestar contas trimestrais da gestão financeira;\nIV - Apresentar, anualmente, relatório de suas atividades;\nV - Desenvolver outras atividades determinadas pela pasta gestora e pelo chefe do Executivo Municipal, compatíveis com os objetivos do FUMPDEC;\nVI - Promover o desenvolvimento do FUMPDEC e exercer ações para que seus objetivos sejam alcançados.\nParágrafo único. Todos os atos de utilização do FUMPDEC devem ser cientificados ao Conselho.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A comprovação das despesas realizadas através da conta do FUMPDEC será feita mediante os seguintes documentos:\na) prévio empenho;\nb) fatura, nota fiscal e recibo;\nc) balancete evidenciando receitas e despesas;\nd) nota de pagamento.\nParágrafo único. Todas as despesas efetuadas deverão ser comprovadas e justificadas perante o Conselho.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O FUMPDEC terá suas dotações orçamentárias consignadas anualmente no orçamento geral do Município.\n§ 1º A Subsecretaria Geral de Contadoria do Município deverá publicar balanço financeiro dos recursos do fundo, semestralmente, de acordo com a legislação pertinente.\n§ 2º A prestação de contas será consolidada por ocasião do encerramento do correspondente exercício, publicada no Diário Oficial do Município e disponibilizada no Portal de Transparência.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A contabilidade do FUMPDEC tem por objetivo evidenciar a sua situação financeira, patrimonial e orçamentária, observados os padrões e normas estabelecidos na legislação pertinente.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O COMPDEC deverá, no prazo de 60 (sessenta) dias, contados da publicação desta Lei, elaborar o Regimento Interno do FUMPDEC, o qual será aprovado por meio de Decreto do Chefe do Executivo Municipal.\nParágrafo único. O Regimento Interno do Fundo, bem como eventuais modificações posteriores, serão aprovados pela maioria simples dos membros do COMPDEC.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 10 de outubro de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.431, de 10 de outubro de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
