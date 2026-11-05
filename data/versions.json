@@ -3002,6 +3002,300 @@
      "sha256": "da8f6cd6b3167dc0f943cb48553aa936ead85d56453d4481c95c75410c436f20"
     }
    ]
+  },
+  {
+   "slug": "lei-2023-08492",
+   "short": "Lei 8492/2023",
+   "title": "Lei nº 8.492, de 16 de janeiro de 2023",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11228",
+   "versions": [
+    {
+     "from": "2023-01-16",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2023/11228/8492_-_2023.pdf",
+     "sha256": "b526969eb963047597e7a0599225cc84f46be0cab64e07b14b45861762046147"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08465",
+   "short": "Lei 8465/2022",
+   "title": "Lei nº 8.465, de 10 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11201",
+   "versions": [
+    {
+     "from": "2022-12-10",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11201/lei_8465-2022.pdf",
+     "sha256": "763b2ae5e3db2347615e1d4d1a774f71488d91c9a3676dcc7085afed0f35833a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08464",
+   "short": "Lei 8464/2022",
+   "title": "Lei nº 8.464, de 10 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11200",
+   "versions": [
+    {
+     "from": "2022-12-10",
+     "units": 11,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11200/lei_8464-2022.pdf",
+     "sha256": "08f6aefde486ae5bad66b7bff6897feadfb0ab303d81b306d911e06d1a9eec7c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08463",
+   "short": "Lei 8463/2022",
+   "title": "Lei nº 8.463, de 9 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11199",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 9,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11199/lei_8463-2022.pdf",
+     "sha256": "45776bd4ab1350f638d3133ad83b78c3d4b789e3cb5c7b1613fca6319099c688"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08462",
+   "short": "Lei 8462/2022",
+   "title": "Lei nº 8.462, de 9 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11198",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 11,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11198/lei_8462-2022.pdf",
+     "sha256": "4d8463f362680d8825e5d04d964263d3bff78835f98b10bba6425fd344da1ac5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08461",
+   "short": "Lei 8461/2022",
+   "title": "Lei nº 8.461, de 9 de dezembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11197",
+   "versions": [
+    {
+     "from": "2022-12-09",
+     "units": 8,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11197/lei_8461-2022.pdf",
+     "sha256": "85c0c2d2bb4d737c307bc84cf05f495b2ce87f48d412815db17798ee6e9b50e8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08454",
+   "short": "Lei 8454/2022",
+   "title": "Lei nº 8.454, de 16 de novembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11190",
+   "versions": [
+    {
+     "from": "2022-11-19",
+     "units": 14,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11190/lei_8454-2022.pdf",
+     "sha256": "f26f978d27311debfe340457d2cde652058db5bd1a10357c6d9665aa576a2c94"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08453",
+   "short": "Lei 8453/2022",
+   "title": "Lei nº 8.453, de 9 de novembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11189",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11189/8453.pdf",
+     "sha256": "15c73a9236d6c01d7afb5b83493ae6cd923ec2ba85d563805567b337c51b3cd0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08451",
+   "short": "Lei 8451/2022",
+   "title": "Lei nº 8.451, de 9 de novembro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11187",
+   "versions": [
+    {
+     "from": "2022-11-09",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11187/8451.pdf",
+     "sha256": "ba09ab7cacd141b60446dc403deb726abf81140c088a52162cc3e4d0303bf388"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08446",
+   "short": "Lei 8446/2022",
+   "title": "Lei nº 8.446, de 27 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11182",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11182/lei_8446-2022.pdf",
+     "sha256": "5c9fe534d69828d5428450e10ad8d2676e98d493d55781aaf99f70367b171cfa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08445",
+   "short": "Lei 8445/2022",
+   "title": "Lei nº 8.445, de 27 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11181",
+   "versions": [
+    {
+     "from": "2022-10-27",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11181/lei_8445-2022.pdf",
+     "sha256": "0ae3b702a9432534b7e365309f4b163ad79910d0d200835123f3e4c077758840"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08443",
+   "short": "Lei 8443/2022",
+   "title": "Lei nº 8.443, de 24 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11179",
+   "versions": [
+    {
+     "from": "2022-10-24",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11179/lei_8443-2022.pdf",
+     "sha256": "e1492378ef2456ec274ebb4e4f36265b51bbebd9152ac8f15d9721041feacd80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08441",
+   "short": "Lei 8441/2022",
+   "title": "Lei nº 8.441, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11177",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11177/lei_8441-2022.pdf",
+     "sha256": "7adddbcbb01bec5a2bd4541ee804526cd00c5b060ac5a36a50c85b6fc37178a6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08439",
+   "short": "Lei 8439/2022",
+   "title": "Lei nº 8.439, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11175",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11175/lei_8439-2022.pdf",
+     "sha256": "3a69d1dacf7a673cd8f4f780f75d8cb30dbce008284b0e10d651c30750a3df77"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08438",
+   "short": "Lei 8438/2022",
+   "title": "Lei nº 8.438, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11174",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11174/lei_8438-2022.pdf",
+     "sha256": "87ea9bc424ee28c43fc8f8764b5eb3cd044a754958b1a61f600401826a01ad9c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08436",
+   "short": "Lei 8436/2022",
+   "title": "Lei nº 8.436, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11172",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 5,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11172/lei_8436-2022.pdf",
+     "sha256": "caf8be87621ad9157f5bf4e66454e69f343febc730450f7cd2eaaf58efc736f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08435",
+   "short": "Lei 8435/2022",
+   "title": "Lei nº 8.435, de 21 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11171",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11171/lei_8435-2022.pdf",
+     "sha256": "d8aea587a1aa9822bb90cb2a5735ebd7263f8f402603c0666d50c76346b3edda"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08434",
+   "short": "Lei 8434/2022",
+   "title": "Lei nº 8.434, de 14 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11170",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 11,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11170/lei_8434-2022.pdf",
+     "sha256": "b4e752c7ec76e4e6e8e1b631c9b7b12244db26235da66ee14ce894c3cf227c84"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08433",
+   "short": "Lei 8433/2022",
+   "title": "Lei nº 8.433, de 13 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11169",
+   "versions": [
+    {
+     "from": "2022-10-13",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11169/lei_8433-2022.pdf",
+     "sha256": "a1386c389b1c25bf4e193f0eacc760b2c10c9b8ac9e2d7f750306c41c5099be1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08432",
+   "short": "Lei 8432/2022",
+   "title": "Lei nº 8.432, de 11 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11168",
+   "versions": [
+    {
+     "from": "2022-10-11",
+     "units": 3,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11168/lei_8432-2022.pdf",
+     "sha256": "574bb7a52da97674655587becb640a0d3baad236a3fa4a54866471942e2ad1ed"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08431",
+   "short": "Lei 8431/2022",
+   "title": "Lei nº 8.431, de 10 de outubro de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11167",
+   "versions": [
+    {
+     "from": "2022-10-10",
+     "units": 11,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11167/lei_8431-2022.pdf",
+     "sha256": "60e6d4cf923868aee6e6ba03e02868a07c47670806d7667d7189389e96770754"
+    }
+   ]
   }
  ]
 }
