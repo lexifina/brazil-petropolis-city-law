@@ -1,0 +1,1554 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "27 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2022-08376": {
+   "label": "Lei nº 8.376, de 12 de julho de 2022",
+   "title": "DENOMINA SERVIDÃO ARGEMIRO CIRIACO O LOGRADOURO PÚBLICO NO BAIRRO MADAME MACHADO, ITAIPAVA - PETRÓPOLIS/RJ.",
+   "kind": "law",
+   "enacted": "2022-07-12",
+   "published": "2022-07-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11107",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08375": {
+   "label": "Lei nº 8.375, de 12 de julho de 2022",
+   "title": "DENOMINA SERVIDÃO DALVA REGINA MORADA DA SILVA, O LOGRADOURO PÚBLICO NO BAIRRO FLORESTA.",
+   "kind": "law",
+   "enacted": "2022-07-12",
+   "published": "2022-07-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11106",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08374": {
+   "label": "Lei nº 8.374, de 7 de julho de 2022",
+   "title": "ALTERA A LEI MUNICIPAL Nº 8.217 DE 23 DE NOVEMBRO DE 2021 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-07-07",
+   "published": "2022-07-07",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11102",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08373": {
+   "label": "Lei nº 8.373, de 6 de julho de 2022",
+   "title": "DISPÕE SOBRE O \"DIA MUNICIPAL DO ATLETA PARALÍMPICO\" NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-07-06",
+   "published": "2022-07-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11101",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08372": {
+   "label": "Lei nº 8.372, de 6 de julho de 2022",
+   "title": "INSTITUI NO MUNICÍPIO DE PETRÓPOLIS, A CAMPANHA PERMANENTE DO \"SEMÁFORO DO TOQUE\" COM O OBJETIVO DE CONSCIENTIZAÇÃO, PREVENÇÃO, ORIENTAÇÃO E COMBATE AO ABUSO E EXPLORAÇÃO SEXUAL DE CRIANÇA E ADOLESCENTE.",
+   "kind": "law",
+   "enacted": "2022-07-06",
+   "published": "2022-07-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11100",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08370": {
+   "label": "Lei nº 8.370, de 6 de julho de 2022",
+   "title": "INTRODUZ ALTERAÇÕES NA LEI NÚMERO 6483, DE 15 DE NOVEMBRO DE 2007, QUE AUTORIZOU A CRIAÇÃO DO SERVIÇO SOCIAL AUTÔNOMO HOSPITAL ALCIDES CARNEIRO, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-07-06",
+   "published": "2022-07-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11098",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08369": {
+   "label": "Lei nº 8.369, de 6 de julho de 2022",
+   "title": "\"INSTITUI O SELO SOLIDÁRIO PETRÓPOLIS NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS\" PARA APRECIAÇÃO DE VOSSA EXCELÊNCIA E DE SEUS ILUSTRES PARES.",
+   "kind": "law",
+   "enacted": "2022-07-06",
+   "published": "2022-07-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11097",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08368": {
+   "label": "Lei nº 8.368, de 4 de julho de 2022",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS A \"SEMANA DO BEBÊ E DA PRIMEIRA INFÂNCIA\" E DÁ OUTRAS PROVIDENCIAS.",
+   "kind": "law",
+   "enacted": "2022-07-04",
+   "published": "2022-07-04",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11096",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08367": {
+   "label": "Lei nº 8.367, de 27 de junho de 2022",
+   "title": "ALTERA O ART. 1º DA LEI MUNICIPAL 6.874 DE 23 DE AGOSTO DE 2011.",
+   "kind": "law",
+   "enacted": "2022-06-27",
+   "published": "2022-06-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11095",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08358": {
+   "label": "Lei nº 8.358, de 27 de maio de 2022",
+   "title": "DENOMINA A \"SERVIDÃO BRAZ DE SOUZA LIMA\" O LOGRADOURO PÚBLICO, LOCALIZADA NA TRANSVERSAL DA RUA BARTOLOMEU DE GUSMÃO Nº 908, NO BAIRRO CENTRO, MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-05-27",
+   "published": "2022-05-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11083",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08357": {
+   "label": "Lei nº 8.357, de 27 de maio de 2022",
+   "title": "DISPÕE SOBRE A PERDA E PROIBIÇÃO DE OBTER A GUARDA, INCLUSIVE POR ADOÇÃO, POR PESSOAS QUE COMETEREM MAUS-TRATOS OU ABANDONO A ANIMAIS.",
+   "kind": "law",
+   "enacted": "2022-05-27",
+   "published": "2022-05-27",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11082",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08356": {
+   "label": "Lei nº 8.356, de 26 de maio de 2022",
+   "title": "INSTITUI A MEIA ENTRADA PARA OS SERVIDORES PÚBLICOS MUNICIPAIS CONCURSADOS DA ADMINISTRAÇÃO PÚBLICA DIRETA, INDIRETA E FUNDACIONAL DO MUNICÍPIO DE PETRÓPOLIS EM ESTABELECIMENTOS QUE PROMOVAM LAZER E ENTRETENIMENTO E ESTIMULEM A DIFUSÃO CULTURAL.",
+   "kind": "law",
+   "enacted": "2022-05-26",
+   "published": "2022-06-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11081",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08355": {
+   "label": "Lei nº 8.355, de 26 de maio de 2022",
+   "title": "INSTITUI O DIA MUNICIPAL DO LÍDER COMUNITÁRIO E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-05-26",
+   "published": "2022-05-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11080",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08354": {
+   "label": "Lei nº 8.354, de 26 de maio de 2022",
+   "title": "DENOMINA \"SERVIDÃO HONORATO ANTONIO VANZAN\", O LOGRADOURO PÚBLICO LOCALIZADO NA RUA NELSON FERREIRA SOARES, NOVA CASCATINHA.",
+   "kind": "law",
+   "enacted": "2022-05-26",
+   "published": "2022-05-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11079",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08353": {
+   "label": "Lei nº 8.353, de 25 de maio de 2022",
+   "title": "INSTITUI A CAMPANHA \"PATERNIDADE CONSCIENTE E RESPONSÁVEL\" NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-05-25",
+   "published": "2022-05-25",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11078",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08351": {
+   "label": "Lei nº 8.351, de 20 de maio de 2022",
+   "title": "CRIA A OBRIGAÇÃO DA ADMINISTRAÇÃO PÚBLICA DIRETA E INDIRETA DO PODER EXECUTIVO MUNICIPAL A DISPONIBILIZAR TODOS OS GASTOS RELACIONADOS AOS DECRETOS DE CALAMIDADE PÚBLICA RELACIONADOS A CHUVA DE 15 DE FEVEREIRO DE 2022 EM ESPECIAL O DECRETO N 033 DE 15 DE FEVEREIRO DE 2022.",
+   "kind": "law",
+   "enacted": "2022-05-20",
+   "published": "2022-05-26",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11076",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08349": {
+   "label": "Lei nº 8.349, de 19 de maio de 2022",
+   "title": "DISPÕE SOBRE A IDENTIFICAÇÃO EM BRAILE NAS PORTAS OU ENTRADAS E SAÍDAS NOS BANHEIROS NOS GABINETES, NOS BALCÕES DE ATENDIMENTOS, NAS SALAS DAS REPARTIÇÕES PÚBLICAS E DAS UNIDADES DE SAÚDE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-05-19",
+   "published": "2022-05-19",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11061",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08348": {
+   "label": "Lei nº 8.348, de 17 de maio de 2022",
+   "title": "DISPÕE SOBRE A GRATUIDADE DE ESTACIONAMENTO PARA FUNCIONÁRIOS E PACIENTES NA UNIDADE DE PRONTO ATENDIMENTO - UPA DE ITAIPAVA.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11060",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08347": {
+   "label": "Lei nº 8.347, de 17 de maio de 2022",
+   "title": "DENOMINA \"SERVIDÃO JOSÉ LUIZ ALVES\" O LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO ESTRADA DA SAUDADE.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11059",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08345": {
+   "label": "Lei nº 8.345, de 17 de maio de 2022",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DAS UNIDADES ESCOLARES PÚBLICAS E PRIVADAS A DISPONIBILIZAR ASSENTOS EM LOCAIS DETERMINADOS AOS ALUNOS COM TRANSTORNO DE DÉFICT DE ATENÇÃO COM HIPERATIVIDADE - TDAH, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11057",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08344": {
+   "label": "Lei nº 8.344, de 17 de maio de 2022",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DA PUBLICIDADE DO NOME DOS PROFISSIONAIS DE SAÚDE PLANTONISTAS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11056",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08343": {
+   "label": "Lei nº 8.343, de 17 de maio de 2022",
+   "title": "PROÍBE A REALIZAÇÃO DE TATUAGENS E COLOCAÇÃO DE PIERCINGS EM ANIMAIS NO MUNICÍPIO DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11055",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08342": {
+   "label": "Lei nº 8.342, de 17 de maio de 2022",
+   "title": "TORNA OBRIGATÓRIA A AFIXAÇÃO DE CARTAZ INFORMATIVO, EM CLÍNICAS E CONSULTÓRIOS VETERINÁRIOS, ASSIM COMO EM ESTABELECIMENTOS QUE COMERCIALIZEM PRODUTOS OU PRESTEM SERVIÇOS DE PET SHOP, QUE PROÍBEM CONDUTAS DE MAUS-TRATOS A ANIMAIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-21",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11054",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08340": {
+   "label": "Lei nº 8.340, de 17 de maio de 2022",
+   "title": "DISPÕE SOBRE A CRIAÇÃO DE LOCAIS ESPECÍFICOS RESERVADOS EXCLUSIVAMENTE PARA PORTADORES DE DEFICIÊNCIA EM TODO EVENTO PÚBLICO GRATUITO OU ONEROSO, NO PARQUE MUNICIPAL DE EXPOSIÇÃO DE ITAIPAVA E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-20",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11052",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08339": {
+   "label": "Lei nº 8.339, de 17 de maio de 2022",
+   "title": "DENOMINA \"RUA MARCOS DA SILVA MOURA\" O LOGRADOURO PÚBLICO, LOCALIZADA À ESTRADA MATA CAVALO, PRÓXIMO AO PONTO FINAL DO SANTA LUZIA CONHECIDO COMO PORTEIRA.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-20",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11051",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08337": {
+   "label": "Lei nº 8.337, de 17 de maio de 2022",
+   "title": "INSTITUI A POLÍTICA MUNICIPAL DE FOMENTO AO TURISMO RURAL NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-20",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11049",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2022-08336": {
+   "label": "Lei nº 8.336, de 17 de maio de 2022",
+   "title": "DISPÕE SOBRE A CONCESSÃO DE REMISSÃO TOTAL DOS CRÉDITOS TRIBUTÁRIOS RELATIVOS AO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN E À TAXA DE RENOVAÇÃO DE LICENÇA AOS PRESTADORES DE SERVIÇO DE TRANSPORTE ESCOLAR, NO PERÍODO DETERMINADO.",
+   "kind": "law",
+   "enacted": "2022-05-17",
+   "published": "2022-05-20",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11048",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2022-08376",
+   "short": "Lei 8376/2022",
+   "title": "Lei nº 8.376, de 12 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11107",
+   "first_law": "lei-2022-08376",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11107/lei_8376-2022.pdf",
+     "sha256": "19b721eb6fd97ff7a881442b799bd39f9987631079b721117c80f6ed8381001a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.376, DE 12/07/2022 DENOMINA SERVIDÃO ARGEMIRO CIRIACO O LOGRADOURO PÚBLICO NO BAIRRO MADAME MACHADO, ITAIPAVA - PETRÓPOLIS/RJ.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO , PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.376, DE 12/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"Servidão Argemiro Ciriaco\". O acesso do logradouro público fica localizado na Rua 28 de Abril, n. 115-B, Madame Machado, Itaipava - Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 12 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.376, de 12 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08375",
+   "short": "Lei 8375/2022",
+   "title": "Lei nº 8.375, de 12 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11106",
+   "first_law": "lei-2022-08375",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11106/lei_8375-2022.pdf",
+     "sha256": "de74782c8cc62873821e68de934c5eadfc0e30d6f2ad36f8514e523ce845ae18",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.375, DE 12/07/2022 DENOMINA SERVIDÃO DALVA REGINA MORADA DA SILVA, O LOGRADOURO PÚBLICO NO BAIRRO FLORESTA.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 5º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO , PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.375, DE 12/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"Servidão Dalva Regina Morada da Silva\", o logradouro público com aproximadamente 200 (duzentos) metros de extensão, localizado entre a Rua Doutor Henrique Paixão, 1346, com a Servidão José de Azevedo Coutinho Filho, que se encontra na Rua Floresta, 1153 - bairro Floresta.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 12 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.375, de 12 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08374",
+   "short": "Lei 8374/2022",
+   "title": "Lei nº 8.374, de 7 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11102",
+   "first_law": "lei-2022-08374",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-07",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11102/lei_8374-2022.pdf",
+     "sha256": "6c80cab3df57d820ae2e335ee1bed501da7bd82c317eeaf3acf2a2eba0b0543a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.374, DE 07/07/2022 ALTERA A LEI MUNICIPAL Nº 8.217 DE 23 DE NOVEMBRO DE 2021 E DÁ OUTRAS PROVIDÊNCIAS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Suprime, do art. 1º da Lei Municipal nº 8.217 de 2021, o § 2º em sua totalidade, passando a vigorar com a seguinte redação:\n\"Art. 1º A empresa concessionária, subconcessionária ou permissionária responsável pelo abastecimento de água e tratamento de esgoto no Município de Petrópolis será obrigada a instalar, caso haja solicitação do consumidor, equipamento eliminador de ar na tubulação de abastecimento de água que antecede o hidrômetro instalado no imóvel.\n§ 1º As despesas de aquisição do equipamento eliminador de ar e sua instalação serão de responsabilidade da empresa responsável pelo abastecimento de água e tratamento de esgoto no Município de Petrópolis.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Modifica o art. 6º, passando a vigorar com a seguinte redação:\n\"Art. 6º O Poder Executivo poderá regulamentar a presente Lei no que couber.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica acrescentado o art. 7º com a seguinte redação:\n\"Art. 7º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo poderá regulamentar a presente lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 07 de julho de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.374, de 7 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08373",
+   "short": "Lei 8373/2022",
+   "title": "Lei nº 8.373, de 6 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11101",
+   "first_law": "lei-2022-08373",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11101/lei_8373-2022.pdf",
+     "sha256": "d27857c6488e9472e226defbed98554265aec3333486bd9dff64b27ace11cc0c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.373, DE 06/07/2022 DISPÕE SOBRE O \"DIA MUNICIPAL DO ATLETA PARALÍMPICO\" NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nPUBLICADA: 06/07/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.373, DE 06/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no âmbito do município de Petrópolis o \"Dia Municipal do Atleta Paraolímpico\" a ser comemorado anualmente no dia 22 de setembro, tendo em vista ser o Dia Nacional do Atleta Paraolímpico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos do \"Dia Municipal do Atleta Paraolímpico\":\nI - criar medidas de valorização e incentivo aos atletas paraolímpicos do município de Petrópolis.\nII - incentivar as pessoas com deficiência a prática para desportiva;\nIII - promover a realização de eventos esportivos específicos para as pessoas com deficiência.\nIV - fomentar o para desporto no âmbito do município de Petrópolis;\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGabinete do Prefeito de Petrópolis, em 06 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.373, de 6 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08372",
+   "short": "Lei 8372/2022",
+   "title": "Lei nº 8.372, de 6 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11100",
+   "first_law": "lei-2022-08372",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11100/lei_8372-2022.pdf",
+     "sha256": "7ceb3888667699fa8a88b3aa57fa3aefcca0f03fc51f8047b4502dbb4021f2a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.372, DE 06/07/2022 INSTITUI NO MUNICÍPIO DE PETRÓPOLIS, A CAMPANHA PERMANENTE DO \"SEMÁFORO DO TOQUE\" COM O OBJETIVO DE CONSCIENTIZAÇÃO, PREVENÇÃO, ORIENTAÇÃO E COMBATE AO ABUSO E EXPLORAÇÃO SEXUAL DE CRIANÇA E ADOLESCENTE.\nPUBLICADA: 06/07/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.372, DE 06/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído no Município de Petrópolis, a campanha permanente sobre o \"semáforo do toque\", dedicado ao enfrentamento à violência sexual contra crianças e adolescentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Será realizado a campanha permanente sobre o \"semáforo do toque\", a critério dos gestores, atividades de conscientização, prevenção, orientação e combate ao abuso e exploração sexual de criança e adolescente, bem como acompanhamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A campanha permanente do \"semáforo do toque\" por meio do cartaz com a figura de um menino e menina deverá conter as seguintes características, conforme Anexo I desta Lei.\nParágrafo único. O cartaz e placa deverá ainda conter a seguinte informação:\n\"PEDOFILIA É CRIME! DENUNCIE! NÃO SE CALE! - contra criança e adolescente disque 100.\n- contra abuso sexual disque 190.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica o Executivo autorizado a fomentar a campanha permanente do \"semáforo do toque\" sobre a sua importância e enfrentamento à violência sexual contra crianças e adolescentes por convênio ou parcerias com a iniciativa privada, empresas, associações ou órgãos privados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas com a execução desta Lei correrão por conta de convênio ou parcerias com a iniciativa privada, empresas, associações ou órgãos privados e estatais, com o objetivo de estimular a campanha.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 06 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.372, de 6 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08370",
+   "short": "Lei 8370/2022",
+   "title": "Lei nº 8.370, de 6 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11098",
+   "first_law": "lei-2022-08370",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11098/lei_8370-2022.pdf",
+     "sha256": "e1ea96db8fe823ce173e8f25927b80c9507b4dba4877ddcf9de2e074630e959d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.370, DE 06/07/2022 INTRODUZ ALTERAÇÕES NA LEI Nº 6.483, DE 15 DE NOVEMBRO DE 2007, QUE AUTORIZOU A CRIAÇÃO DO SERVIÇO SOCIAL AUTÔNOMO HOSPITAL ALCIDES CARNEIRO, E DÁ OUTRAS PROVIDÊNCIAS.\nPUBLICADA: 06/07/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.370, DE 06/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 2º da Lei nº 6.483 de 15 de novembro de 2007, passa a vigorar com a seguinte redação:\n\"Art. 2º Ao SEHAC compete a gestão das seguintes Unidades de Saúde, que lhes são transferidas, ficando desvinculadas da Secretaria Municipal de Saúde:\nI - Hospital Alcides Carneiro, incluído o ambulatório;\nII - Unidade de Pronto Atendimento 24h do Centro;\nIII - Unidade de Pronto Atendimento 24h de Cascatinha;\nIV - Serviço de Urgência e Emergência 24h de Itaipava;\nV - Serviço de Pronto Atendimento da Posse;\nVI - Serviço de Pronto Atendimento de Pedro do Rio.\nParágrafo único. Fica o chefe do Poder Executivo autorizado a, por Decreto, submeter Unidades de Saúde à gestão e operacionalização do SEHAC, ou mesmo demovê-las, atendidos os princípios técnicos e de interesse público.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O art. 23 da Lei nº 6.483 de 15 de novembro de 2007, passa a vigorar com a seguinte redação:\n\"Art. 23. O contrato de gestão assegurará, ainda, à diretoria do Serviço Social Autônomo Hospital Alcides Carneiro a autonomia para a contratação e a administração de pessoal, sob regime da Consolidação das Leis do Trabalho, de forma a assegurar a preservação dos mais elevados e rigorosos padrões de atendimento à população, nos seguintes termos:\nI - O processo de seleção para admissão de pessoal efetivo do Serviço Social Autônomo Hospital Alcides Carneiro deverá ser precedido de edital publicado no Diário Oﬁcial do Município e constará de etapas eliminatória, classiﬁcatória e de treinamento, observadas as peculiaridades de cada categoria funcional, nos termos do Regulamento de Seleção de pessoal do SEHAC;\nII - O contrato de gestão conferirá à diretoria poderes para ﬁxar níveis de remuneração para o pessoal da entidade, em padrões compatíveis com os respectivos mercados de trabalho, segundo o grau de qualificação exigido e os setores de especialização profissional;\nIII - Poderão ser cedidos ao SEHAC, para atuação na sede e nas Unidades por ele operadas, servidores e empregados da Administração Pública, nos termos previstos na legislação especíﬁca e no Contrato de Gestão;\nIV - A cessão prevista no inciso anterior dar-se-á pelo prazo de doze meses, prorrogável sempre pelo mesmo prazo, podendo ser cancelada a qualquer tempo, por iniciativa da direção do SEHAC, do órgão de origem ou do próprio servidor/empregado, ocasião em que o mesmo será encaminhado ao órgão de pessoal da Administração Pública para procedimentos de relotação;\nV - Os servidores/empregados cedidos ﬁcarão sujeitos ao mesmo regime de carga horária aplicável aos empregados do SEHAC com idênticas atribuições e qualificação profissional;\nVI - Os servidores/empregados cedidos ao SEHAC farão jus a um adicional remuneratório de valor variável, correspondente à eventual diferença existente entre sua remuneração e a remuneração paga aos empregados do SEHAC, observada a identidade de atribuições, qualiﬁcação proﬁssional e jornada de trabalho, respeitando-se, portanto, a isonomia salarial;\nVII - O adicional remuneratório será pago, pelo órgão cedente, durante o período de exercício do servidor/empregado no SEHAC, sendo vedada, a qualquer título, a sua incorporação à remuneração e o seu cômputo para ﬁns de concessão de proventos de aposentadoria, disponibilidade ou benefícios previdenciários.\nVIII - O pagamento do adicional remuneratório se dará sem prejuízo do vencimento-base e das demais parcelas previstas em Lei percebidas em caráter permanente, sendo vedado o seu cômputo para ﬁns de cálculo das vantagens acessórias.\nIX - Os valores de remuneração de pessoal cedido da Administração Pública para o SEHAC serão objeto de desconto nos valores celebrados no Contrato de Gestão, haja vista que a Administração Pública manterá os respectivos servidores/empregados cedidos em sua folha salarial;\nX - O Conselho Deliberativo poderá dispor, submetendo seu ato à homologação do Poder Executivo, sobre a organização de plano de seguridade social e/ou de assistência médica e odontológica para os empregados do SEHAC.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da presente Lei correrão por conta das dotações consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir créditos adicionais suplementares, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Revogam-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 06 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.370, de 6 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08369",
+   "short": "Lei 8369/2022",
+   "title": "Lei nº 8.369, de 6 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11097",
+   "first_law": "lei-2022-08369",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11097/lei_8369-2022.pdf",
+     "sha256": "3dcf0df5f33f38caa8097b3fa3a3217ea3f3fe716cc2d83aced86bc82db9cf67",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.369, DE 06/07/2022 INSTITUI O SELO SOLIDÁRIO PETRÓPOLIS NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS PUBLICADA: 06/07/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.369, DE 06/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Selo Solidário Petrópolis, com o objetivo de homenagear o trabalho voluntário, honrar e demonstrar gratidão, pelos esforços empreendidos em prol do Município de Petrópolis.\nParágrafo único. O Selo Solidário Petrópolis será entregue a todos que contribuam, voluntariamente, com assistência humanitária, técnica e/ou doações, em benefício da população petropolitana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Selo Solidário Petrópolis consiste em um certificado e um broche, que serão entregues aos homenageados, mais especificamente:\nI - 1 (um) Selo Cidadão Solidário;\nII - 1 (um) Selo Empresa Solidária;\nIII - 1 (um) Selo Instituição Solidária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além do Selo Solidário Petrópolis, será concedido, gratuitamente, a cada homenageado, um Ativo Não Fungível (NFT), como mais uma forma de retribuição e reconhecimento dos esforços envidados em prol da coletividade local.\nParágrafo único. Ativo não fungível (NFT) é um tipo especial de \"Token\" criptográfico que representa algo único que não pode ser trocado ou substituído em virtude de suas características únicas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica renumerado o parágrafo único, passando a constar como § 1º, e incluído o § 2º ao artigo 3º da Lei Municipal nº 8.301 de 31 de março de 2022, que passa a ter a seguinte redação:\n\"Art. 3º Os Ativos Não Fungíveis deverão ser leiloados e os recursos econômicos derivados da alienação deverão integrar fundo especíﬁco, em conta especíﬁca, em moeda corrente, com o objetivo exclusivo de reconstruir o Primeiro Distrito do Município de Petrópolis e adquirir bens imóveis.\n§ 1º Os recursos do fundo especíﬁco deverão obrigatoriamente serem alocados em projetos com objetivos compatíveis com o art. 1º da presente Lei.\n§ 2º Município de Petrópolis entregará, gratuitamente, um Ativo Não Fungível (NFT) a cada homenageado pelo Selo Solidário Petrópolis, como reconhecimento dos esforços envidados em prol da coletividade local.\"\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas da execução desta Lei correrão por conta de dotações orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 06 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.369, de 6 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08368",
+   "short": "Lei 8368/2022",
+   "title": "Lei nº 8.368, de 4 de julho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11096",
+   "first_law": "lei-2022-08368",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-07-04",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11096/lei_8368-2022.pdf",
+     "sha256": "bb48d9c809d74c4deee2d35d922d0133c6172efaae6c25cd273592ecf9f26a64",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.368, DE 04/07/2022 INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS A \"SEMANA DO BEBÊ E DA PRIMEIRA INFÂNCIA\" E DÁ OUTRAS PROVIDÊNCIAS.\nPUBLICADA: 04/07/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.368, DE 04/07/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a \"Semana do Bebê e da Primeira Infância\" no Município de Petrópolis, a ser realizada anualmente na primeira semana do mês de agosto, quando também é comemorado O Dia Mundial da Amamentação.\nParágrafo único. É considerado primeira infância o período que vai desde a concepção do bebê até os 6 (seis) anos completos ou 72 (setenta e dois) meses de vida da criança.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A \"Semana do Bebê e da Primeira Infância\", fica incluída no Calendário Oficial de Eventos do Município de Petrópolis.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A \"Semana do Bebê e da Primeira Infância\" em Petrópolis, é uma estratégia de mobilização social incentivada pelo Fundo das Nações Unidas para a Infância - UNICEF, tendo como objetivo tornar o direito a sobrevivência e ao desenvolvimento integral das crianças na primeira infância.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A \"Semana do Bebê e da Primeira Infância\" terá por objetivo:\nI - contribuir com o desenvolvimento de ações para a diminuição do índice de mortalidade infantil;\nII - orientar e conscientizar as famílias sobre as práticas necessárias para melhoria da qualidade de vida das crianças;\nIII - diminuir as situações de exclusão social decorrente da gravidez precoce e a humanização da atenção;\nIV - informar, sensibilizar e envolver a sociedade em torno da situação da primeira infância e de um ambiente facilitador à vida;\nV - conferir visibilidade social às ações pertinentes à questão, em desenvolvimento no Município de Petrópolis;\nVI - promover espaços para ações pertinentes à questão da primeira infância e seus rebatimentos no contexto social das crianças.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A \"Semana do Bebê e da Primeira Infância\" compreenderá no desenvolvimento de atividades como palestras, debates, seminários, ações educativas, dentre outros eventos, podendo ser promovido pelo setor público, juntamente com as entidades da sociedade civil, visando orientar as famílias nos cuidados necessários com a saúde e desenvolvimento mental, emocional e socialização da criança.\nParágrafo único. Para a realização das atividades previstas no caput deste artigo, o Poder Executivo poderá estabelecer convênios e parcerias com instituições públicas e privadas que atuem ou tenham comprometimento com a primeira infância.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os órgãos municipais que atuam no comprometimento com a questão da primeira infância, especialmente as Secretarias Municipais de Saúde, Educação e Assistência Social, poderão desenvolver ações sistemáticas e contínuas ao longo do ano, com vistas à orientação, prevenção e acompanhamento da gravidez, e assuntos relacionados à primeira infância.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da execução desta Lei correrão por conta de dotação orçamentárias próprias, suplementadas se preciso.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Poder Executivo Municipal regulamentará esta Lei no que for necessário para sua aplicação.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 04 de julho de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.368, de 4 de julho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08367",
+   "short": "Lei 8367/2022",
+   "title": "Lei nº 8.367, de 27 de junho de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11095",
+   "first_law": "lei-2022-08367",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-06-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11095/lei_8367-2022.pdf",
+     "sha256": "8afef4878288f01b438603a8b783471b8c0f7ad590968e51be4045903acb1537",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.367, DE 27/06/2022 ALTERA O ART. 1º DA LEI MUNICIPAL 6.874 DE 23 DE AGOSTO DE 2011.\nPublicada: 27/06/22 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.367, DE 27/06/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterado o art. 1º da Lei Municipal 6.874, de 23 de agosto de 2011, passando a vigorar com a seguinte redação:\n\"Art. 1º Fica denominada \"Rua Maria Mulata\", o logradouro público que se inicia na Rua Gal. Walter Cremer Ribeiro, com aproximadamente 980 metros de extensão, na localidade de Araras, 2º Distrito deste Município.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei 6.874, de 23 de agosto de 2011.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.367, de 27 de junho de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08358",
+   "short": "Lei 8358/2022",
+   "title": "Lei nº 8.358, de 27 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11083",
+   "first_law": "lei-2022-08358",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11083/lei_8358-2022.pdf",
+     "sha256": "1fadddfd6070657d0dcfc87b967ebdef5ec866c53c97084d0260bd428d8d5978",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.358, DE 27/05/2022 DENOMINA A \"SERVIDÃO BRAZ DE SOUZA LIMA\" O LOGRADOURO PÚBLICO, LOCALIZADA NA TRANSVERSAL DA RUA BARTOLOMEU DE GUSMÃO Nº 908, NO BAIRRO CENTRO, MUNICÍPIO DE PETRÓPOLIS.\nPublicada: 27/05/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.358, DE 27/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada a \"Servidão Braz de Souza\", o logradouro público com aproximadamente 120 (cento e vinte) metros de extensão e 4 (quatro) metros e meio de largura, sendo esta uma servidão transversal a Rua Bartolomeu de Gusmão, nº 908, no bairro Centro, Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 27 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.358, de 27 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08357",
+   "short": "Lei 8357/2022",
+   "title": "Lei nº 8.357, de 27 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11082",
+   "first_law": "lei-2022-08357",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-27",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11082/lei_8357-2022.pdf",
+     "sha256": "0cbc8cb921202d7f466389db5e5a51214c7ee72e56f838c62be02d82915f6b9a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.357, DE 27/05/2022 DISPÕE SOBRE A PERDA E PROIBIÇÃO DE OBTER A GUARDA, INCLUSIVE POR ADOÇÃO, POR PESSOAS QUE COMETEREM MAUS-TRATOS OU ABANDONO A ANIMAIS.\nPublicada:27/05/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.357, DE 27/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Perderá a guarda, bem como ficará proibida de obtê-la, inclusive mediante adoção, toda pessoa que comprovadamente houver praticado conduta criminosa de maus-tratos ou abandono contra animais.\nParágrafo único. A pessoa referida no artigo anterior só poderá ter a guarda de outro animal após o decurso de dez anos contados da prática comprovada de maus-tratos ou abandono, reiniciando-se a contagem do referido prazo em caso de reincidência desta conduta.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os fins do artigo anterior deverá o órgão competente instituir um cadastro municipal com a relação de nomes de pessoas que praticarem maus-tratos ou abandono de animais, bem como o respectivo número de registro junto à Receita Federal.\nParágrafo único. A pessoa que praticar maus-tratos ou abandono de animais terá seu nome retirado do referido cadastro após comprovar o efetivo decurso do prazo mencionado no parágrafo único do artigo anterior, bem como não haver reincidido na mencionada conduta.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficará autorizada a pessoa física ou jurídica, responsável por feiras de adoção a serem realizadas no Município, devidamente cadastrada junto ao órgão competente, a consultar o nome do interessado na adoção junto ao cadastro municipal referido no artigo anterior, nos termos do art. 4º, inciso III, alínea d, da Lei 13.709/2018.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei deverá ser regulamentada pelo Poder Executivo Municipal no prazo de 60 dias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 27 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.357, de 27 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08356",
+   "short": "Lei 8356/2022",
+   "title": "Lei nº 8.356, de 26 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11081",
+   "first_law": "lei-2022-08356",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11081/lei_8356-2022.pdf",
+     "sha256": "f5f4b14f2b3a4cb18c0f453ed94e4edb49013e2f54cb933e3046e8a004c5de88",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.356, DE 26/05/2022 INSTITUI A MEIA ENTRADA PARA OS SERVIDORES PÚBLICOS MUNICIPAIS DA ADMINISTRAÇÃO PÚBLICA DIRETA, INDIRETA E FUNDACIONAL DO MUNICÍPIO DE PETRÓPOLIS EM ESTABELECIMENTOS QUE PROMOVAM LAZER E ENTRETENIMENTO E ESTIMULEM A DIFUSÃO CULTURAL.\nPublicada em: 01/06/2022 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.356, DE 26/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica assegurado aos servidores municipais da administração pública direta, indireta e fundacional do Município de Petrópolis o pagamento de cinquenta por cento do valor cobrado para ingresso em estabelecimentos e/ou casas de diversão, além de praças desportivas, que promovam espetáculos de lazer, entretenimento e/ou eventos culturais.\n§ 1º O benefício instituído no caput é extensivo aos profissionais da rede privada de ensino do Município.\n§ 2º O benefício previsto no caput não será cumulativo com quaisquer outras promoções e convênios e, também, não se aplica ao valor dos serviços adicionais eventualmente oferecidos em camarotes, áreas e cadeiras especiais.\n§ 3º A meia entrada corresponderá, sempre, à metade do valor do ingresso cobrado, ainda que se trate de preço promocional ou com desconto sobre o valor normalmente cobrado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Consideram-se casas de diversão, para os efeitos desta Lei, os estabelecimentos que realizem ou exibam espetáculos musicais, circenses, teatrais, cinematográficos, de artes plásticas e artísticas em geral.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O atestado da condição de servidores municipais da administração pública direta, indireta e fundacional do Município de Petrópolis para gozo do benefício previsto nesta Lei dar-se-á por meio da apresentação de comprovante de vínculo funcional, além de um documento oficial de identidade válido.\nParágrafo único. Os profissionais elencados no §1º do art. 1º deverão cumprir o mesmo requisito do caput deste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A presente Lei revoga a Lei nº 7.185 de 05 de junho de 2014.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 26 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.356, de 26 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08355",
+   "short": "Lei 8355/2022",
+   "title": "Lei nº 8.355, de 26 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11080",
+   "first_law": "lei-2022-08355",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11080/lei_8355-2022.pdf",
+     "sha256": "5336b3d3b7d83d6f3a4759340f7ff44642269d21d527389477217e226a44e1ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.355, DE 26/05/2022 INSTITUI O DIA MUNICIPAL DO LÍDER COMUNITÁRIO E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada: 26/05/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.355, DE 26/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o \"Dia Municipal do Líder Comunitário\", a ser comemorado, anualmente, no dia 05 (cinco) do mês de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 26 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.355, de 26 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08354",
+   "short": "Lei 8354/2022",
+   "title": "Lei nº 8.354, de 26 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11079",
+   "first_law": "lei-2022-08354",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11079/lei_8354-2022.pdf",
+     "sha256": "edc56cf056b3834b3514cd6d861b87e07ac863443dca1b05f739b3e63a572555",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.354, DE 26/05/2022 DENOMINA \"SERVIDÃO HONORATO ANTONIO VANZAN\", O LOGRADOURO PÚBLICO LOCALIZADO NA RUA NELSON FERREIRA SOARES, NOVA CASCATINHA.\nPublicada: 26/05/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 26/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"SERVIDÃO HONORATO ANTONIO VANZAN\", o logradouro público localizado próximo ao nº 812 da Rua Nelson Ferreira Soares, no bairro Nova Cascatinha, com aproximadamente 20 metros de extensão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 26 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.354, de 26 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08353",
+   "short": "Lei 8353/2022",
+   "title": "Lei nº 8.353, de 25 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11078",
+   "first_law": "lei-2022-08353",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-25",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11078/lei_8353-2022.pdf",
+     "sha256": "d22907018f91957fb8a0379c963d07b7472d5abc14d09bca0b5ed8fd38a271a8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.353, DE 25/05/2022 INSTITUI A CAMPANHA \"PATERNIDADE CONSCIENTE E RESPONSÁVEL\" NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS Publicada:25/05/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.353, DE 25/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no município de Petrópolis, a campanha \"PATERNIDADE CONSCIENTE E RESPONSÁVEL\", a ser comemorada anualmente na segunda semana do mês de agosto, quando ocorre também no mesmo mês, o dia dos pais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A \"PATERNIDADE CONSCIENTE E RESPONSÁVEL\" passa a integrar o Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No mês da \"PATERNIDADE CONSCIENTE E RESPONSÁVEL\", poderão ser desenvolvidas ações, com os seguintes objetivos:\nI - alertar e promover debates sobre o tema;\nII - incentivar ações que visem orientar e promover a paternidade consciente e responsável, inclusive através de campanhas educativas nas escolas, para adolescentes e jovens.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Executivo Municipal regulamentará a presente Lei no que for necessário para sua aplicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 25 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.353, de 25 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08351",
+   "short": "Lei 8351/2022",
+   "title": "Lei nº 8.351, de 20 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11076",
+   "first_law": "lei-2022-08351",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-26",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11076/lei_8351-2022.pdf",
+     "sha256": "0f2f5833a25a86ea73b77611779a4fc843d2f8e381ea8e2396a6dfc157c04a43",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.351, DE 20/05/2022 CRIA A OBRIGAÇÃO DA ADMINISTRAÇÃO PÚBLICA DIRETA E INDIRETA DO PODER EXECUTIVO MUNICIPAL A DISPONIBILIZAR TODOS OS GASTOS RELACIONADOS AOS DECRETOS DE CALAMIDADE PÚBLICA RELACIONADOS A CHUVA DE 15 DE FEVEREIRO DE 2022 EM ESPECIAL O DECRETO N 033 DE 15 DE FEVEREIRO DE 2022.\nPublicada em:\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.351, DE 20/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica obrigada a administração pública, direta e indireta do poder executivo municipal a disponibilizar, em tempo real, todos os gastos relacionados aos decretos de calamidade pública relacionados a chuva de 15 de fevereiro de 2022, em especial o Decreto nº 033 de 15 de fevereiro de 2022.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Todas as contratações, adesões, ou aquisições, realizadas com fulcro decorrentes ao Estado de Calamidade serão imediatamente disponibilizadas em sítio oficial específico na rede mundial de computadores (internet), contendo, no que couber, além das informações previstas no § 3º do art. 8º da Lei nº 12.527 de 18 de novembro de 2011, o nome do contratado, cotações e/ou pesquisa de preço, o número de sua inscrição na Receita Federal do Brasil, o prazo contratual, o valor e o respectivo processo de contratação ou aquisição.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor a partir de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 20 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.351, de 20 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08349",
+   "short": "Lei 8349/2022",
+   "title": "Lei nº 8.349, de 19 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11061",
+   "first_law": "lei-2022-08349",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-19",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11061/lei_8349-2022.pdf",
+     "sha256": "cdefd21a86e24d4fd95a9533325fe6003c80fb6fdf52f2b9724e255632ba8832",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.349, DE 19/05/2022 DISPÕE SOBRE A IDENTIFICAÇÃO EM BRAILE NAS PORTAS OU ENTRADAS E SAÍDAS NOS BANHEIROS NOS GABINETES, NOS BALCÕES DE ATENDIMENTOS, NAS SALAS DAS REPARTIÇÕES PÚBLICAS E DAS UNIDADES DE SAÚDE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nPublicada: 19/05/2022 A CÂMARA MUNICIPAL DE PETRÓPOLIS DECRETOU E EU SANCIONO A SEGUINTE:\nLEI MUNICIPAL Nº 8.349, DE 19/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Dispõe sobre a identificação em Braile nas portas ou entradas e saídas, nos banheiros, nos gabinetes, nos balcões de atendimentos, nas salas das Repartições Públicas e das unidades de saúde no âmbito do Município de Petrópolis.\nParágrafo único. A identificação constante no caput deste artigo tem por finalidade de ser acessível para deficientes visuais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo poderá regulamentar esta Lei no que couber.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 19 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.349, de 19 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08348",
+   "short": "Lei 8348/2022",
+   "title": "Lei nº 8.348, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11060",
+   "first_law": "lei-2022-08348",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11060/lei_8348-2022.pdf",
+     "sha256": "ed222ba454b8565476c3dbe382872a8f0013f0f30ed0eb3c75e710a6c5ac290d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.348, DE 17/05/2022 DISPÕE SOBRE A GRATUIDADE DE ESTACIONAMENTO PARA FUNCIONÁRIOS E PACIENTES NA UNIDADE DE PRONTO ATENDIMENTO - UPA DE ITAIPAVA.\nPublicada em:\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.348, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei dispõe sobre a gratuidade de estacionamento para funcionários e pacientes na unidade de pronto atendimento - UPA de Itaipava.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Não poderão ser cobrados valores de estacionamento ou tarifa de permanência sobre os veículos de pacientes, funcionários ou de acompanhantes, direto dos serviços prestados pela unidade, ainda que por serviços terceirizados, quando o paciente estiver internado ou exposto a atendimento ou procedimento de longa duração.\nParágrafo único. A gratuidade do estacionamento para acompanhantes será observada somente quando o paciente ou usuário direto do serviço de saúde estiver sendo conduzido pelo mesmo em seu veículo ou, em caso de internação com acompanhamento, mediante a devida identificação fornecida pelo estacionamento para tanto.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A gratuidade de estacionamento não ficará limitada ao período de atendimento ao paciente ou acompanhamento por internação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.348, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08347",
+   "short": "Lei 8347/2022",
+   "title": "Lei nº 8.347, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11059",
+   "first_law": "lei-2022-08347",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11059/lei_8347-2022.pdf",
+     "sha256": "15a8e9c88e44fa3c7590532ad43b684c38c5a76c526fa87053d68c41a260e2be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.347, DE 17/05/2022 DENOMINA \"SERVIDÃO JOSÉ LUIZ ALVES\" O LOGRADOURO PÚBLICO LOCALIZADO NO BAIRRO ESTRADA DA SAUDADE.\nPublicada em 21/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.347, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado \"Servidão José Luiz Alves\", o logradouro público de 145 metros de extensão, localizado na Rua Silvino Rodrigues Santos, nº 453, no bairro Estrada da Saudade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor a partir da data de sua publicação, revogada as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.347, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08345",
+   "short": "Lei 8345/2022",
+   "title": "Lei nº 8.345, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11057",
+   "first_law": "lei-2022-08345",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11057/lei_8345-2022.pdf",
+     "sha256": "feb43e906ceb49e110fd1ab6b8d8c84e4c3ce4c93377cbbb0e61727c6d3fec0f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.345, DE 17/05/2022 DISPÕE SOBRE A OBRIGATORIEDADE DAS UNIDADES ESCOLARES PÚBLICAS E PRIVADAS A DISPONIBILIZAR ASSENTOS EM LOCAIS DETERMINADOS AOS ALUNOS COM TRANSTORNO DE DÉFICT DE ATENÇÃO COM HIPERATIVIDADE - TDAH, NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS.\nFAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.345, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As unidades escolares públicas e privadas, do Município de Petrópolis, devem disponibilizar em suas salas de aula assentos na primeira fila aos alunos com Transtornos de Déficit de Atenção com Hiperatividade - TDAH, assegurando seu posicionamento afastado de janelas, cartazes e outros elementos possíveis potenciais de distração.\nParágrafo único. O aluno diagnosticado com TDAH tem direito a realizar as atividades e provas durante o ano letivo em local diferenciado e com maior tempo para a sua realização.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para o atendimento ao disposto no art. 1º será necessária a apresentação, por parte dos pais ou responsáveis pelo aluno, de laudo médico comprovante de TDAH, emitido por médico especialista em neurologia ou psiquiatria.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As unidades escolares públicas e privadas, no âmbito do Município de Petrópolis, devem ministrar metodologias de ensino e recursos didáticos diferenciados que considerem as necessidades especiais dos alunos com TDAH, em consonância com o projeto pedagógico da escola e da Secretaria de Educação, além da consonância com o projeto pedagógico estabelecido em Lei Federal nº 9.394/1996 - Lei de Diretrizes e Bases da Educação Nacional - LDB.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Presente Lei entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará a Presente Lei no que couber.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.345, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08344",
+   "short": "Lei 8344/2022",
+   "title": "Lei nº 8.344, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11056",
+   "first_law": "lei-2022-08344",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11056/lei_8344-2022.pdf",
+     "sha256": "acf93ab200417ef7266b3f31b5c2a590b8285f0b40255632d09a8cad9f485b83",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.344, DE 17/05/2022 DISPÕE SOBRE A OBRIGATORIEDADE DA PUBLICIDADE DO NOME DOS PROFISSIONAIS DE SAÚDE PLANTONISTAS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada 21/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.344, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os hospitais, prontos-socorros, unidades básicas de saúde e as unidades de pronto atendimento da Rede Municipal de Saúde, no âmbito do Município de Petrópolis-RJ, ficam obrigados a afixar quadro informativo com a escala mensal de trabalho de todos os médicos e profissionais de saúde que laborem naquelas unidades.\n§ 1º Na escala, que também deverá ser publicada no sítio eletrônico da Secretaria Municipal de Saúde, constarão o nome e número de registro profissional dos médicos e profissionais de saúde, bem como as especialidades e horários de prestação dos serviços.\n§ 2º Todas as informações previstas neste artigo deverão, obrigatoriamente, estar disponíveis na internet com, pelo menos, 48 (quarenta e oito) horas de antecedência à escala dos profissionais da saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo regulamentará a presente Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.344, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08343",
+   "short": "Lei 8343/2022",
+   "title": "Lei nº 8.343, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11055",
+   "first_law": "lei-2022-08343",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11055/lei_8343-2022.pdf",
+     "sha256": "ccc74df864875d9c04808fb1e7dab68917cbe2532988926c1f3f3d32120a633f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.343, DE 17/05/2022 PROÍBE A REALIZAÇÃO DE TATUAGENS E COLOCAÇÃO DE PIERCINGS EM ANIMAIS NO MUNICÍPIO DE PETRÓPOLIS Publicada 21/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.343, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibida a realização de tatuagens e colocação de piercings em animais no Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento ao disposto nesta Lei sujeitará o infrator às seguintes sanções:\nI - Ao tutor do animal serão aplicadas:\na) multa de 35 (trinta e cinco) UFPE's;\nb) proibição de ocupar cargo público no Município de Petrópolis.\nII - No caso de pessoa jurídica será aplicada multa de 35 (trinta e cinco) UFPE's a 104 (cento e quatro) UFPE's.\n§ 1º O valor da multa será dobrado em caso de reincidência, entendendo-se como reincidência o cometimento da mesma infração em período inferior a dez anos.\n§ 2º Se a reincidência for praticada por pessoa jurídica, além da multa prevista no parágrafo anterior, o proprietário do estabelecimento perderá o alvará de funcionamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As sanções previstas nesta Lei não elidem a aplicação das penas previstas na Lei nº 9.605 de 12 de fevereiro de 1998.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os valores decorrentes da arrecadação de multas por violação à presente Lei serão destinados ao Fundo Municipal de Proteção e Defesa dos Animais de que trata a Lei nº 7.830 de 30 de agosto de 2019.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará esta Lei no prazo máximo de noventa dias.\nParágrafo único. Na regulamentação de que trata esta Lei constará obrigatoriamente:\nI - O órgão responsável pela fiscalização e aplicação das sanções;\nII - Formas e prazos para recurso administrativo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A fiscalização do cumprimento dos dispositivos constantes desta Lei e a aplicação da sanção ficarão a cargo dos órgãos competentes do Poder Executivo Municipal.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.343, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08342",
+   "short": "Lei 8342/2022",
+   "title": "Lei nº 8.342, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11054",
+   "first_law": "lei-2022-08342",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-21",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11054/lei_8342-2022.pdf",
+     "sha256": "4481329d86c8ca4cbd10d4b58935a2da50a28e10d853e21feadbcd65c4cdf1c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.342, DE 17/05/2022 TORNA OBRIGATÓRIA A AFIXAÇÃO DE CARTAZ INFORMATIVO, EM CLÍNICAS E CONSULTÓRIOS VETERINÁRIOS, ASSIM COMO EM ESTABELECIMENTOS QUE COMERCIALIZEM PRODUTOS OU PRESTEM SERVIÇOS DE PET SHOP, SOBRE LEIS DO MUNICÍPIO DE PETRÓPOLIS QUE PROÍBEM CONDUTAS DE MAUS-TRATOS A ANIMAIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em: 21/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.342, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º É obrigatória a afixação de cartaz em clínicas e consultórios veterinários, assim como em estabelecimentos que comercializem produtos ou prestem serviços de pet shop, contendo informação sobre toda legislação do município de Petrópolis em vigor que verse sobre maus-tratos a animais.\nParágrafo único. A legislação municipal referida no caput deverá ser especificada em decreto do Poder Executivo Municipal a ser atualizado sempre que necessário.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O cartaz referido no artigo anterior deverá informar também:\nI - que tais condutas são tidas como criminosas nos termos da Lei Federal 9.605/98 (art. 32, caput e parágrafos), sujeitando o infrator à pena de reclusão de 02 a 05 anos, além de multa e proibição da guarda, se o delito é praticado contra cães e gatos (art. 32, parágrafo 1º-A);\nII - que o infrator estará sujeito a multas administrativas nos termos da Lei Municipal 6.618/2008;\nIII - o telefone da Coordenadoria Municipal de Bem-Estar Animal - COBEA, do município de Petrópolis, para denúncia de tais práticas ou órgão que vier a sucedê-la.\nParágrafo único. Na regulamentação desta Lei, poderão ser disponibilizados para inclusão no cartaz de que trata o artigo primeiro outros canais de denúncias de maus-tratos a animais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O estabelecimento deverá afixar o cartaz em local e dimensões visíveis a serem estabelecidos em decreto do Poder Executivo Municipal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A fiscalização, o cumprimento e as penalidades pelo descumprimento ao disposto nesta Lei ficam a cargo do órgão competente do Poder Executivo Municipal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo Municipal terá o prazo de 30 (trinta) dias para regulamentar esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Os estabelecimentos referidos no artigo primeiro terão um prazo de 30 (trinta) dias, a ser contado a partir do prazo estipulado no artigo anterior, para se adaptarem ao disposto nesta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entrará em vigor a partir da data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.342, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08340",
+   "short": "Lei 8340/2022",
+   "title": "Lei nº 8.340, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11052",
+   "first_law": "lei-2022-08340",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11052/lei_8340-2022.pdf",
+     "sha256": "974b054fceec4df7aaab5d43cdf951b8ac720bbbbcc70db5c80a0ec890e98718",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.340, DE 17/05/2022 DISPÕE SOBRE A CRIAÇÃO DE LOCAIS ESPECÍFICOS RESERVADOS EXCLUSIVAMENTE PARA PESSOAS COM DEFICIÊNCIA EM TODO EVENTO PÚBLICO GRATUITO OU ONEROSO, NO PARQUE MUNICIPAL DE EXPOSIÇÃO DE ITAIPAVA E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada em: 20/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.340, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam obrigados, os promotores e/ou realizadores de eventos públicos, de natureza gratuita ou onerosa, no parque de exposição do município de Petrópolis a reservarem locais exclusivamente para a acomodação de pessoas com deficiência, que façam uso de necessidades especiais para sua locomoção.\n§ 1º Deverá ser permitida, também, a permanência, nesse local do acompanhante da pessoa com deficiência.\n§ 2º A totalidade dos lugares reservados as pessoas com deficiência, deverá corresponder á fração de 10% (dez por cento) do total dos lugares disponíveis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O espaço a ser reservado, além de propiciar boas condições de visibilidade, deverá ser de fácil acesso.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O não cumprimento da presente Lei acarretará ao infrator multa no valor de 01(um) salário mínimo, sendo aplicada em dobro em caso de reincidência, além de impedimento quanto a liberação do alvará da Prefeitura para realização de novos eventos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei deverá ser regulamentada pelo Executivo, no prazo de 60(sessenta) dias, a contar da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.340, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08339",
+   "short": "Lei 8339/2022",
+   "title": "Lei nº 8.339, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11051",
+   "first_law": "lei-2022-08339",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11051/lei_8339-2022.pdf",
+     "sha256": "f57ee8c0166a2868e4009122edeae47ecd5d775e4872cd19b51ffcdabd3812b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.339, DE 17/05/2022 DENOMINA \"RUA MARCOS DA SILVA MOURA\" O LOGRADOURO PÚBLICO, LOCALIZADA À ESTRADA MATA CAVALO, PRÓXIMO AO PONTO FINAL DO SANTA LUZIA CONHECIDO COMO PORTEIRA Publicada 20/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.339, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada \"Rua Marcos da Silva Moura\", localizada à Estrada Mata Cavalo, próximo ao ponto final do Santa Luzia, conhecido como porteira, Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.339, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08337",
+   "short": "Lei 8337/2022",
+   "title": "Lei nº 8.337, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11049",
+   "first_law": "lei-2022-08337",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11049/lei_8337-2022.pdf",
+     "sha256": "427cdba30014665c0d7a5d85ff915ab4f24033420eec35f4dfb2d5b2f3129a42",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.337, DE 17/05/2022 INSTITUI A POLÍTICA MUNICIPAL DE FOMENTO AO TURISMO RURAL NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\nPublicada 20/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO, PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.337, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no âmbito do Município de Petrópolis, a Política Municipal de Fomento ao Turismo Rural, nos termos desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Turismo Rural de que trata a presente Lei é definido como o conjunto de atividades turísticas desenvolvidas no meio rural, comprometido com a produção agropecuária, agregando valor a produtos e serviços, resgatando e promovendo o patrimônio cultural e natural da comunidade campesina.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Municipal de Fomento ao Turismo Rural tem como finalidade a promoção de ações que visem ao planejamento e ao fomento do turismo rural, além de desenvolver, impulsionar e difundir os produtos e as potencialidades do setor rural do Município, propiciando à sociedade o conhecimento e a valorização do segmento rural.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política de que trata esta Lei está alicerçada e comprometida com os seguintes princípios:\nI - ser um turismo ambientalmente sustentável;\nII - valorização da atividade rural, diversificando os negócios da propriedade rural;\nIII - preservação das raízes, hábitos e costumes, resgatando a cultura local;\nIV - atendimento familiar;\nV - estímulo às atividades produtivas com enfoque no sistema agro ecológico;\nVI - desenvolver-se preferencialmente de forma associativa;\nVII - caráter de complementaridade dos produtos e serviços do turismo rural em relação às demais atividades das Unidades de Produção dos Agricultores Familiares.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Política Municipal de Fomento ao Turismo Rural tem por objetivos:\nI - viabilizar instrumento de agregação de renda para garantir a permanência da população no meio rural;\nII - agregar valor aos produtos rurais e estimular o contato direto entre o produtor e o consumidor final;\nIII - promover o conhecimento e a compreensão sobre o meio ambiente focado em sua conservação e no seu uso racional, valorizando as belezas naturais do Município;\nIV - valorizar e resgatar o artesanato, a cultura da família do campo e os eventos típicos do meio rural, contribuindo para a revitalização do território rural e para o resgate da autoestima dos agricultores familiares;\nV - possibilitar a troca de valores culturais entre o campo e a cidade, proporcionando a interação entre os visitantes e a família rural.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As ações decorrentes da Política Municipal instituída por esta Lei serão executadas por meio dos seguintes instrumentos:\nI - Plano Municipal: conjunto de elementos de informação, diagnóstico, definição de objetivos, metas e instrumentos que visem a estimular o turismo rural;\nII - Sistema Municipal: conjunto de agentes institucionais que, no âmbito das respectivas competências, atribuições, prerrogativas e funções, integram de modo articulado e cooperativo a formulação, a execução e a atualização da Política Municipal;\nIII - Fundo Municipal de Turismo: instrumento institucional de caráter financeiro criado por Lei destinado a reunir e a canalizar recursos para a execução dos programas da Política Municipal de Turismo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.337, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08336",
+   "short": "Lei 8336/2022",
+   "title": "Lei nº 8.336, de 17 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11048",
+   "first_law": "lei-2022-08336",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2022-05-20",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11048/lei_8336-2022.pdf",
+     "sha256": "f5fdea0aff2cc06b96d0fc5ec4e41e263e95cbdd8ad34d0a6bc8894efb6d8e03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI MUNICIPAL Nº 8.336, DE 17/05/2022 DISPÕE SOBRE A CONCESSÃO DE REMISSÃO TOTAL DOS CRÉDITOS TRIBUTÁRIOS RELATIVOS AO IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN E À TAXA DE RENOVAÇÃO DE LICENÇA AOS PRESTADORES DE SERVIÇO DE TRANSPORTE ESCOLAR, NO PERÍODO DETERMINADO.\nPublicada 20/05/22 FAÇO SABER QUE A CÂMARA MUNICIPAL DE PETRÓPOLIS APROVOU E EU, HINGO HAMMES, PRESIDENTE, NOS TERMOS DOS PARÁGRAFOS 2º E 7º DO ARTIGO 64 DA LEI ORGÂNICA DO MUNICÍPIO , PROMULGO A SEGUINTE:\nLEI MUNICIPAL Nº 8.336, DE 17/05/2022\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida, aos prestadores de serviço de transporte escolar devidamente inscritos no cadastro do Município, a remissão total dos créditos tributários relativos ao Imposto Sobre Serviços de Qualquer Natureza - ISSQN devido em decorrência de fato gerador ocorrido entre 15 de março de 2020 e a data de publicação desta Lei.\n§ 1º A expressão \"créditos tributários\" abrange valores referentes ao tributo do ISSQN, bem como eventuais penalidades pecuniárias impostas no âmbito da obrigação tributária de que versa esta Lei.\n§ 2º A remissão do crédito tributário prevista no caput se dá em razão da grave situação econômica em que se encontram os sujeitos passivos da obrigação tributária, vez que foram financeiramente afetados pela suspensão das aulas escolares após a decretação de estado de calamidade pública no Município, devido à pandemia da COVID-19.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A remissão estende-se aos créditos relativos à Taxa de Renovação de Licença, referentes ao primeiro e segundo semestre de 2020 e ao primeiro semestre de 2021, à qual estão obrigados os prestadores de serviço de transporte escolar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Eventuais pagamentos realizados anteriormente a esta Lei e conexos aos créditos tributários previstos nos artigos 1º e 2º, poderão ser compensados no pagamento do tributo a que se referem, em período posterior.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei poderá ser regulamentada no que couber, baixando-se as normas que se fizerem necessárias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas com a execução desta Lei correrão por conta de dotações orçamentárias próprias, podendo ser suplementadas se necessário\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete da Presidência da Câmara Municipal de Petrópolis, em 17 de maio de 2022.\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.336, de 17 de maio de 2022; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
