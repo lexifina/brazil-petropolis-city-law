@@ -1,0 +1,1608 @@
+{
+ "country": {
+  "code": "BR-RJ-PETROPOLIS",
+  "name": "Petrópolis",
+  "slug": "brazil-petropolis-city",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Câmara Municipal de Petrópolis (SAPL)",
+   "email": "sapl@petropolis.rj.leg.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. This record takes in only municipal laws whose own vigência clause says they take effect on their publication (or signature), and dates each by the publication date the Câmara's SAPL records for it (else by its date).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Câmara Municipal de Petrópolis, SAPL: records of the municipal laws and their PDFs (newest first)",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/pesquisar",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Câmara Municipal de Petrópolis, SAPL (Sistema de Apoio ao Processo Legislativo), sapl.petropolis.rj.leg.br; SAPL: \"Conteúdo e dados sob licença Creative Commons 4.0 Atribuir Fonte - Compartilhar Igual\". Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the official gazette is authoritative.",
+   "notes": "23 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2021-08165": {
+   "label": "Lei nº 8.165, de 2 de setembro de 2021",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS A DATA DE 20 DE MARÇO COMO DIA MUNICIPAL EM MEMÓRIA DOS CIDADÃOS PETROPOLITANOS VÍTIMAS DA COVID-19.",
+   "kind": "law",
+   "enacted": "2021-09-02",
+   "published": "2021-09-03",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/53",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08163": {
+   "label": "Lei nº 8.163, de 2 de setembro de 2021",
+   "title": "INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS A \"SEMANA DA MODA TERESA\" E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-09-02",
+   "published": "2021-09-02",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/58",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08161": {
+   "label": "Lei nº 8.161, de 2 de setembro de 2021",
+   "title": "ALTERA A LEI MUNICIPAL Nº 7.956, DE 09 DE MARÇO 2020 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-09-02",
+   "published": "2021-09-02",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/57",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08160": {
+   "label": "Lei nº 8.160, de 31 de agosto de 2021",
+   "title": "CRIA O PROJETO CÂMARA DE ARTES, CULTURA E PATRIMÔNIO.",
+   "kind": "law",
+   "enacted": "2021-08-31",
+   "published": "2021-09-01",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/59",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08157": {
+   "label": "Lei nº 8.157, de 6 de agosto de 2021",
+   "title": "Denomina \"Rua Alecrim\" logradouro público, atualmente conhecido como \"Caminho I\".",
+   "kind": "law",
+   "enacted": "2021-08-06",
+   "published": "2021-08-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/41",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08156": {
+   "label": "Lei nº 8.156, de 6 de agosto de 2021",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DAS INSTITUIÇÕES ENSINO PÚBLICAS E PRIVADAS NOTIFICAREM A PREFEITURA MUNICIPAL CASO HAJA AFASTAMENTO DE ALUNOS OU TRABALHADORES DA EDUCAÇÃO POR SINTOMA OU SUSPEITA DE COVID-19.",
+   "kind": "law",
+   "enacted": "2021-08-06",
+   "published": "2021-08-09",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/43",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08155": {
+   "label": "Lei nº 8.155, de 6 de agosto de 2021",
+   "title": "Dispõe sobre a municipalização de trecho da BR-040 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2021-08-06",
+   "published": "2021-08-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/50",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08154": {
+   "label": "Lei nº 8.154, de 29 de julho de 2021",
+   "title": "INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS A SEMANA \"DIGO NÃO\" AO FEMINICÍDIO, SUICÍDIO, RACISMO, VIOLÊNCIA E PRECONCEITO NAS ESCOLAS PÚBLICAS.",
+   "kind": "law",
+   "enacted": "2021-07-29",
+   "published": "2021-07-29",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/52",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08153": {
+   "label": "Lei nº 8.153, de 29 de julho de 2021",
+   "title": "Dispõe sobre a criação do Programa de Desenvolvimento Econômico do Município de Petrópolis; trata da concessão de incentivos fiscais e estímulos; revoga a Lei nº 6.018, de 10 de setembro de 2003 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2021-07-29",
+   "published": "2021-07-29",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/49",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08152": {
+   "label": "Lei nº 8.152, de 29 de julho de 2021",
+   "title": "Dispõe sobre a proibição da companhia de trânsito e transportes - CPTRANS em função de decreto de ponto facultativo de realizar qualquer alteração no quadro de horários e viagens no sistema de transporte público Municipal, tornando-se obrigatório a operação com horários de dia útil.",
+   "kind": "law",
+   "enacted": "2021-07-29",
+   "published": "2021-07-29",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/48",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08150": {
+   "label": "Lei nº 8.150, de 8 de julho de 2021",
+   "title": "Institui no calendário oficial de Petrópolis a campanha \"Maio Laranja\" no Município, dedicado ao enfrentamento à violência sexual contra crianças e adolescentes.",
+   "kind": "law",
+   "enacted": "2021-07-08",
+   "published": "2021-07-13",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/39",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08158": {
+   "label": "Lei nº 8.158, de 2 de julho de 2021",
+   "title": "INSTITUI O \"JUNHO VERMELHO\" DEDICADO À REALIZAÇÃO DE CAMPANHA DE INCENTIVO À DOAÇÃO DE SANGUE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS, E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-07-02",
+   "published": "2021-08-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/44",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08148": {
+   "label": "Lei nº 8.148, de 2 de julho de 2021",
+   "title": "Denomina rua \"Sândalo\", logradouro público conhecido atualmente como Caminho IV.",
+   "kind": "law",
+   "enacted": "2021-07-02",
+   "published": "2021-08-06",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/40",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08147": {
+   "label": "Lei nº 8.147, de 2 de julho de 2021",
+   "title": "ALTERA O ART. 4º DA LEI 6.771, DE 20 DE JULHO DE 2010, QUE DISPÕE SOBRE AS COMPETÊNCIAS E PRAZOS DE EXECUÇÃO DO PLANO DIRETOR DE TURISMO DA CIDADE DE PETRÓPOLIS.",
+   "kind": "law",
+   "enacted": "2021-07-02",
+   "published": "2021-07-05",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/45",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08143": {
+   "label": "Lei nº 8.143, de 17 de junho de 2021",
+   "title": "TORNA OBRIGATÓRIO O TESTE DO CORAÇÃOZINHO OXIMETRIA DE PULSO EM RECÉM NASCIDO APÓS O NASCIMENTO ENTRE 24 E 48 HORAS DE VIDA NA REDE DE SAÚDE PÚBLICA E PRIVADA DO MUNICÍPIO DE PETRÓPOLIS RJ E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-06-17",
+   "published": "2021-06-18",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/31",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08142": {
+   "label": "Lei nº 8.142, de 10 de junho de 2021",
+   "title": "Dispõe sobre a Reestruturação do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação, em conformidade com o artigo 212-A da Constituição Federal, regulamentado na forma da Lei Federal nº 14.113, de 25 de dezembro de 2020 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2021-06-10",
+   "published": "2021-06-11",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/36",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08141": {
+   "label": "Lei nº 8.141, de 2 de junho de 2021",
+   "title": "DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DE JUVENTUDE, REVOGA A LEI MUNICIPAL Nº 6.313, DE 15 DE DEZEMBRO DE 2005 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-06-02",
+   "published": "2021-06-07",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/37",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08140": {
+   "label": "Lei nº 8.140, de 20 de maio de 2021",
+   "title": "ALTERA A LEI COMPLEMENTAR Nº 8.138, DE 18 DE MAIO DE 2021 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-05-20",
+   "published": "2021-05-20",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/38",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08137": {
+   "label": "Lei nº 8.137, de 12 de maio de 2021",
+   "title": "INSTITUI MULTA ADMINISTRATIVA PARA INFRATORES DAS NORMAS SANITÁRIAS DE ENFRENTAMENTO À COVID 19 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-05-12",
+   "published": "2021-05-13",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/35",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08135": {
+   "label": "Lei nº 8.135, de 12 de maio de 2021",
+   "title": "ALTERA A LEI MUNICIPAL Nº 7.681, DE 06 DE JULHO DE 2018 E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-05-12",
+   "published": "2021-05-13",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/33",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08134": {
+   "label": "Lei nº 8.134, de 7 de maio de 2021",
+   "title": "DISPÕE SOBRE A OBRIGATORIEDADE DA VISIBILIDADE DO PROCESSO DE VACINAÇÃO NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.",
+   "kind": "law",
+   "enacted": "2021-05-07",
+   "published": "2021-05-10",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/32",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08132": {
+   "label": "Lei nº 8.132, de 29 de abril de 2021",
+   "title": "Permite a contratação temporária de pessoas naturais, pelas Empresas Públicas do Município de Petrópolis, como medida para auxiliar nas Execuções das Atividades Essenciais e que não permitem paralisação, em razão da situação excepcional gerada pela pandemia do novo Coronavírus - Covid-19 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2021-04-29",
+   "published": "2021-04-29",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/23",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2021-08131": {
+   "label": "Lei nº 8.131, de 20 de abril de 2021",
+   "title": "Dispõe sobre a criação de ação orçamentária para melhor classificação das despesas com publicidade institucional.",
+   "kind": "law",
+   "enacted": "2021-04-20",
+   "published": "2021-04-20",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/19",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2021-08165",
+   "short": "Lei 8165/2021",
+   "title": "Lei nº 8.165, de 2 de setembro de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/53",
+   "first_law": "lei-2021-08165",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-09-03",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/53/l8165.pdf",
+     "sha256": "c216ec5b7102d70bd8092fb3debfcb12f2f4d136d1ab924e085bd271e4ede99b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.165 DE 02 DE SETEMBRO DE 2021 INSTITUI NO CALENDÁRIO OFICIAL DO MUNICÍPIO DE PETRÓPOLIS A DATA DE 20 DE MARÇO COMO DIA MUNICIPAL EM MEMÓRIA DOS CIDADÃOS PETROPOLITANOS VÍTIMAS DA COVID-19.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no âmbito do Município de Petrópolis, o \"Dia Municipal em Memória dos Cidadãos Petropolitanos Vítimas da Covid-19\", a ser lembrado, anualmente, em 20 de março.\nParágrafo único. A efeméride mencionada neste artigo passa a integrar o Calendário Oficial do Município de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As atividades a serem desenvolvidas na data a que esta Lei menciona, têm por objetivo homenagear a memória das vítimas da Covid-19.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 02 de setembro de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.165, de 2 de setembro de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08163",
+   "short": "Lei 8163/2021",
+   "title": "Lei nº 8.163, de 2 de setembro de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/58",
+   "first_law": "lei-2021-08163",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/58/l8163.pdf",
+     "sha256": "675071d1282c8910b26213432930233a00b09eacfe33d7457cc7e4f41e37adbf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.163 DE 02 DE SETEMBRO DE 2021 INSTITUI NO CALENDÁRIO OFICIAL DE EVENTOS DO MUNICÍPIO DE PETRÓPOLIS A \"SEMANA DA MODA TERESA\" E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no calendário de eventos do Município de Petrópolis, a \"Semana da Moda Teresa\" a ser realizada, anualmente, na segunda quinzena do mês de agosto, preferencialmente no dia 22 do referido mês.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A semana de que trata a Lei tem como principais objetivos:\nI - incentivar, promover e divulgar o Polo de Modas da Rua Teresa;\nII - oferecer cursos, palestras e seminários cuja temática seja voltada para os profissionais e técnicos do setor de confecção, com conteúdo informativo e cultural, abrangendo novas tecnologias;\nIII - promover concursos com a finalidade de incentivar o surgimento de novos talentos;\nIV - promover desfiles abertos ao público, apresentando as tendências da estação;\nV - realizar exposição das coleções em feira, para sua comercialização junto ao público em geral.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá regulamentar a presente Lei, no que couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 02 de setembro de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.163, de 2 de setembro de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08161",
+   "short": "Lei 8161/2021",
+   "title": "Lei nº 8.161, de 2 de setembro de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/57",
+   "first_law": "lei-2021-08161",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-09-02",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/57/l8161.pdf",
+     "sha256": "28730e8cccf146a03a2c1cd44d8c909bfd4bfcf313fc6756b2df882e5f66d1a9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº8.161 DE 02 DE SETEMBRO DE 2021 ALTERA A LEI MUNICIPAL Nº 7.956, DE 09 DE MARÇO 2020 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Esta Lei altera dispositivos da Lei Municipal nº 7.956, de 09 de março de 2020.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Ficam alterados os artigos 2º e 3º e acrescidos os incisos I, II, III ao artigo 3º da Lei Municipal nº 7.956, de 09 de março de 2020, que passam a vigorar com a seguinte redação:\n\"Art. 2º - O não cumprimento do disposto no artigo 1º desta Lei acarretará ao infrator a imposição de multa, cabendo a fiscalização aos Fiscais de Atividade do Município.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As multas serão aplicadas conforme Anexo I, devendo o fiscal aplicar, no ato da autuação, a dosimetria entre um grau mínimo até um grau máximo, levando-se em conta na sua imposição:\nI - A maior ou menor gravidade da infração;\nII - As circunstâncias agravantes ou atenuantes;\nIII - Os antecedentes do infrator, com relação às disposições desta Lei.\"\nArt. 3º- Ficam acrescidos os artigos 4º, 5º, 6º e 7º à Lei Municipal nº 7.956, de 09/03/2020, que passam a vigorar com a seguinte redação:\n\"Art. 4º - Nas reincidências, as multas serão aplicadas progressivamente, em dobro, ainda que ultrapassem o limite máximo estabelecido no Anexo I, de acordo com o que dispõe o Código de Posturas, Lei Municipal nº 6.240, de 22/01/2005.\nParágrafo único - No caso de pessoa jurídica, a partir da terceira reincidência, haverá o encaminhamento ao órgão competente para a cassação do alvará de localização.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Serão destinados, do valor arrecadado com a aplicação da multa prevista nesta Lei:\nI - 30% ao Fundo Municipal de Proteção e Defesa dos Animais - FMPDA, criado através da Lei Municipal nº 7.830, de 30 de agosto de 2019; II - 30% ao Fundo Municipal dos Direitos da Pessoa Idosa no Município de Petrópolis, criado através da Lei Municipal nº 6.767, de 19 de julho de 2010.\nESTADO DO RIO DE JANEIRO PUBLICADO: 02/09/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O Poder Executivo criará canal de comunicação específico para realização de denúncias, através de regulamentação por Decreto no prazo de 15 dias a partir da publicação desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.\"\nArt. 4º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nGabinete do Prefeito de Petrópolis, em 02 de setembro de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.161, de 2 de setembro de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08160",
+   "short": "Lei 8160/2021",
+   "title": "Lei nº 8.160, de 31 de agosto de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/59",
+   "first_law": "lei-2021-08160",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-09-01",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/59/l8160.pdf",
+     "sha256": "fe9bd225b037acc304bb02b5e24a84d40e47e498e31f9ee52bceb58de62a27ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.160 DE 31 DE AGOSTO DE 2021 CRIA O PROJETO CÂMARA DE ARTES, CULTURA E PATRIMÔNIO.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## Capítulo I - DOS OBJETIVOS.\nArt. 1º. Fica instituído na Câmara Municipal de Petrópolis o projeto, de caráter permanente, denominado \"CÂMARA DE ARTES, CULTURA E PATRIMÕNIO\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. A Câmara de Artes, Cultura e Patrimônio tem por objetivo tratar dos aspectos relacionados ao planejamento, coordenação, orientação, direção, supervisão, produção, curadoria e controle dos assuntos relativos:\nI - à historiografia parlamentar e à história da arte;\nII - à museologia e à museografia;\nIII - às exposições históricas e institucionais que tratam das atividades da Câmara Municipal e da produção legislativa;\nIV - aos eventos, exposições, mostras culturais e atividades relacionadas a projetos sociais e projetos da instituição que tratam das artes plásticas, cênicas, cinematográficas, fotográficas, audiovisuais, literárias e musicais, e dos gabinetes de arte;\nV - às iniciativas para efetivação de acordos de cooperação técnica, parcerias e convênios dentro de sua área de atuação;\nParágrafo único. A Câmara de Artes, Cultura e Patrimônio cabe apoiar e viabilizar a realização de manifestações culturais, artísticas, históricas e institucionais e a produção de ações e eventos relacionados a esses assuntos que sejam de interesse da Instituição, quando de iniciativas de terceiros ou parceiros externos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## Capítulo II - DAS EXPOSIÇÕES, MOSTRAS CULTURAIS E EVENTOS.\nArt. 3º. As exposições históricas, institucionais, artísticas e culturais, os gabinetes de arte, as mostras de artes plásticas e visuais, as atividades plásticas, musicais e cênicas, as projeções cinematográficas, os lançamentos de livros e os eventos literários, culturais, musicais e institucionais de qualquer natureza, nas dependências desta Câmara Municipal ou em espaços itinerantes, serão realizados mediante inscrição prévia na Agenda Cultural desta Câmara.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A Câmara de Artes, Cultura e Patrimônio fará, por meio de edital, a abertura da Agenda Cultural da Câmara Municipal para o ano vindouro no primeiro dia útil do mês de Setembro do ano em curso, com o objetivo de receber inscrições de artistas e curadores que desejam realizar exposições, eventos e mostras culturais nos espaços expositivos da Câmara e encerrará as inscrições no último dia útil do mês de novembro do mesmo ano.\n§ 1º. O edital deverá prever o preenchimento de até 50% (cinquenta por cento) das vagas dos espaços expositivos para os artistas e curadores.\nESTADO DO RIO DE JANEIRO Publicado: 01/09/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\n§ 2º O percentual remanescente dos espaços expositivos será preenchido por artistas e curadores convidados pela Câmara de Artes, Cultura e Patrimônio e selecionados pelos responsáveis do setor de projetos especiais.\n§ 3º A Agenda Cultural da Câmara Municipal, com todas as atividades e eventos previstos e definidos pelos responsáveis, deverá ser submetida ao Presidente da Câmara Municipal até a primeira quinzena do mês de dezembro do ano em curso.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5",
+       "kind": "article",
+       "text": "Art. 5. Quando se tratar de exposições históricas, institucionais, gabinetes de arte ou mostras culturais de interesse da Câmara Municipal que envolvam logística própria, a responsabilidade pela segurança do acervo expositivo, inclusive a curadoria, a embalagem, o transporte e o seguro das obras correrão por conta da Câmara Municipal ou em parceria com instituições com as quais tenha acordo de cooperação, mediante proposição da Câmara de Artes, Cultura e Patrimônio.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6",
+       "kind": "article",
+       "text": "Art. 6. A Câmara Municipal consignará, anualmente no seu orçamento, recursos financeiros para a manutenção e o desenvolvimento das atividades artístico-culturais, museológicas e museográficas da Câmara de Artes, Cultura e Patrimônio.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7",
+       "kind": "article",
+       "text": "Art. 7. Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 31 de agosto de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.160, de 31 de agosto de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08157",
+   "short": "Lei 8157/2021",
+   "title": "Lei nº 8.157, de 6 de agosto de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/41",
+   "first_law": "lei-2021-08157",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-08-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/41/l8157.pdf",
+     "sha256": "4863bfeb543cdd8416ed1b5c9ecdbcccd4b6dfa2aaf11dc43be05e3395a26706",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.157 DE 06 DE AGOSTO DE 2021 DENOMINA \"RUA ALECRIM\" LOGRADOURO PÚBLICO, ATUALMENTE CONHECIDO COMO \"CAMINHO I\".\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica denominada \"Rua Alecrim\". logradouro público, atualmente conhecida como \"Caminho I, rua com aproximadamente 455 metros de extensão, que se inicia junto a portaria do número 2098 da Rua Agostinho Goulão\", terminando em um cul-de-sac, corrêas, Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 06 de agosto de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.157, de 6 de agosto de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08156",
+   "short": "Lei 8156/2021",
+   "title": "Lei nº 8.156, de 6 de agosto de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/43",
+   "first_law": "lei-2021-08156",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-08-09",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/43/l8156.pdf",
+     "sha256": "b6c2ca0fa04a9a9f473e673a66f65dd3f73a81c7e2ad10e08f83e6f8a2b2f2ef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.156 DE 06 DE AGOSTO DE 2021 DISPÕE SOBRE A OBRIGATORIEDADE DAS INSTITUIÇÕES ENSINO PÚBLICAS E PRIVADAS NOTIFICAREM A PREFEITURA MUNICIPAL CASO HAJA AFASTAMENTO DE ALUNOS OU TRABALHADORES DA EDUCAÇÃO POR SINTOMA OU SUSPEITA DE COVID-19.\n"
+      },
+      "art-0001": {
+       "label": "Art.1°",
+       "kind": "article",
+       "text": "Art.1° - Ficam as instituições de ensino públicas e privadas localizadas no município de Petrópolis obrigadas a notificarem os casos de COVID-19 confirmados entre seus funcionários, docentes, alunos ou qualquer trabalhador da unidade de ensino, ainda que eventual.\n§ 1º. O afastamento de funcionário, docente, aluno e prestador de serviço determinado após constatação de sintomas relacionados à COVID-19 também deverá ser notificado.\n§ 2º. A obrigação imposta independe do local e/ou situação suspeita à contaminação em que o funcionário, docente, aluno ou prestador de serviço relatar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A notificação prevista nesta lei deverá ser encaminhada às secretarias municipais de Saúde e de Educação, em até 24 horas após a confirmação da doença ou afastamento de pessoa sintomática.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O descumprimento desta lei poderá acarretar na suspensão temporária ou cassação do alvará de licença de funcionamento da instituição, conforme critério do órgão municipal competente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O Poder Executivo regulamentará o disposto nesta Lei, no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5°",
+       "kind": "article",
+       "text": "Art. 5° - Esta Lei entra em vigor na data de sua publicação Mando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 06 de Agosto de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.156, de 6 de agosto de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08155",
+   "short": "Lei 8155/2021",
+   "title": "Lei nº 8.155, de 6 de agosto de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/50",
+   "first_law": "lei-2021-08155",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/50/l8155.pdf",
+     "sha256": "a70db9bc73da73d16d8ce7713c40afdacdcef9aac0033e8e422efbffcdcccc82",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.155 DE 06 DE AGOSTO DE 2021 DISPÕE SOBRE A MUNICIPALIZAÇÃO DE TRECHO DA BR-040 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º- Fica autorizado o Poder Executivo a receber em doação para fins de municipalização, o trecho da Rodovia Federal BR-040 (Rodovia Washington Luiz), compreendido entre os pontos: 500m antes da entrada do Parque São Vicente, posicionado no atual km 84 da rodovia (-22.539405356477584 -43.22363695084217) e a Rodoviária Intermunicipal de Petrópolis, no atual km 79 da rodovia (-22.517175393116332 -43.22934878473668), mediante formalização de Termo de Transferência para administração e gerenciamento de rodovia.\n§ 1º - Os serviços de manutenção do trecho a ser municipalizado passarão para a responsabilidade do Município de Petrópolis.\n§ 2º - A transferência se dará sem nenhum ônus para a União, assumindo o Município a plena responsabilidade do trecho a partir da assinatura do Termo de Transferência e publicação de seu extrato no Diário Oficial da União.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Fica autorizado ao Poder Executivo a firmar termo de transferência e/ou de cooperação mútua com o Departamento Nacional de Infraestrutura de Transportes - DNIT, com o objetivo de implementar as ações necessárias à viabilização da municipalização do trecho de que trata esta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As despesas decorrentes da execução da presente lei correrão à conta das dotações consignadas no orçamento vigente, suplementadas se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta Lei entrará em vigor na data de sua publicação.\nGabinete do Prefeito de Petrópolis, em 06 de agosto de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.155, de 6 de agosto de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08154",
+   "short": "Lei 8154/2021",
+   "title": "Lei nº 8.154, de 29 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/52",
+   "first_law": "lei-2021-08154",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/52/l8154.pdf",
+     "sha256": "f518f16e9126de493abad0516c4ffd248bfc429d2c5aac438f70252881ba0e74",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.154 DE 29 DE JULHO DE 2021 INSTITUI NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS A SEMANA \"DIGO NÃO\" AO FEMINICÍDIO, SUICÍDIO, RACISMO, VIOLÊNCIA E PRECONCEITO NAS ESCOLAS PÚBLICAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Esta lei institui no Município a semana \"DIGO NÃO\" ao feminicídio, suicídio, racismo, violência e preconceito nas Escolas Públicas.\nParágrafo único. A semana \"DIGO NÃO\" será comemorada anualmente no mês de agosto nas escolas municipais de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° - A semana \"DIGO NÃO\" tem como objetivo:\nI - Capacitar docentes e equipe pedagógica para a implementação de ações preventivas contra o feminicídio, suicídio, racismo, violência e preconceito;\nII - Propor dinâmicas de interação entre alunos e professores;\nIII - Orientar pais e familiares sobre como proceder diante das praticas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - A aplicabilidade da semana \"DIGO NÃO\" poderá envolver uma gama de atividades centradas tais como: palestras, debates e reflexões a respeito do tema.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° - Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 29 de julho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.154, de 29 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08153",
+   "short": "Lei 8153/2021",
+   "title": "Lei nº 8.153, de 29 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/49",
+   "first_law": "lei-2021-08153",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/49/l8153.pdf",
+     "sha256": "7a19856c9c4ac55c6b819d225cfe94d6a16a64e6d1704e433b1260f5c224e163",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.153 DE 29 DE JULHO DE 2021 DISPÕE SOBRE A CRIAÇÃO DO PROGRAMA DE DESENVOLVIMENTO ECONÔMICO DO MUNICÍPIO DE PETRÓPOLIS; TRATA DA CONCESSÃO DE INCENTIVOS FISCAIS E ESTÍMULOS; REVOGA A LEI Nº 6.018, DE 10 DE SETEMBRO DE 2003 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I DO PROGRAMA DE DESENVOLVIMENTO ECONÔMICO DE PETRÓPOLIS\n## Seção I Dos Objetivos do Programa\nArt. 1º - Fica instituído o Programa de Desenvolvimento Econômico de Petrópolis, tendo por objetivos a promoção e o fomento do desenvolvimento socioeconômico do Município, por meio de incentivos e ações voltadas aos setores da indústria, comércio e prestação de serviços, sendo a geração de novas oportunidades de trabalho e renda, investimento e o aumento da arrecadação, condições necessárias à candidatura das empresas interessadas.\nParágrafo Único - O Programa concederá incentivos para a instalação de novos empreendimentos, bem como aos já existentes que ampliem suas atividades no Município de Petrópolis, localizados ou não nos Distritos Industriais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção II Das Definições\nArt. 2º - Para fins desta Lei, considera-se:\nI - indústria: o conjunto de atividades destinadas à produção de bens, mediante a transformação ou reciclagem de matéria-prima ou produtos intermediários;\nII - comércio: o complexo de operações efetuadas desde o produtor até o consumidor final, exercidas de forma habitual, visando ao lucro, com o propósito de realizar, promover ou facilitar a circulação de produtos da natureza e da indústria;\nIII - prestação de serviços: toda espécie de atividade ou trabalho lícito, material ou imaterial, contratada mediante retribuição, excluídas as relações de emprego;\nIV - incubadoras de empresas: instituições que auxiliam micro e pequenas empresas nascentes ou que estejam em operação, que tenham como principal característica a oferta de produtos e serviços no mercado com significativo grau de inovação;\nV - empresas incubadas: aquelas localizadas em incubadoras de empresas com constituição jurídica e fiscal próprias;\nVI - distrito industrial: também chamado Núcleo de Produção Industrial, Parque Industrial ou Condomínio Industrial, a concentração de empresas industriais localizadas em microrregiões ESTADO DO RIO DE JANEIRO CÂMARA MUNICIPAL DE PETRÓPOLIS Publicada em 29/07/21 geográficas, com incentivos físicos, tributários e financeiros, que produzem bens de consumo para o mercado interno e externo, fomentando a economia do Município;\nVII - condomínio empresarial: a edificação ou conjunto de edificações destinadas à atividade industrial ou de prestação de serviços ou comercial.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DO GRUPO EXECUTIVO\nArt. 3º - Fica instituído o Grupo Executivo - GEx, cujo Presidente é o Secretário de Desenvolvimento Econômico, visando a apreciação dos requerimentos de concessão dos benefícios previstos na presente Lei, assim como para o acompanhamento das obrigações assumidas pelo beneficiário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O Grupo Executivo - GEx, com caráter deliberativo, é constituído da seguinte forma:\nI - Secretário Municipal de Desenvolvimento Econômico;\nII - Secretário Municipal de Fazenda;\nIII - Procurador Geral do Município;\nIV - Coordenador de Planejamento e Gestão Estratégica; e\nV - Secretário de Obras, Habitação e Regularização Fundiária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O Grupo Executivo - GEx fica autorizado a conceder, por requerimento da parte interessada, incentivos fiscais e estímulos às empresas estabelecidas e as que vierem a se estabelecer no Município de Petrópolis, de acordo com as análises técnica, financeira e deliberativa, conforme disposto no Anexo Único desta Lei.\n§1º - Estão excluídas dos benefícios desta Lei as empresas que tenham sido beneficiadas com incentivos fiscais e/ou materiais do Município e não tenham atendido aos compromissos que justificaram a concessão dos mesmos, salvo se, comprovadamente, o projeto não tenha sido instalado por questões não inerentes ao Requerente.\n§2º - As empresas interessadas deverão apresentar na data de protocolo do requerimento junto à Prefeitura:\nI - aprovação prévia dos órgãos governamentais competentes;\nII - certidão negativa de débito emitida pela Secretaria de Fazenda Municipal.\n§3º - As empresas incentivadas poderão ter os incentivos prorrogados, por até igual período da concessão anterior, independente de novos investimentos, desde que mantidos os compromissos originais e nível de empregos.\n§4º - As empresas prestadoras de serviços, contribuintes principais de ISSQN para o Município de Petrópolis, poderão ter o prazo de incentivos fiscais fixado em até 35 (trinta e cinco) anos.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO III DA CONCESSÃO DE INCENTIVOS FISCAIS E ESTÍMULOS\nArt. 6º - Os incentivos fiscais a serem concedidos às empresas constituem-se de:\nI - Isenção do Imposto sobre a Propriedade Territorial e Urbana (IPTU) pelo prazo de até 15 (quinze) anos, incidentes sobre a construção ou acréscimos realizados no imóvel, inclusive nos casos de imóveis locados, desde que no contrato de locação esteja previsto o recolhimento do referido imposto como ônus do locatário, além do aumento do quantitativo ou modernização de maquinário em empresas já instaladas, de acordo com tabela constante no anexo único;\nII - Isenção da Taxa de Licença para Estabelecimento;\nIII - Isenção das Taxas de Licença para Execução de Obras, Taxa de Vistoria Parcial ou Final de Obras, incidentes sobre a construção, reforma ou acréscimos realizados no imóvel objeto do empreendimento;\nIV - Isenção da Taxa de Vigilância Sanitária por até 15 (quinze) anos para empresas que exerçam atividades sujeitas ao seu pagamento;\nV - Redução da alíquota até o limite de 2% (dois por cento) do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), observado o disposto no parágrafo 4º do art. 5º da presente Lei, a critério do GEx, independentemente da atividade exercida, podendo ser renovado por igual período;\nVI - Isenção do Imposto de Transmissão de Bens Imóveis (ITBI).\nParágrafo Único - Fica vedada a cumulatividade dos benefícios previstos neste artigo com outros benefícios fiscais previstos nas legislações vigentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Respeitados os limites mínimos, os incentivos fiscais para a constituição de condomínios empresariais e empresas de base tecnológica, ainda que estabelecidas individualmente, constituem-se nos mesmos incentivos previstos nos incisos I e V do artigo anterior, neste caso podendo ser acrescido de 30% (trinta por cento).\nParágrafo Único - Aplicam-se os benefícios previstos no inciso III do art. 6º e caput do art. 7º, aos projetos de construção civil devidamente aprovados pelo Município e demais órgãos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - Aplicam-se, ainda, os benefícios:\nI - quando a empresa contratada para execução das obras civis for estabelecida no Município e a contratação dos serviços se fizer por meio de instrumento jurídico legal, conceder-se-á os benefícios previstos no inciso V do art. 6º e caput do art. 7º;\nII - quando a empresa incentivada terceirizar serviços com outras empresas pertencentes ao mesmo grupo da incentivada, desde que, atendendo ao mesmo contrato e ao mesmo contratante aplicando-se, nesse caso, os benefícios previstos no inciso V do art. 6º.\nParágrafo Único - Nas hipóteses previstas no inciso II deste artigo, o recolhimento do ISSQN só ocorrerá na nota fiscal final emitida pela empresa incentivada à contratante.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Os incentivos fiscais para as empresas instaladas em incubadoras de empresas, constituem-se de:\nI - isenção da Taxa de Licença para Estabelecimento;\nII - redução da alíquota até o limite de 2% (dois por cento) do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), por 2 (dois) anos, a contar da data de sua constituição, independentemente da atividade exercida;\nIII - isenção da Taxa de Vigilância Sanitária por 2 (dois) anos, para empresas que exerçam atividades sujeitas ao seu pagamento.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - Os benefícios de que tratam os art. 6º, 7º e 9º, deverão ser publicados, por extrato, no Diário Oficial do Município, nos termos da minuta proposta pelo GEx.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - Além dos incentivos fiscais, o GEx poderá, a seu critério, conceder estímulos econômicos vinculados aos novos empreendimentos e que se constituem de:\nI - subsídios à execução no todo ou em parte dos serviços de infraestrutura necessários à implantação ou ampliação pretendidas;\nII - autorização de uso gratuita ou onerosa de áreas de terras ou galpões, quando pertencentes ao Patrimônio Público Municipal, por até 10 (dez) anos;\nIII - permuta de áreas pertencentes ao Patrimônio Público Municipal em atendimento a solicitações de empresas instaladas no Município, desde que enquadradas nas demais exigências desta Lei;\nIV - autorização de uso gratuita ou onerosa de espaços em condomínios empresariais, incubadoras de empresas ou em unidades individuais, por períodos de até 10 (dez) anos, prorrogáveis por até 30 (trinta) anos, em imóvel pertencente ao patrimônio público Municipal ou em imóveis alugados pelo Executivo Municipal, desde que mantenham suas operações ativas;\nV - elaboração de projeto e/ou serviços de consultoria.\nParágrafo Único - O Poder Executivo, com base no parecer e deliberação do GEx, poderá, através de iniciativa legal, conceder benefícios específicos para projetos de grande interesse para o desenvolvimento econômico e social do Município e benefícios compensatórios para empresas pertencentes ao setor da economia, que estejam perdendo competitividade para empresas que alteraram seu domicílio fiscal para outro Município.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - Os estímulos e incentivos a que se referem os art. 6º, 7º e 11º poderão ser concedidos isolada ou cumulativamente a critério do GEx.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Os incentivos e estímulos aplicam-se a qualquer empresa, independentemente de porte ou ramo de atividade, que se instale no Município ou nele amplie suas atividades.\nParágrafo Único - Aplicam-se, no que couber, os incentivos previstos nesta lei às incorporações e à construção civil, promovidas por pessoas físicas ou jurídicas, a critério do GEx, na forma de Decreto regulamentador.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DO REQUERIMENTO\nArt. 14 - Para obter quaisquer dos incentivos descritos no artigo 6º e 7º desta Lei, o interessado deverá apresentar requerimento dirigido à Secretaria Municipal de Desenvolvimento Econômico, no qual especificará os incentivos pretendidos e juntará os seguintes documentos:\nI - Plano de Negócios;\nII - benefícios solicitados;\nIII - cronograma de implantação e investimentos;\nIV - informação dos valores, em moeda corrente, das receitas novas que advirão da ampliação ou instalação da atividade.\nV - outras informações necessárias à avaliação.\n§1º - Para efeito de avaliação das solicitações baseadas na presente Lei, serão os projetos analisados conforme o disposto na Lei Complementar nº 101/2000 - Lei de Responsabilidade Fiscal, bem como observadas as seguintes condições:\nI - considerável desenvolvimento econômico para o Município;\nII - alcance social;\nIII - base tecnológica do empreendimento;\nIV - localização do empreendimento em condomínios empresariais e incubadoras de empresas;\nV - aderência às diretrizes do Plano Diretor de Petrópolis;\nVI - efeito multiplicador da atividade;\nVII - aquisição de bens, produtos e serviços disponíveis no Município de Petrópolis;\nVIII - registrar e licenciar os veículos do ativo imobilizado ou em nome dos sócios junto ao órgão competente localizado no Município de Petrópolis para fins de recolhimento do Imposto sobre a Propriedade de Veículos Automotores (IPVA);\nIX - locar veículos, quando for o caso, atendendo ao disposto no inciso anterior;\nX - doações para o FUNCRIA Municipal;\nXI - incentivo ao esporte amador do Município por meio de projetos da Secretaria de Esportes, Promoção da Saúde, Juventude, Idoso e Lazer;\nXII - incentivo à cultura por meio de projetos do Instituto Municipal de Cultura;\nXIII - instalação ou alteração de atividade na APAC - Corredor Cultural de Petrópolis;\nXIV - contratação de mão de obra de pessoas portadoras de deficiência e idosos;\nXV - contratar 15% (quinze por cento) do total do número de empregados diretos, com idade entre 18 (dezoito) e 24 (vinte e quatro) anos e 15% (quinze por cento) do total do número de empregados diretos com idade superior a 45 (quarenta e cinco) anos;\nXVI - contratar para o seu quadro de empregados 5% (cinco por cento) de profissionais oriundos do programa de estágio em parceria com as instituições de ensino superior estabelecidas no Município.\nXVII - adoção de praças, jardins ou monumentos históricos localizados no Município;\nXVIII - contratação de mão de obra de vítimas de violência doméstica;\nXIX - priorizar a contratação de empresas sediadas no Município em caso de necessidade de terceirização;\nXX - priorizar a contratação de microempreendedores sediados no Município;\nXXI - aquisição de, no mínimo, 50% (cinquenta por cento) do material a ser utilizado nas obras em estabelecimentos situados no Município;\nXXII - contratação de 100% (cem por cento) da mão de obra a ser empregada de residentes no Município;\nXXIII - iniciar suas atividades econômicas ou expansão da unidade já existente no prazo máximo de 12 (doze) meses, contados a partir da data de aprovação dos respectivos projetos;\nXXIV - optar, preferencialmente, por projetos de empreendimentos ambientalmente sustentáveis com reaproveitamento de água e geração limpa de energia;\nXXV - disponibilização de vagas no Balcão de Empregos do Departamento de Trabalho da Secretaria de Desenvolvimento Econômico.\n§1º - A Secretaria de Desenvolvimento Econômico, com o auxílio dos demais órgãos públicos, quando for o caso, é responsável pelos seguintes procedimentos:\nI - orientação aos empreendedores;\nII - recepção dos projetos;\nIII - análise técnica prévia;\nIV - encaminhamento dos processos ao GEx;\nV - outras atividades afins.\n§2º - A Secretaria de Desenvolvimento Econômico poderá contratar técnicos para avaliar e opinar sobre os projetos, quando a complexidade ou especificidade dos mesmos assim o exigirem, elaborando laudos nos quais o GEx se baseará para decidir acerca dos pedidos.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O GEx se reunirá, com no mínimo 3 (três) de seus integrantes ou representantes por eles designados, e deliberará por maioria simples, no prazo de 30 (trinta) dias contados do protocolo do requerimento, prorrogáveis por mais 30 (trinta) dias, de acordo com a complexidade averiguada caso a caso.\nParágrafo Único - O presidente do GEx terá voto de qualidade em caso de empate.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO V DAS CONDIÇÕES GERAIS\nArt. 16 - Para atender as finalidades desta Lei, o Município de Petrópolis aplicará os recursos orçamentários específicos previstos na Lei Orçamentária Anual e Lei de Diretrizes Orçamentárias, podendo ainda captar outros recursos de transferências voluntárias, tais como convênios, doações, receitas provenientes da alienação dos terrenos industriais e outras fontes com destinação específica.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - Os provimentos de recursos às despesas decorrentes dos estímulos econômicos previstos no art. 12 poderão ser realizados através de qualquer órgão da Prefeitura ou pelo Fundo de Desenvolvimento Econômico do Município de Petrópolis.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - Os benefícios previstos no art. 11 estão limitados à disponibilidade de recursos financeiros do Executivo Municipal.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Os benefícios concedidos com base nesta Lei, cessam no momento do encerramento das atividades da empresa e/ou do empreendimento.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - A redução do período dos benefícios concedidos ou o seu cancelamento, será efetuada mediante processo administrativo sumário.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - As empresas que sucederem às que obtiveram o(s) benefício(s) instituído(s) pela presente Lei, poderão requerer sua continuidade pelo período que faltar para completar o tempo concedido à antecessora, desde que permaneçam atendidos os requisitos legais, inclusive os aqui estabelecidos.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - Todos os projetos aprovados na forma desta Lei terão que ser formalizados, obrigatoriamente, através de termos de compromisso e responsabilidade, cujos extratos serão publicados no Diário Oficial do Município, de acordo com as deliberações pertinentes e surtirão seus efeitos a contar da data do protocolo dos pedidos previstos no art. 5º desta Lei.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - Fica autorizado o Município, após análise e aprovação do GEx, formalizar termos de compromisso e responsabilidade com empresas com a finalidade de promover outros incentivos fiscais, mediante a fixação de contrapartidas especificadas em tal instrumento.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## CAPÍTULO VI DAS PENALIDADES Das Condições para Revogação dos Benefícios\nArt. 24 - As empresas que obtiverem os benefícios baseados nesta Lei, perderão o direito aos mesmos, nas seguintes hipóteses:\nI - deixarem de comunicar ao GEx, no prazo máximo de 60 (sessenta) dias, no caso de vender, ceder, locar, permutar ou gravar o imóvel objeto do benefício, no todo ou em parte, a terceiros;\nII - não comprovarem o recolhimento, na forma da legislação vigente, dos encargos previdenciários e trabalhistas e dos tributos municipais, estaduais e federais, referentes à sua atividade no Município, mesmo que a empresa tenha sede em outro Município;\nIII - não efetivarem a prestação de contas ao GEx durante a vigência do benefício, a fim de que este possa verificar se o beneficiário está cumprindo os termos convencionados na época da concessão daquele benefício;\nIV - em caso do não cumprimento dos compromissos firmados no que se refere à geração de empregos, investimentos a serem realizados, emplacamentos de veículos e fixação de placa informativa, ressalvada a possibilidade de compensação dos critérios a serem analisados, fica o GEx autorizado a aplicar a dosimetria da pena às empresas incentivadas na seguinte proporção:\na) perda de 1 (um) ano do incentivo fiscal concedido, caso a média de porcentagem dos itens seja de até 10% (dez por cento) do acordado;\nb) perda de 2 (dois) anos do incentivo fiscal concedido caso a média de porcentagem dos itens seja de até 20% (vinte por cento) do acordado;\nc) perda de 3 (três) anos do incentivo fiscal concedido caso a média de porcentagem dos itens seja de até 30% (trinta por cento) do acordado;\nd) cancelamento integral do incentivo fiscal concedido caso a média de porcentagem dos itens seja superior à 30% (trinta por cento) do acordado.\nParágrafo Único - No caso de rescisão do termo de compromisso e responsabilidade por culpa do beneficiário, o mesmo deverá restituir ao erário municipal o benefício de todo o período da concessão.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "## CAPÍTULO VII DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nArt. 25 - Ficam inalterados os incentivos fiscais concedidos na vigência das Leis anteriores para as pessoas jurídicas que tenham cumprido integralmente as condições para a sua concessão.\nParágrafo Único - A avaliação e prestação de contas dos incentivos protocolados e/ou concedidos quando da vigência da Lei Municipal nº 6.018/2003 deverão levar em consideração os critérios e procedimentos estabelecidos pela legislação atual.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - Fica revogada a Lei nº 6.018, de 10 de setembro de 2003.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - Esta Lei será regulamentada no prazo de 90 (noventa) dias.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 29 de julho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.153, de 29 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08152",
+   "short": "Lei 8152/2021",
+   "title": "Lei nº 8.152, de 29 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/48",
+   "first_law": "lei-2021-08152",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/48/l8152.pdf",
+     "sha256": "54ca4e79857402bf8da22d60f25ae6bf979ab8da5d99c996ec56c816ebea2df4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.152 DE 29 DE JULHO DE 2021 DISPÕE SOBRE A PROIBIÇÃO DA COMPANHIA DE TRÂNSITO E TRANSPORTES - CPTRANS EM FUNÇÃO DE DECRETO DE PONTO FACULTATIVO DE REALIZAR QUALQUER ALTERAÇÃO NO QUADRO DE HORÁRIOS E VIAGENS NO SISTEMA DE TRANSPORTE PÚBLICO MUNICIPAL, TORNANDO-SE OBRIGATÓRIO A OPERAÇÃO COM HORÁRIOS DE DIA ÚTIL.\n"
+      },
+      "art-0001": {
+       "label": "Art.1°",
+       "kind": "article",
+       "text": "Art.1° - Fica proibido a companhia de trânsito e transportes - CPTRANS nos dias em que for decretado pelo Poder Executivo Municipal ponto facultativo de realizar qualquer alteração no quadro de horários e viagens no sistema de transporte público Municipal, tornando-se obrigatório a operação com horários de dia útil.\n"
+      },
+      "art-0002": {
+       "label": "Art.2°",
+       "kind": "article",
+       "text": "Art.2° - Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 29 de julho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.152, de 29 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08150",
+   "short": "Lei 8150/2021",
+   "title": "Lei nº 8.150, de 8 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/39",
+   "first_law": "lei-2021-08150",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-07-13",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/39/l8150.pdf",
+     "sha256": "d33a766dcc57198ebe60b4970c95229d166500b2117227c58d53d3119fcd6714",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº8.150 DE 08 DE JULHO DE 2021 INSTITUI NO CALENDÁRIO OFICIAL DE PETRÓPOLIS A CAMPANHA \"MAIO LARANJA\" NO MUNICÍPIO, DEDICADO AO ENFRENTAMENTO À VIOLÊNCIA SEXUAL CONTRA CRIANÇAS E ADOLESCENTES.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica instituído a campanha \"Maio Laranja\", dedicado ao enfrentamento à violência sexual contra crianças e adolescentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Durante o mês de maio, a critério dos gestores, serão realizadas atividades para conscientização, prevenção, orientação e combate ao abuso e exploração sexual da criança e do adolescente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - O Poder Executivo regulamentará esta lei no que lhe couber.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - Esta lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 08 de julho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.150, de 8 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08158",
+   "short": "Lei 8158/2021",
+   "title": "Lei nº 8.158, de 2 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/44",
+   "first_law": "lei-2021-08158",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-08-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/44/l8148.pdf",
+     "sha256": "98cd615a2dccb904af8b9fadae0e75e9241ad5eaebb165bfaa6caafbf0d167b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.158 DE 02 DE JULHO DE 2021 INSTITUI O \"JUNHO VERMELHO\" DEDICADO À REALIZAÇÃO DE CAMPANHA DE INCENTIVO À DOAÇÃO DE SANGUE NO ÂMBITO DO MUNICÍPIO DE PETRÓPOLIS, E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica instituído, no âmbito do Município de Petrópolis, o \"Junho Vermelho\", dedicado à realização de campanha de incentivo a doação de sangue, priorizando:\nI - a conscientização da população sobre a importância da doação de sangue;\nII - o estímulo à realização da doação de sangue;\nIII - o incentivo aos órgãos da Administração Pública Municipal, empresas, entidades de classe, associações, federações e à sociedade civil organizada para se engajarem nas campanhas de incentivo;\nIV - divulgação das leis federais, estaduais e municipais de incentivo e isenções para doadores de sangue.\nParágrafo único - dentre as ações previstas poderão, os prédios públicos serem iluminados com a cor vermelha em alusão à referida campanha.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O mês do \"Junho Vermelho\" terá por objetivo conscientizar a população através de procedimentos informativos, educativos, organizativos, palestras, audiência pública e conferências, a fim de que sociedade possa conhecer melhor o assunto e debater sobre iniciativas de apoio à doação de sangue.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O mês do Junho Vermelho passa a integrar o Calendário Oficial de Eventos do Município.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O Poder Executivo Municipal poderá firmar parcerias com a iniciativa pública ou privada, pessoas físicas ou jurídicas, entidades religiosas e universidades, para a realização e organização do \"Junho Vermelho\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O Poder Executivo poderá regulamentar esta Lei no que couber.\nESTADO DO RIO DE JANEIRO PUBLICADA:05/07/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Esta Lei entra em vigor na data da sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 02 de julho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.158, de 2 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08148",
+   "short": "Lei 8148/2021",
+   "title": "Lei nº 8.148, de 2 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/40",
+   "first_law": "lei-2021-08148",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-08-06",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/40/l8148.pdf",
+     "sha256": "b648618a3fe7931540173c263112e35274ee37f26d2a2672b1c92016bf9156ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.148 DE 02 DE JULHO DE 2021 DENOMINA RUA \"SÂNDALO\", LOGRADOURO PÚBLICO CONHECIDO ATUALMENTE COMO CAMINHO IV.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica denominada rua \"Sândalo\", logradouro público conhecido atualmente como \"Caminho IV\", Rua com aproximadamente 930 metros de extensão, que se inicia na metade caminho II (futura rua cedro) e termina em um cul-de-sac, a rua está situada à Rua Agostinho Goulão, nº. 2098, corrêas, Petrópolis/RJ.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 06 de agosto de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.148, de 2 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08147",
+   "short": "Lei 8147/2021",
+   "title": "Lei nº 8.147, de 2 de julho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/45",
+   "first_law": "lei-2021-08147",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-07-05",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/45/l8147.pdf",
+     "sha256": "2c65094c3acf31b1b241bfc238b8072379f095c208c5b2aed81d799a9e269ad0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.147 DE 02 DE JULHO DE 2021 ALTERA O ART. 4º DA LEI Nº 6.771, DE 20 DE JULHO DE 2010, QUE DISPÕE SOBRE AS COMPETÊNCIAS E PRAZOS DE EXECUÇÃO DO PLANO DIRETOR DE TURISMO DA CIDADE DE PETRÓPOLIS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O artigo 4º da Lei nº 6.771, de 20 de julho de 2010, que dispõe sobre as competências e prazos de execução do Plano Diretor de Turismo da Cidade de Petrópolis, passa a vigorar com a seguinte redação:\n\"Art. 4º - Compete ao Órgão Oficial do Turismo Municipal, subsidiado pelo COMTUR - Conselho Municipal de Turismo, realizar, através de indicadores nacional e regionalmente compatíveis, o acompanhamento e a avaliação da execução do Plano, que terá a duração de 13 (treze) anos, com início em 2010 e término em 2022.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° - Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 02 de Julho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.147, de 2 de julho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08143",
+   "short": "Lei 8143/2021",
+   "title": "Lei nº 8.143, de 17 de junho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/31",
+   "first_law": "lei-2021-08143",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-06-18",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/31/l8143-2021.pdf",
+     "sha256": "0aa67821efc35bad72de90ab6bafbad2f2a80e3e0b2326f885e4d33ea2731992",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.143 DE 17 DE JUNHO DE 2021 TORNA OBRIGATÓRIO O TESTE DO CORAÇÃOZINHO OXIMETRIA DE PULSO EM RECÉM NASCIDO APÓS O NASCIMENTO ENTRE 24 E 48 HORAS DE VIDA NA REDE DE SAÚDE PÚBLICA E PRIVADA DO MUNICÍPIO DE PETRÓPOLIS RJ E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Institui a obrigatoriedade de realizarem o Teste do Coraçãozinho - Oximetria de Pulso - em recém-nascido, após o nascimento, entre 24 e 48 horas de vida, nas maternidades e hospitais da rede de saúde pública e privada do Município de Petrópolis-RJ.\nParágrafo único - Esta Lei aplica-se, também, nos casos de bebês nascidos fora do ambiente hospitalar, que deverão ser encaminhados à rede de saúde para realização do referido teste.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O exame deverá ser realizado por profissional especializado, devidamente habilitado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O teste não terá nenhum ônus aos pais ou responsáveis pela criança, uma vez que esse procedimento já possui cobertura estabelecida dentro do programa de assistência neonatal do Sistema Único de Saúde - SUS.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O Poder Executivo regulamentará esta Lei, no prazo de 60 (sessenta) dias a contar da data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta Lei entrará em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 17 de junho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.143, de 17 de junho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08142",
+   "short": "Lei 8142/2021",
+   "title": "Lei nº 8.142, de 10 de junho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/36",
+   "first_law": "lei-2021-08142",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-06-11",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/36/l8142-2021.pdf",
+     "sha256": "5636cb278e1df6739be3067ba13f5deedb9f0569e3b59c295a8bf790e6ea74ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.142 DE 10 DE JUNHO DE 2021 DISPÕE SOBRE A REESTRUTURAÇÃO DO CONSELHO MUNICIPAL DE ACOMPANHAMENTO E CONTROLE SOCIAL DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO, EM CONFORMIDADE COM O ARTIGO 212-A DA CONSTITUIÇÃO FEDERAL, REGULAMENTADO NA FORMA DA LEI FEDERAL Nº 14.113, DE 25 DE DEZEMBRO DE 2020 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - O Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação no Município de Petrópolis, criado nos termos da Lei nº 6.421, de 27 de dezembro de 2007, em conformidade com o Artigo 212-A da Constituição Federal, regulamentado na forma da Lei Federal nº 14.113, 25 de dezembro de 2020, fica reestruturado de acordo com as disposições desta lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O CMACS-FUNDEB tem por finalidade proceder ao acompanhamento e ao controle social sobre a distribuição, a transferência e a aplicação dos recursos do Fundo, com organização e ação independentes e em harmonia com os órgãos da Administração Pública Municipal, competindo-lhe:\nI - elaborar parecer sobre as prestações de contas, conforme previsto no parágrafo único do art. 31 da Lei Federal nº 14.113, de 2020;\nII - supervisionar o censo escolar anual e a elaboração da proposta orçamentária anual, objetivando concorrer para o regular e tempestivo tratamento e encaminhamento dos dados estatísticos e financeiros que alicerçam a operacionalização do Fundo;\nIII - acompanhar a aplicação dos recursos federais transferidos à conta do Programa Nacional de Apoio ao Transporte do Escolar - PNATE e do Programa de Apoio aos Sistemas de Ensino para Atendimento à Educação de Jovens e Adultos - PEJA;\nIV - acompanhar a aplicação dos recursos federais transferidos à conta dos programas nacionais do Governo Federal em andamento no Município;\nV - receber e analisar as prestações de contas referentes aos programas referidos nos incisos III e IV do \"caput\" deste artigo, formulando pareceres conclusivos acerca da aplicação desses recursos e encaminhando-os ao Fundo Nacional de Desenvolvimento da Educação - FNDE;\nVI - examinar os registros contábeis e demonstrativos gerenciais mensais e atualizados relativos aos recursos repassados ou retidos à conta do Fundo;\nVII - criar ou atualizar o regimento interno, observado o disposto nesta lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O CMACS-FUNDEB poderá, sempre que julgar conveniente:\nI - apresentar, ao Poder Legislativo e aos órgãos de controle interno e externo, manifestação formal acerca dos registros contábeis e dos demonstrativos gerenciais do Fundo, dando ampla transparência ao documento em sítio da internet;\nESTADO DO RIO DE JANEIRO Publicada 11/06/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\nII - convocar, por decisão da maioria de seus membros, o Secretário Municipal de Educação ou Servidor equivalente para prestar esclarecimentos acerca do fluxo de recursos e da execução das despesas do Fundo, devendo a autoridade convocada apresentar-se em prazo não superior a 30 (trinta) dias;\nIII - requisitar ao Poder Executivo cópia de documentos, com prazo para fornecimento não superior a 20 (vinte) dias, referentes a:\na) licitação, empenho, liquidação e pagamento de obras e de serviços custeados com recursos do Fundo;\nb) folhas de pagamento dos profissionais da educação, com a discriminação dos servidores em efetivo exercício na educação básica e a indicação do respectivo nível, modalidade ou tipo de estabelecimento a que se encontrarem vinculados;\nc) convênios/parcerias com as instituições comunitárias, confessionais ou filantrópicas sem fins lucrativos;\nd) outras informações necessárias ao desempenho de suas funções;\nIV - realizar visitas para verificar, \"in loco\", entre outras questões pertinentes:\na) o desenvolvimento regular de obras e serviços realizados pelas instituições escolares com recursos do Fundo;\nb) a adequação do serviço de transporte escolar;\nc) a utilização, em benefício do sistema de ensino, de bens adquiridos com recursos do Fundo para esse fim.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - A fiscalização e o controle do cumprimento do disposto no Art. 212-A da Constituição Federal e nesta lei, especialmente em relação à aplicação da totalidade dos recursos do Fundo, serão exercidos pelo CMACS-FUNDEB.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - O CMACS-FUNDEB deverá elaborar e apresentar ao Poder Executivo parecer referente à prestação de contas dos recursos do Fundo.\nParágrafo único - O parecer deve ser apresentado ao Poder Público Municipal em até 30 (trinta) dias antes do vencimento do prazo de apresentação da prestação de contas pelo Poder Executivo ao Tribunal de Contas do Estado.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º - O CMACS-FUNDEB será constituído por:\nI - membros titulares, na seguinte conformidade:\na) 2 (dois) representantes do Poder Executivo, sendo pelo menos 1 (um) deles da Secretaria Municipal de Educação;\nb) 1 (um) representante dos professores da educação básica pública do Município;\nc) 1 (um) representante dos diretores das escolas básicas públicas do Município;\nd) 1 (um) representante dos servidores técnico-administrativos das escolas básicas públicas do Município;\ne) 2 (dois) representantes dos pais/responsáveis de alunos da educação básica pública do Município;\nf) 2 (dois) representantes dos estudantes da educação básica pública do Município, devendo 1 (um) deles ser indicado pela entidade de estudantes secundaristas;\ng) 2 (dois) representantes do Conselho Municipal de Educação - COMED;\nh) 1 (um) representante do Conselho Tutelar, previsto na Lei Federal nº 8.069, de 13 de julho de 1990 - Estatuto da Criança e do Adolescente, indicado por seus pares;\ni) 2 (dois) representantes de organizações da sociedade civil;\nj) 1 (um) representante das escolas do campo;\nk) 1 (um) representante das escolas quilombolas.\nl) 1 (um) representante do poder legislativo municipal;\n§1º - Os Conselheiros de que trata os incisos I e II deste artigo deverão guardar vínculo formal com os segmentos que representam, devendo esta condição constituir-se como pré-requisito à participação no processo eletivo do Presidente;\n§2º - Para fins da representação referida na alínea \"i\" do inciso I do \"caput\" deste artigo, as organizações da sociedade civil deverão atender as seguintes condições:\nI - ser pessoa jurídica de direito privado sem fins lucrativos, nos termos da Lei Federal nº 13.019, de 31 de julho de 2014;\nII - desenvolver atividades direcionadas ao Município de Petrópolis;\nIII - estar em funcionamento há, no mínimo, 1 (um) ano da data de publicação do edital;\nIV - desenvolver atividades relacionadas à educação ou ao controle social dos gastos públicos;\nV - não figurar como beneficiária de recursos fiscalizados pelo CMACS-FUNDEB ou como contratada pela Administração a título oneroso.\n§3º - Na hipótese de inexistência de estudantes emancipados, no caso da alínea \"f\" do inciso I do \"caput\" deste artigo, a representação estudantil poderá acompanhar as reuniões do Conselho, com direito a voz.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Ficam impedidos de integrar o CMACS-FUNDEB:\nI - o Prefeito, o Vice-Prefeito e os Secretários Municipais, bem como seus cônjuges e parentes consanguíneos ou afins, até o terceiro grau;\nII - o Tesoureiro, Contador ou Funcionário de empresa de assessoria ou consultoria que prestem serviços relacionados à administração ou ao controle interno dos recursos do Fundo, bem como cônjuges, parentes consanguíneos ou afins desses profissionais, até o terceiro grau;\nIII - estudantes que não sejam emancipados;\nIV - responsáveis por alunos ou representantes da sociedade civil que:\na) exerçam cargos ou funções públicas de livre nomeação e exoneração no âmbito dos órgãos do Poder Executivo;\nb) prestem serviços terceirizados no âmbito do Poder Executivo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - O suplente substituirá o titular do Conselho do FUNDEB nos casos de afastamento temporário ou eventual deste, e assumirá sua vaga temporariamente (até que seja nomeado outro titular) nas hipóteses de afastamento definitivo decorrente de:\nI - desligamento por motivos particulares;\nII - rompimento do vínculo de que trata o §1º do art. 6º; e\nIII - situação de impedimento previsto no art. 7°, incorrida pelo titular no decorrer de seu mandato.\nParágrafo único - Na hipótese em que o conselheiro titular e/ou suplente incorrerem na situação de afastamento definitivo descrito acima, a instituição ou segmento responsável pela indicação deverá indicar novos representantes para o Conselho do FUNDEB.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - Compete ao Poder Executivo designar, por meio de portaria específica, os integrantes dos CMACS-FUNDEB, no prazo de 20 dias antes do fim de seus mandatos da seguinte forma:\nI - nos casos dos representantes do Poder Público Municipal e das entidades de classes organizadas, pelos seus dirigentes;\nII - nos casos dos representantes dos diretores, pais de alunos e estudantes, pelo conjunto dos estabelecimentos ou entidades de âmbito municipal, conforme o caso, em processo eletivo organizado para esse fim, pelos respectivos pares;\nIII - nos casos de representantes de professores e servidores, pelas entidades sindicais da respectiva categoria;\nIV - nos casos de organizações da sociedade civil, em processo eletivo dotado de ampla publicidade, pela Secretaria de Educação, vedada a participação de entidades que figurem como beneficiárias de recursos fiscalizados pelo Conselho ou como contratadas da Administração da localidade a título oneroso.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - O Presidente e o Vice-Presidente do CMACS-FUNDEB serão eleitos por seus pares em reunião do colegiado, nos termos previstos no seu regimento interno.\n§1º - Ficam impedidos de ocupar as funções de Presidente e de Vice-Presidente qualquer representante do Poder Executivo no colegiado.\n§2º - Na hipótese em que o membro que ocupa a função de Presidente do Conselho do FUNDEB incorrer na situação de afastamento definitivo previsto no Art. 8º, a Presidência será ocupada pelo Vice-Presidente.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - A atuação dos membros do CMACS-FUNDEB:\nI - não será remunerada;\nII - será considerada atividade de relevante interesse social;\nIII - assegura isenção da obrigatoriedade de testemunhar sobre informações recebidas ou prestadas em razão do exercício de suas atividades e sobre as pessoas que lhes confiarem ou deles receberem informações;\nIV - será considerada dia de efetivo exercício dos representantes de professores, diretores e servidores das escolas públicas em atividade no Conselho;\nV - veda, no caso dos conselheiros representantes de professores, diretores ou servidores das escolas públicas, no curso do mandato:\na) a exoneração de ofício, demissão do cargo ou emprego sem justa causa ou transferência involuntária do estabelecimento de ensino em que atuam;\nb) o afastamento involuntário e injustificado da condição de conselheiro antes do término do mandato para o qual tenha sido designado;\nVI - veda, no caso dos conselheiros representantes dos estudantes em atividade no Conselho, no curso do mandato, a atribuição de falta injustificada nas atividades escolares, sendo-lhes assegurados os direitos pedagógicos.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 - O primeiro mandato dos Conselheiros do CMACS-FUNDEB, nomeados nos termos desta lei terá vigência até 31 de dezembro de 2022.\nParágrafo único - Caberá aos atuais membros do CMACS-FUNDEB exercer as funções de acompanhamento e de controle previstas na legislação até a assunção dos novos membros do colegiado nomeados nos termos desta lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - A partir de 1º de janeiro do terceiro ano de mandato do Prefeito, o mandato dos membros do CMACS-FUNDEB será de 4 (quatro) anos, vedada a recondução para o próximo mandato.\n§1º - A indicação para os mandatos posteriores ao primeiro, deverá ocorrer em até 20 (vinte) dias antes do término do mandato vigente, para a nomeação dos conselheiros que atuarão no mandato seguinte.\n§2º - Durante o prazo previsto no § 1º deste artigo e antes da posse, os representantes dos segmentos indicados para o mandato subsequente do Conselho deverão se reunir com os membros do Conselho do FUNDEB, cujo mandato está se encerrando, para transferência de documentos e informações de interesse do Conselho.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - As reuniões do CMACS-FUNDEB serão realizadas:\nI - na periodicidade definida pelo regimento interno, respeitada a frequência mínima trimestral, para as reuniões ordinárias;\nII - extraordinariamente, quando convocadas pelo Presidente ou mediante solicitação por escrito de no mínimo, 2/3 (dois terços) dos integrantes do colegiado.\n§1º - As reuniões serão realizadas em primeira convocação, com a maioria simples dos membros do CMACS-FUNDEB ou, em segunda convocação, 30 (trinta) minutos após, com os membros presentes.\n§2º - As deliberações serão aprovadas pela maioria dos membros presentes, cabendo ao Presidente o voto de qualidade nos casos em que o julgamento depender de desempate.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15 - O sítio na internet contendo informações atualizadas sobre a composição e o funcionamento do CMACS-FUNDEB terá continuidade com a inclusão:\nI - dos nomes dos Conselheiros e das entidades ou segmentos que representam;\nII - do correio eletrônico ou outro canal de contato direto com o Conselho;\nIII - das atas de reuniões;\nIV - dos relatórios e pareceres;\nV - outros documentos produzidos pelo Conselho.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - Caberá ao Poder Executivo, com vistas à execução plena das competências do CMACS-FUNDEB, assegurar:\nI - infraestrutura, condições materiais e equipamentos adequados e local para realização de suas competências;\nII - um servidor do quadro efetivo municipal para atuar como Secretário Executivo do Conselho;\nIII - oferecer ao Ministério da Educação os dados cadastrais relativos a sua criação e composição.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - O regimento interno do CMACS-FUNDEB deverá ser criado ou atualizado e aprovado no prazo máximo de até 30 (trinta) dias após a posse dos Conselheiros.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - O Conselho atuará com autonomia, sem vinculação ou subordinação institucional ao Poder Executivo local.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Os casos omissos na presente Lei obedecerão às disposições da Lei nº. 14.113/2020.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20 - Esta lei entrará em vigor na data de sua publicação, revogada as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 10 de junho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.142, de 10 de junho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08141",
+   "short": "Lei 8141/2021",
+   "title": "Lei nº 8.141, de 2 de junho de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/37",
+   "first_law": "lei-2021-08141",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-06-07",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/37/l8141-2021.pdf",
+     "sha256": "86a21cafe830dc09143e34b80a6a769026121854597c615b0d415cc704f19ef1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.141 DE 02 DE JUNHO DE 2021 DISPÕE SOBRE A CRIAÇÃO DO CONSELHO MUNICIPAL DE JUVENTUDE, REVOGA A LEI MUNICIPAL Nº 6.313, DE 15 DE DEZEMBRO DE 2005 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\nArt. 1º - Fica criado, no âmbito do Município de Petrópolis, o Conselho Municipal da Juventude (CMJ) vinculado à Coordenadoria de Políticas Especiais para a Juventude da Prefeitura de Petrópolis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - O Conselho Municipal é um órgão de caráter consultivo, deliberativo, permanente e suas resoluções têm caráter normativo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - O Conselho Municipal da Juventude é organizado de forma tripartite c tem por finalidade regulamentar, contribuir e fiscalizar as políticas para a juventude, implementadas pelo município de Petrópolis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O Conselho Municipal da Juventude - CMJ objetiva assegurar a participação popular da juventude na definição das políticas destinadas a desenvolver a população na faixa etária dos 16 (dezesseis) aos 29 (vinte e nove) anos de idade.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DA COMPETÊNCIA\nArt. 5º - Compete ao Conselho Municipal da Juventude:\nI - formular a política municipal de juventude, a partir das Diretrizes da Conferência Municipal de Juventude;\nII - deliberar sobre a política municipal de juventude;\nIII - estabelecer diretrizes, aprovar programas anuais de juventude e encaminhar sugestões para a elaboração do Plano Plurianual de Governo, e na Lei de Diretrizes Orçamentárias - LDO, no que concerne à elaboração de recursos para as políticas públicas destinadas à juventude;\nIV - discutir e debater planos de ação, programas, projetos e outras iniciativas voltadas pata juventude;\nV - opinar, contribuir, acompanhar e fiscalizar as ações voltadas à juventude, desenvolvidas pelo governo municipal;\nVI - realizar estudos e pesquisas voltadas à identificação de problemas, desafios e oportunidades relevantes na área da juventude;\nVII - avaliar, fiscalizar e acompanhar os gastos sociais c desempenho dos programas e projetos aprovados em favor da juventude do Município de Petrópolis;\nVIII- criar o cadastro de entidades que desenvolvem programas, projetos e pesquisas na área da juventude, e contribuir para articulação destas ações;\nESTADO DO RIO DE JANEIRO Publicada 07/06/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\nIX - propor ações de proteção e promoção dos direitos da juventude;\nX - convocar, extraordinariamente, a Conferência Municipal de Juventude, quando julgar necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO II DA COMPOSIÇÃO\nArt. 6º - O Conselho Municipal da Juventude será constituído por representantes das Entidades Juvenis, Órgãos do Poder Público Municipal e de Organizações Não Governamentais sem Fins Econômicos representando a Sociedade Civil, com ações juvenis, sediadas ou com atuação comprovada na área geográfica do Município de Petrópolis.\n§1º - O Conselho Municipal da Juventude será tripartite e composto por 20 (vinte) membros titulares e cada qual com os respectivos suplentes, sendo 07 (sete) representantes das Entidades Juvenis, 10 (dez) representantes do Poder Público Municipal, e 03 (três) representantes da Sociedade Civil sem fins econômicos, que comprovadamente trabalhem com ações voltadas para a juventude.\n§2º - Para efeitos dessa Lei, entende-se por Sociedade Civil as Associações, Fundações, Organizações não Governamentais - ONGs, organizações religiosas, sem fins econômicos, legitimamente constituídas, ou seja, tendo Ata de posse ou nomeação dos representantes legais registrada em cartório, Estatuto Social, Razão Social ou ato constitutivo, comede na cidade de Petrópolis, tendo ao menos 01 (um) ano de funcionamento comprovado, ou Instituições Estaduais e Nacionais, legitimamente constituídas, ou seja, tendo Ata de posse ou nomeação dos representantes legais, Estatuto Social ou Razão Social que tenham atuação comprovada há mais de 02 (dois) anos no Município de Petrópolis.\n§3º - Para efeitos dessa Lei, entende-se por Entidades Juvenis as Associações, Fundações, Organizações não Governamentais - ONGs e organizações religiosas, sem fins econômicos, legitimamente constituídas, ou seja, tendo Ata de posse ou nomeação dos representantes legais, que obrigatoriamente são compostas, dirigidas e organizadas por jovens de 16 (dezesseis) a 29 (vinte e nove) anos, com sede na cidade de Petrópolis, constituídas há mais de 01 (um) ano, ou Instituições Estaduais e Nacionais, legitimamente constituídas, ou seja, tendo Ata de posse ou nomeação dos representantes legais, que tenha atuação comprovada há mais de 02 (dois) anos no Município de Petrópolis.\n$4º - Os Conselheiros titulares e suplentes das Entidades Juvenis deverão ter entre 16 (dezesseis) e 29 (vinte e nove) anos, não estando os demais representantes da Sociedade Civil sujeitos a este limite etário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º - Os Conselheiros da Sociedade Civil e das Entidades Juvenis serão eleitos na Conferência Municipal de Juventude para um mandato de 02 (dois) anos, permitida uma única recondução.\n§1º - Após a eleição dos representantes descritos no caput desse artigo, será publicada, em até 10 (dez) dias do Diário Oficial do Município, a nomeação de todos os membros da Sociedade Civil e das Entidades Juvenis que irão compor o Conselho Municipal de Juventude.\n§2º - À indicação dos representantes do Poder Público será feita pelo Chefe do Poder Executivo.\n$3º - O mandato dos Conselheiros do Poder Público coincidirá com o mandato do Chefe do Poder Executivo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º - O Poder Público Municipal terá as seguintes representações:\nI - 01 (um) representante da Coordenadoria de Políticas para a Juventude;\nII - 02 (dois) representantes da Secretaria de Assistência Social;\nIII - 01 (um) representante titular e suplente da Secretaria de Esportes, Promoção da Saúde, Juventude, Idoso e Lazer;\nIV - 02 (dois) representantes da Secretaria de Educação;\nV - 02 (dois) representantes do Instituto Municipal de Cultura;\nVI - 01 (um) representante do Gabinete do Prefeito;\nVII - 01 (um) representante da Secretaria de Meio Ambiente.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º - O Conselho Municipal da Juventude terá as seguintes instâncias:\nI - Plenário;\nII - Mesa Diretora;\nIII - Comissões.\n§1º - O Plenário é o órgão máximo, composto pelos membros efetivos, sendo responsável pelas decisões do Conselho Municipal da Juventude - CMJ.\n§2º - À Mesa Diretora é o órgão responsável pela execução das decisões do Conselho e será constituída por 01 (um) presidente, 01 (um) vice-presidente e 01 (um) secretário, escolhidos por meio de processo eletivo entre os membros do Conselho.\n§3º - À presidência e vice-presidência serão sempre em regime de alternância entre Poder Público e Sociedade Civil/ Entidades Juvenis.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 - As normas de funcionamento do Conselho Municipal da Juventude - CMJ, serão definidas em seu Regimento Interno, que deverá ser aprovado em Assembleia, pela metade mais 01 (um) de seus membros c sua publicação deve ser feita em até 10 (dez) dias da sua aprovação.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11 - As Comissões descritas no inciso III do artigo 9º desta Lei, serão compostas por conselheiros escolhidos dentre os membros titulares do Conselho Municipal da Juventude - CMJ, definidas em Regimento Interno e aprovada pelo Plenário.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO IV DO FUNCIONAMENTO\nArt. 12 - O CMJ reunir-se-á em Assembleia Geral Ordinária, 01 (uma) vez por mês e extraordinariamente, em data a ser definida, conforme seu Regimento Interno.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13 - Será destituído automaticamente o representante governamental que deixar de comparecer a 03 (três) reuniões consecutivas ou 05 (cinco) reuniões intercaladas no período de 12 (doze) meses, sem justificativa plausível e aceita pelo Plenário do CMJ, devendo o Conselho remeter carta ao Chefe do Executivo para que o mesmo proceda a substituição.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14 - Será destituída automaticamente, a Entidade Juvenil ou Sociedade Civil Sem Fins Econômicos, que deixar de comparecer a 03 (três) reuniões consecutivas ou 05 (cinco) reuniões intercaladas, no período de 12 (doze) meses, sem justificativa plausível e aceita pelo Plenário do CMJ, e será substituída por outra da mesma categoria através de nova eleição a ser realizada pela própria categoria, especificamente convocada pelo CMJ pata este fim.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## CAPÍTULO V DA CONFERÊNCIA MUNICIPAL DE JUVENTUDE\nArt. 15 - A Conferência Municipal de Juventude será convocada a cada 02 (dois) anos pelo Chefe do Poder Executivo de Petrópolis, em comum acordo com o Conselho Municipal de Juventude, com ampla divulgação para garantir a participação da sociedade.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16 - O CMJ deverá convocar a Conferência Municipal de Juventude, nos casos em que o Poder Executivo deixar de convocá-la.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17 - A organização da Conferência Municipal de Juventude dar-se-á por meio da Comissão Organizadora formada e instituída pelo CMJ, tendo representantes dos três segmentos, respeitando a paridade deste Conselho, e sua composição deverá ser publicada no Diário Oficial do Município.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18 - O Poder Executivo Municipal garantirá as condições necessárias materiais, organizativos e logística para a Conferência Municipal de Juventude.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19 - Caberá à Comissão Organizadora a elaboração do Regimento Interno da Conferência Municipal de Juventude, o qual deverá ser aprovado em Plenário pela maioria simples dos conselheiros presentes e publicado em Diário Oficial do Município pelo menos 30 (trinta) dias antes da realização da Conferência.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## CAPÍTULO VI DAS DISPOSIÇÕES GERAIS\nArt. 20 - É permitido aos conselheiros do Conselho Municipal da Juventude o livre acesso aos planos, programas, projetos e unidade de juventude ou que tenha abrangência juvenil, pata exercer o poder fiscalizador.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21 - Os membros do Conselho Municipal da Juventude não serão remunerados, sendo considerado de relevante serviço público a sua participação nas atividades do Conselho, portanto, garantindo a dispensa do trabalho sem prejuízo para o conselheiro.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22 - O Poder Executivo Municipal garantirá os meios e recursos necessários para a implantação e funcionamento regular e permanente do Conselho Municipal da Juventude.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23 - O Conselho Municipal da Juventude elaborará e aprovará o seu Regimento Interno e plano de trabalho em até 60 (sessenta) dias a contar da data de publicação da presente Lei e publicado em Diário Oficial do Município, após aprovado pelo Plenário do Conselho Municipal da Juventude.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 - Fica criada a Comissão de Orçamento, Finanças e Fiscalização para análise e aprovação de projetos.\n§1º - A Comissão de Orçamento, Finanças e Fiscalização será composta por 06 (seis) membros, de forma paritária, a serem nomeados através de resolução do CMJ.\n§2º - Todo e qualquer trabalho da Comissão de Orçamento, Finanças e fiscalização deverá ser submetido à Plenária do CMJ, para sua aprovação.\n§3º - A Comissão de que trata o caput deste artigo tem caráter permanente.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25 - Fica instituído o Fundo Municipal de Juventude - FUMJ, como captador e aplicador de recursos a serem utilizados segundo as deliberações da Comissão de Orçamento, Finanças e Fiscalização, nos termos do artigo 24 e parágrafos.\n§1º - O FUMJ será regulamentado por Resolução expedida pela CMJ no prazo de 90 (noventa) dias a contar da data de publicação desta Lei.\n§2º - Constará da Lei Orçamentária Municipal previsão dos recursos necessários 20 funcionamento do CMJ, do Fundo Municipal de Juventude - FUMJ.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26 - Constituem fontes de receitas para o Fundo Municipal de Juventude- FUMJ:\nI - recursos transferidos que lhe forem consignados pelo Município;\nII - recursos transferidos ao FUMJ, pelo Estado ou pela União;\nIII - recursos provenientes de doações de pessoas físicas, jurídicas, públicas ou privadas, e de organismos nacionais e internacionais.\n§1º - Os recursos previstos neste artigo serão administrados, diretamente, pelo FUMJ e aplicados, exclusivamente, em operações e execuções de programas compatíveis com os seus objetivos, em atendimento às diretrizes emanadas do CMJ.\n§2º - Para a movimentação dos recursos do FUMJ, assinarão cheques e demais títulos de crédito o Presidente e o Vice-Presidente do CMJ, sempre em conjunto, podendo eventualmente, ser substituídos por suplentes, através de delegação prévia c expressa, mantida a paridade na escolha dos mesmos.\n§3º- No caso de perda ou renúncia de mandato de um ou mais titulares, será efetivada a devida prestação de contas em 3 (três) dias úteis, a contar do dia da publicação em Diário Oficial.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27 - Todos os recursos e recolhimentos previstos no artigo 26 desta Lei serão depositados em conta especial a ser aberta em nome do FUMJ, em estabelecimento bancário oficial.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28 - Mensalmente, será procedida a contabilização de toda a receita a despesa do FUMJ, através de balancete.\nParágrafo único - No encerramento do Exercício Financeiro, fixado de 01 de janeiro a 31 de dezembro de cada ano, proceder-se-á à devida prestação de contas do FUMJ, perante o CMJ, através de Balanço Geral.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29 - Fica revogada a Lei Municipal nº 6.313 de 15 de dezembro de 2005.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30 - Esta Lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 02 de junho de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.141, de 2 de junho de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08140",
+   "short": "Lei 8140/2021",
+   "title": "Lei nº 8.140, de 20 de maio de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/38",
+   "first_law": "lei-2021-08140",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-05-20",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/38/l8140-2021.pdf",
+     "sha256": "e59850d8890342583c78edac2c2b2fafe9d5ea5028995b95c7f1625c432acecc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.140 DE 20 DE MAIO DE 2021 ALTERA A LEI COMPLEMENTAR Nº 8.138, DE 18 DE MAIO DE 2021 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Esta Lei altera dispositivos da Lei Complementar nº 8.138, 18 de maio de 2021.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Fica alterado o parágrafo 6º do artigo 1º da Lei Complementar nº 8.138, de 18 de maio de 2021, que passa a vigorar com a seguinte redação:\n\"Art.1º-..................................................................\n...............................................................................\n§6º- A contribuição de que trata esse artigo, incidirá somente sobre as verbas tributáveis, deixando de recair sobre o que não é incorporável aos proventos de cada servidor, como as verbas de RETH, gratificações específicas de cada PCCS.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 20 de Maio de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.140, de 20 de maio de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08137",
+   "short": "Lei 8137/2021",
+   "title": "Lei nº 8.137, de 12 de maio de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/35",
+   "first_law": "lei-2021-08137",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/35/l8137-2021.pdf",
+     "sha256": "2ad4b40f6146c91608ea819838b02e88f51f665485983a28e880354fe15b20a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.137 DE 12 DE MAIO DE 2021 INSTITUI MULTA ADMINISTRATIVA PARA INFRATORES DAS NORMAS SANITÁRIAS DE ENFRENTAMENTO À COVID 19 E DÁ OUTRAS PROVIDÊNCIAS\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída multa administrativa para pessoas físicas que infrinjam as normas sanitárias de enfrentamento da covid-19, nos termos dos decretos publicados pelo Poder Executivo, municipal ou estadual, pela realização das chamadas festas ou eventos clandestinos no município de Petrópolis.\nParágrafo único. Nos termos desta Lei, entende-se como festas ou eventos clandestinos aqueles caracterizados pela venda de convites ou ingressos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A multa administrativa instituída por essa Lei será de:\nI - 10 UFPE's para o proprietário do imóvel ou organizador do evento, compreendido no parágrafo único do art. 1º.\nII - 5 UFPE's para aqueles que estiverem participando das festas ou eventos clandestinos, conforme parágrafo único do art. 1º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - A aplicação das sanções previstas nesta Lei não prejudicará a aplicação de sanções outras previstas em lei.\n"
+      },
+      "art-0004": {
+       "label": "Art 4º",
+       "kind": "article",
+       "text": "Art 4º O Poder Executivo poderá regulamentar a presente Lei no que couber.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5°",
+       "kind": "article",
+       "text": "Art. 5° - Esta lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 13 de maio de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.137, de 12 de maio de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08135",
+   "short": "Lei 8135/2021",
+   "title": "Lei nº 8.135, de 12 de maio de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/33",
+   "first_law": "lei-2021-08135",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-05-13",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/33/l8135-2021.pdf",
+     "sha256": "3cd5edb9aaa5069dd94dd3b9082e88b52b14dde6a534af89da56944dbdb3e49e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.135 DE 12 DE MAIO DE 2021 ALTERA A LEI MUNICIPAL Nº 7.681, DE 06 DE JULHO DE 2018 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica alterado o artigo 4º da Lei Municipal nº 7.681, de 06 de julho de 2018 e acrescido os\nParágrafos 2º e 3º ao dispositivo citado, que passam a vigorar com a seguinte redação:\n\"Art. 4º - O valor do Auxílio Aluguel Social corresponderá a R$ 550,00 (quinhentos e cinquenta reais).\n§ 1º - Na hipótese do aluguel mensal contratado ser superior ao valor do benefício, o pagamento da diferença ficará sob responsabilidade do beneficiário.\n§ 2º - O Poder Executivo criará através de Decreto uma Comissão que ficará com o encargo de apresentar, ao menos anualmente, um estudo sobre a realidade do mercado imobiliário, justificando, eventual necessidade de reajuste do valor do Auxílio Aluguel.\n§ 3º - A comissão que se refere ao parágrafo anterior será necessariamente composta por representantes das famílias beneficiárias diretamente pelo programa, não podendo ser substituída por qualquer outra forma de representação, respeitada a proporcionalidade com o poder público.\n§4º - O valor do Auxílio Aluguel estipulado nessa Lei poderá ser alterado na hipótese da comissão criada para esse fim, apresentar um estudo que demonstre de forma contundente a necessidade de reajuste do valor, a fim de atender o valor de mercado.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 13 de maio de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.135, de 12 de maio de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08134",
+   "short": "Lei 8134/2021",
+   "title": "Lei nº 8.134, de 7 de maio de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/32",
+   "first_law": "lei-2021-08134",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-05-10",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/32/l8134-2021.pdf",
+     "sha256": "15f94ed73f4904b7cf13b2ac205b5c90f77acfe61b55fa2a1205c24d04ae26ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº8.134 DE 07 DE MAIO DE 2021 DISPÕE SOBRE A OBRIGATORIEDADE DA VISIBILIDADE DO PROCESSO DE VACINAÇÃO NO MUNICÍPIO DE PETRÓPOLIS E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica determinado no Município de Petrópolis a obrigatoriedade de visibilidade no processo de vacinação, segundo os critérios de saúde pública.\n§1º - Os profissionais habilitados para a ministração de medicamentos de imunizações relacionadas às vacinas no Município de Petrópolis ficam obrigados ao seguinte protocolo:\nI - Apresentar ampola de vacinação devidamente preenchida pelo líquido a ser aplicado.\nII - Apresentar seringa descartável, devidamente preenchida pelo medicamento para o paciente e/ou tutor em casos específicos.\nIII - Após a aplicação, apresentar seringa descartável vazia, comprovando que o medicamento foi devidamente aplicado no paciente.\nIV - Quando solicitado, apresentar número de lote, data de validade e laboratório que é produtor do medicamento.\nV - (VETADO)\n§2º - Consideram-se pacientes, para efeito desta lei, todos os que se submetem ao processo de imunização, sendo em campanhas de vacinação nacional ou até mesmo por iniciativa própria e particular.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Esta lei entra em vigor na data de sua publicação.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 07 de maio de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.134, de 7 de maio de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08132",
+   "short": "Lei 8132/2021",
+   "title": "Lei nº 8.132, de 29 de abril de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/23",
+   "first_law": "lei-2021-08132",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-04-29",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/23/l8132-2021.pdf",
+     "sha256": "878347744cc45dc95d99dd3fefa505a47cdf7620198d1ed75393cce157a5544b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 8.132 DE 29 DE ABRIL DE 2021 DISPÕE SOBRE A PERMISSÃO DE CONTRATAÇÃO TEMPORÁRIA DE PESSOAS NATURAIS, PELAS EMPRESAS PÚBLICAS DO MUNICÍPIO DE PETRÓPOLIS, COMO MEDIDA PARA AUXILIAR NAS EXECUÇÕES DAS ATIVIDADES ESSENCIAIS E QUE NÃO PERMITEM PARALISAÇÃO, EM RAZÃO DA SITUAÇÃO EXCEPCIONAL GERADA PELA PANDEMIA DO NOVO CORONAVÍRUS - COVID-19 E DÁ OUTRAS PROVIDÊNCIAS.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Ficam as empresas públicas do Município de Petrópolis autorizadas a contratar pessoal, mediante processo seletivo simplificado, por prazo determinado, para atender a necessidade temporária de preenchimento de cargos efetivos vagos na ausência de candidatos aprovados em concurso público, e/ou em razão do afastamento de profissionais por conta do CORONAVÍRUS, respeitados os princípios da impessoalidade, moralidade, publicidade e eficiência.\n§ 1º - Verificada a existência de cargos vagos sem candidatos aprovados em concurso, a empresa pública e a sociedade anônima de economia mista deverão adotar as medidas necessárias para a realização de concurso público para o provimento efetivo de tais cargos.\n§ 2º - Ficam as empresas públicas e sociedade anônima de economia mista autorizadas a realizar concursos públicos para formação de quadros de reserva, mesmo para cargos ocupados na época da realização deste concurso, seguindo as normas de concurso público aplicáveis ao caso.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - A contratação de que trata o artigo 1º desta Lei será pelo regime jurídico aplicável as empresas públicas.\nParágrafo único - A formalização do contrato temporário fica condicionada à prévia consulta ao cadastro de vínculos de servidor, disponível no sítio eletrônico do Tribunal de Contas do Estado do Rio de Janeiro ou de outro órgão oficial que venha a ser criado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - As contratações poderão ser feitas por tempo determinado de até 45 (quarenta e cinco) dias, prorrogáveis até completar o total de 90 dias (noventa) dias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º - O contrato firmado de acordo com esta Lei extinguir-se-á:\nI - pelo término do prazo contratual e respectivas prorrogações;\nII - por iniciativa do contratado;\nIII - pela conclusão de concurso público e até a entrada em exercício dos respectivos aprovados.\nParágrafo único - Na hipótese do inciso III deste artigo, o contratado terá direito de perceber o correspondente à metade do prazo do contrato a vencer, limitado ao máximo de 30 (trinta) dias.\nESTADO DO RIO DE JANEIRO Publicada 29/04/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 05 de maio de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.132, de 29 de abril de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2021-08131",
+   "short": "Lei 8131/2021",
+   "title": "Lei nº 8.131, de 20 de abril de 2021",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/19",
+   "first_law": "lei-2021-08131",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2021-04-20",
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2021/19/l8131-2021.pdf",
+     "sha256": "4a22efd0367c71df652645eac2d25b37fa5bc9f82051c783029b76c621c1caff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº8.131 DE 20 DE ABRIL DE 2021 DISPÕE SOBRE A CRIAÇÃO DE AÇÃO ORÇAMENTÁRIA PARA MELHOR CLASSIFICAÇÃO DAS DESPESAS COM PUBLICIDADE INSTITUCIONAL.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º - Fica criada a ação orçamentária \"Despesas com publicidade institucional e com utilidade pública\" no âmbito do Programa Temático \"Participação e Controle Social - código nº 2.004\", no Plano Plurianual para o quadriênio 2018-2021, Lei Municipal nº 7.624 de 27 de dezembro de 2017.\n§1º - O objetivo da ação é garantir maior transparência, segurança jurídica e contábil aos gestores quanto à gestão dos recursos empregados para as despesas com publicidade institucional e de utilidade pública, inclusive quando for produzida ou veiculada por órgão ou entidade integrante da administração pública, nos termos da Lei Federal nº 12.232/2010.\n§2º - A Unidade Gestora quantificará as metas fiscais, físicas e financeiras, atingidas com a utilização da referida Ação Orçamentária quando da prestação de contas e da avaliação do Plano Plurianual.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º - Fica incluída a ação orçamentária \"Despesas com publicidade institucional e de utilidade pública\" no âmbito do Programa Temático \"Participação e Controle Social - código nº 2.004\", do Gabinete do Prefeito, na Lei Orçamentária Anual para o Exercício Financeiro de 2021, Lei Municipal nº 8.090 de 31 de dezembro de 2020;\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º - Fica o Poder Executivo autorizado a abrir Crédito Especial ao orçamento do exercício financeiro de 2021, obedecendo o artigo 43 da Lei Federal 4.320, de 1964.\n§ 1º - Fica o Município autorizado a detalhar o funcional programático e os elementos de despesas necessários a melhor classificação da despesa, respeitando-se as normatizações correlatas, na oportunidade da abertura do Crédito Adicional.\n§2º - O Município indicará a Fonte de Recursos na oportunidade da Abertura do Crédito Adicional.\n§3º - Fica o Município autorizado a detalhar os subelementos de despesa - subitem da natureza da despesa, nos termos do §5º, do artigo 3°, da Portaria Interministerial STN/SOF nº 163, de 2001, da seguinte forma:\na) Publicidade e Propaganda;\nb) Publicidade Legal;\nc) Publicidade Mercadológica;\nESTADO DO RIO DE JANEIRO PUBLICADA: 20/04/2021 CÂMARA MUNICIPAL DE PETRÓPOLIS\nd) Publicidade Institucional;\ne) Patrocínio;\nf) Publicidade de Utilidade Pública.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4 º",
+       "kind": "article",
+       "text": "Art. 4 º - Os valores provenientes do presente crédito especial não oneram o limite autorizado no artigo 12 da Lei Municipal nº 8.090, de 31 de dezembro de 2020.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\nMando, portanto, a todos a quem o conhecimento da presente Lei competir, que a executem e a façam executar, fiel e inteiramente como nela se contém.\nGabinete do Prefeito de Petrópolis, em 20 de abril de 2021\n"
+      }
+     },
+     "note": "As enacted, from the PDF the Câmara's SAPL holds for Lei nº 8.131, de 20 de abril de 2021; dated by its publication date in SAPL."
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "Each municipal law (\"Lei\" and \"Lei Complementar\") is given as enacted, from the PDF the Câmara's SAPL holds for it, credited to the law itself and dated by the publication date SAPL records for it (else by the law's own date). Later amendments by other laws are not worked into earlier laws: each law is its own file set as enacted. Laws are taken newest first, in parts.",
+  "Left out: scans (with or without an OCR layer), PDFs whose heading does not carry the record's number, texts with no article or no closing date line, texts carrying alteration notes, and laws whose vigência clause sets another day than their publication (or that have none, so that the 45 days of the LINDB apply).",
+  "The text runs from the law's heading to its closing date line (signatures after it are left out); lines repeated at the top or bottom of two or more pages (letterheads, footers) and page numbers are left out. Lines are joined into paragraphs: a new paragraph starts at a provision label, a heading line, or after a line ending in \".\", \";\" or \":\". One file per Art.; \"000-titulo\" holds what comes before the first article."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Câmara's SAPL."
+ ]
+}
