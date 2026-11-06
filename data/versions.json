@@ -4094,6 +4094,76 @@
      "sha256": "f5fdea0aff2cc06b96d0fc5ec4e41e263e95cbdd8ad34d0a6bc8894efb6d8e03"
     }
    ]
+  },
+  {
+   "slug": "lei-2022-08314",
+   "short": "Lei 8314/2022",
+   "title": "Lei nº 8.314, de 3 de maio de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/11026",
+   "versions": [
+    {
+     "from": "2022-05-03",
+     "units": 6,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/11026/lei_8314-2022.pdf",
+     "sha256": "783fc3aa3a291a733e6fe0dbec9458178821fab83a3aca80168c3894a9c904b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08299",
+   "short": "Lei 8299/2022",
+   "title": "Lei nº 8.299, de 11 de março de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/10999",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/10999/lei_8299-2022.pdf",
+     "sha256": "d3c20c393077fdf10f537095b978f3974971f4e6e15aaa5fb0750b6c915f16c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08298",
+   "short": "Lei 8298/2022",
+   "title": "Lei nº 8.298, de 11 de março de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/10998",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 4,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/10998/lei_8298-2022.pdf",
+     "sha256": "4f3a92cce26c95883f1de650d33ee76f64a07fde60c1d190d7fb3869118bea59"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08297",
+   "short": "Lei 8297/2022",
+   "title": "Lei nº 8.297, de 11 de março de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/10997",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 7,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/10997/lei_8297-2022.pdf",
+     "sha256": "2fc40b03a144a9b7b1daf4907332eb65056e6eceba7ebab586216d2c57ab906f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-08296",
+   "short": "Lei 8296/2022",
+   "title": "Lei nº 8.296, de 11 de março de 2022",
+   "url": "https://sapl.petropolis.rj.leg.br/norma/10996",
+   "versions": [
+    {
+     "from": "2022-03-11",
+     "units": 10,
+     "source_url": "https://sapl.petropolis.rj.leg.br/media/sapl/public/normajuridica/2022/10996/lei_8296-2022.pdf",
+     "sha256": "1bb06f901e27ecbc1dbfcba5602bed89b1be995e930b2f2d6703e92fc13e3f42"
+    }
+   ]
   }
  ]
 }
